@@ -1,0 +1,10 @@
+﻿  QuoridorUtils.cpp
+  ConsoleView.cpp
+C:\南\程序设计基础实验\第十~十三周\需要文件\Quoridor\QuoridorUI\ConsoleView.cpp(90,28): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+  LogLoader.cpp
+C:\南\程序设计基础实验\第十~十三周\需要文件\Quoridor\QuoridorUI\csv.h(173,49): warning C4244: “return”: 从“std::streamsize”转换到“int”，可能丢失数据
+C:\南\程序设计基础实验\第十~十三周\需要文件\Quoridor\QuoridorUI\csv.h(189,62): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  QuoridorUI.cpp
+  Replayer.cpp
+  正在生成代码...
+  QuoridorUI.vcxproj -> C:\南\程序设计基础实验\第十~十三周\需要文件\Quoridor\Debug\QuoridorUI.exe

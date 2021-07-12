@@ -1,0 +1,10 @@
+{
+  "network": {
+    "host": "127.0.0.1",
+    "port": 19330
+  },
+  "playerKey": "191220000",
+  "saveLog": true,
+  "gameReplay": false,
+  "gameReplayCmd": "./QuoridorUI %file%"
+} 

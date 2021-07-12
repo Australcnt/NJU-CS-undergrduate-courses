@@ -1,0 +1,74 @@
+【需要提交的作业（ OJ 提交 ）】
+无
+
+【复习】
+课件；教材3.5至3.7
+
+【预习】
+教材4.1、4.2
+
+【阅读】《编码的奥秘》第10~13章（选做）
+
+【训练】
+1. 编程实现用#画斜线段 y = x+1，x、y均定义为int型。（提示：可用嵌套的循环流程实现简单的平面图形的显示 ，外循环控制行数，内循环用分支流程控制空格符与#的输出，每行结束处应回车换行。）
+
+2. 分析下面两个程序片段是否等价：
+（1）
+for(int i=1; i<5; ++i)
+	for(int j=1; j<5; ++j)
+		for (int k=1; k<5; ++k)
+			if (i == k && i == j && j == k)
+					printf("%d, %d, %d \n", i, j, k);
+（2）
+int i=1, j=1, k=1;
+	while(i<5)
+	{	
+		while(j<5)
+		{	
+			while(k<5)
+			{	
+				if (i == k && i == j && j == k)
+					printf("%d, %d, %d \n", i, j, k);
+				++k;
+			}
+			++j;
+		}
+		++i;
+	}
+
+3. 某电商根据客户购买某商品件数n给出不同的折扣率dDiscnt与快递费iShpFee优惠策略。分析下列计算总价的程序片段的缺陷，给出改进方案，并完善程序。
+int n = 0, iShpFee = 10;
+double dUnitPrice = 40.5, dDiscnt = 0;	//dUnitPrice为单价
+scanf("%d", &n);
+if(n <= 0)
+	printf("Error");
+if(n > 0)
+{
+	if(n <= 9)
+		;
+	if(n <= 29)
+		dDiscnt = 0.1;
+	if(n <= 49)
+		dDiscnt = 0.2;
+	if(n > 49)
+	{
+		dDiscnt = 0.2;
+		iShpFee = 0;
+	}
+}
+dAmount = dUnitPrice*n*(1-dDiscnt) + iShpFee;
+printf("Amount RMB: %.2f", dAmount);
+
+4. 设计程序，实现用*号输出一个实心的菱形图案（◆），由用户输入菱形的行数（大于2的奇数）。
+
+5. 设计程序，年、月由用户输入，输出一个如下形式的闰年日历（其中的汉字原样输出）：
+
+2016年8月
+日	一	二	三	四	五	六
+	 1	 2	 3	 4	 5	 6
+7	 8	 9	10	11	12	13
+14	15	16	17	18	19	20
+21	22	23	24	25	26	27
+28	29	30	31
+
+（提示：可按公式 iWeek = ((c/4)-2*c+y+(y/4)+(26*(iMonth+1)/10)+iDay-1) % 7 将某年（iYear）某月（iMonth）的第一日（iDay）换算成星期（iWeek）。公式中：c=iYear/100，c>15；y=iYear%100；当iMonth为1时，iYear改为iYear-1，iMonth改为13；当iMonth为2时，iYear改为iYear-1，iMonth改为14；当iWeek<0时，iWeek改为iWeek+7；iWeek为0表示星期日。）

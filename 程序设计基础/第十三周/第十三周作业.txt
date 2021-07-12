@@ -1,0 +1,36 @@
+【需要提交的作业（ OJ 提交 ）】
+Ex1. 编写程序，输入一系列字符，对其中的“->”进行计数。
+Ex2. 编写一个函数int Squeeze(char s1[], const char s2[])，它从字符串s1中删除所有在s2里出现过的字符，并返回删除的字符个数。
+Ex3. 编写函数FindReplaceStr，其功能是将字符串str中的所有子串find_str都替换成字符串replace_str（其长度与find_str的长度不一定相等），返回值为替换的次数，其原型为：
+int FindReplaceStr(char str[], const char find_str[], const char replace_str[]);
+Ex4. 编程实现对一个只包含字母的字符串进行压缩和解压缩。压缩规则是：假设某连续出现的同一字母的数量为n，则其在压缩字符串中为"n字母"，若n=1则n必须省略，例如，"AAAABCCCCCDDDD "压缩为"A4BC5D4"。解压缩规则是将压缩字符串还原，例如，"A4BC5D4"解压为"AAAABCCCCCDDDD "。
+【复习】
+课件；教材5.2.2、5.5.4、5.5.6、5.5.7、5.6
+【预习】
+教材5.3
+【阅读】《编码的奥秘》第24章
+【训练】
+1. 自行设计小程序，验证：
+（1）程序中'A'与"A"的区别（提示：用sizeof操作符）；
+（2）char str[20] = "%%\t\n\x1a\092i\234s";中数组的长度和字符串常量真正的长度分别是多少？（提示：'\092'不是三位八进制ASCII码的转义符）
+（3）未初始化的字符数组元素默认值是什么？（提示：用%d格式符输出元素的ASCII码）
+2. 设计程序，在输入行（以#结尾）中查找关键字符q，找到则输出其第一次出现的位置，找不到则输出-1。
+3. 编写程序，对输入的一个算术表达式，检查圆括号配对情况，输出：配对、不配对（多左括号、多右括号或左右括号颠倒均算作不配对）。
+4. 改写课件例7.1中的程序，要求用一个独立的函数计算各种字符的个数，并被main函数调用（提示：利用指针型参数将多个计算结果通过传址调用的方式传递给主调函数）。
+5. 已知一段英文密文的加密方法为：对原文中的每个字母，分别用字母表中该字母之后的第5个字母替换（例如，“I WOULD RATHER BE FIRST IN A LITTLE IBERIAN VILLAGE THAN SECOND IN ROME”的密文为“N BTZQI WFYMJW GJ KNWXY NS F QNYYQJ NGJWNFS ANQQFLJ YMFS XJHTSI NS WTRJ”）。编写解密函数。
+6. 设计两个函数，分别实现将一个十进制正整数变换为十进制和二进制字符串。
+7. 将课件例7.4中的“for( ; (*pt) != '\0'; ++pt);”改为：“for(int i = 0; i < 10; ++i, ++pt);”，观察程序的执行结果，并分析原因。
+8. 分析下面Hash函数的功能，并应用该函数实现某班同学的分组。
+Hash函数的代码如下：
+const int HASHSIZE = 10;
+unsigned Hash(char *s)
+{
+    unsigned hashValue;
+    for(hashValue = 0; *s != '\0'; s++)
+		hashValue = *s + 31* hashValue;
+    return hashValue%HASHSIZE;
+}
+9. 不使用库函数，编写StrLen、StrCpy、StrNcpy、StrCat、StrNcat、StrCmp及StrNcmp函数。
+10. 编写函数，将字符数组（对应第一个参数）中的所有子串（对应第二个参数）去除。
+11.（选做） 编程，用动态数组存储用户输入的n个字符串，并按字典顺序重新排序。
+12.（选做） 用命令行方式（参见附录2）运行例7.8中的echomyEcho程序。

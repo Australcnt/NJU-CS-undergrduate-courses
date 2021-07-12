@@ -1,0 +1,142 @@
+评估式：
+if(my_path_min_step_number > 0 && ((double)pow(my_path_min_step_number,9) <= 2 * (double)pow(enemy_block_min_step_number, my_block_left * 0.7)
+        || my_block_min_step_number - my_path_min_step_number >= enemy_block_min_step_number - enemy_path_min_step_number) 
+        && enemy_path_min_step_number > 3)
+
+3
+score_1 = 12.7 * (double)enemy_path_min_step_number + 2.2 * (double)enemy_block_left - 5.7 * (double)my_path_min_step_number - 3.0 * (double)my_block_left;
+score_2 = 7.7 * (double)enemy_block_min_step_number - 2.2 * (double)enemy_block_left - 5.7 * (double)my_block_min_step_number + 4.0 * ((double)my_block_left - 1) + 20.0 * ((double)enemy_block_min_step_number - (double)enemy_path_min_step_number) - 20.0 * ((double)my_block_min_step_number - (double)my_path_min_step_number);
+
+1
+score_1 = 16.7 * (double)enemy_path_min_step_number + 1.2 * (double)enemy_block_left - 5.7 * (double)my_path_min_step_number - 3.0 * (double)my_block_left;
+score_2 = 7.7 * (double)enemy_block_min_step_number - 2.2 * (double)enemy_block_left - 5.7 * (double)my_block_min_step_number + 4.0 * ((double)my_block_left - 1) + 20.0 * ((double)enemy_block_min_step_number - (double)enemy_path_min_step_number) - 20.0 * ((double)my_block_min_step_number - (double)my_path_min_step_number);
+
+2
+score_1 = 18.7 * (double)enemy_path_min_step_number + 1.2 * (double)enemy_block_left - 5.7 * (double)my_path_min_step_number - 3.0 * (double)my_block_left;
+score_2 = 7.7 * (double)enemy_block_min_step_number - 2.2 * (double)enemy_block_left - 5.7 * (double)my_block_min_step_number + 4.0 * ((double)my_block_left - 1) + 20.0 * ((double)enemy_block_min_step_number - (double)enemy_path_min_step_number) - 20.0 * ((double)my_block_min_step_number - (double)my_path_min_step_number);
+
+1.5
+score_1 = 16.2 * (double)enemy_path_min_step_number + 1.2 * (double)enemy_block_left - 5.7 * (double)my_path_min_step_number - 3.0 * (double)my_block_left;
+score_2 = 8.9 * (double)enemy_block_min_step_number - 1.2 * (double)enemy_block_left - 5.7 * (double)my_block_min_step_number + 4.0 * ((double)my_block_left - 1) + 27.0 * ((double)enemy_block_min_step_number - (double)enemy_path_min_step_number) - 27.0 * ((double)my_block_min_step_number - (double)my_path_min_step_number);
+
+0.9
+score_1 = 17.2 * (double)enemy_path_min_step_number + 1.2 * (double)enemy_block_left - 5.7 * (double)my_path_min_step_number - 3.0 * (double)my_block_left;
+score_2 = 9.9 * (double)enemy_block_min_step_number - 1.2 * (double)enemy_block_left - 5.7 * (double)my_block_min_step_number + 4.0 * ((double)my_block_left - 1) + 27.0 * ((double)enemy_block_min_step_number - (double)enemy_path_min_step_number) - 27.0 * ((double)my_block_min_step_number - (double)my_path_min_step_number);
+
+1.4
+score_1 = 30.7 * (double)enemy_path_min_step_number + 0.7 * (double)enemy_block_left - 5.7 * (double)my_path_min_step_number - 3.0 * (double)my_block_left;
+    score_2 = 8.0 * (double)enemy_block_min_step_number - 0.7 * (double)enemy_block_left - 2.7 * (double)my_block_min_step_number + 4.0 * ((double)my_block_left - 1) + 30.0 * ((double)enemy_block_min_step_number - (double)enemy_path_min_step_number) - 30.0 * ((double)my_block_min_step_number - (double)my_path_min_step_number);
+    if (my_block_min_step_number - my_path_min_step_number > enemy_block_min_step_number - enemy_path_min_step_number)
+        score_1 = score_1 + 100;
+    if (my_path_min_step_number < 3 && my_path_min_step_number < enemy_path_min_step_number)
+        score_1 = score_1 + 10000;
+    if (my_path_min_step_number > enemy_path_min_step_number + 1)
+        score_2 = score_2 + 50;
+    else if (my_path_min_step_number > enemy_path_min_step_number)
+        score_2 = score_2 + 25;
+    if (my_path_min_step_number > enemy_path_min_step_number + 3 && my_block_min_step_number - my_path_min_step_number < enemy_block_min_step_number - enemy_path_min_step_number)
+        score_2 = score_2 + 75;
+    if (my_block_min_step_number - my_path_min_step_number + 1 < enemy_block_min_step_number - enemy_path_min_step_number)
+        score_2 = score_2 + 75;
+    if (my_block_min_step_number - my_path_min_step_number < enemy_block_min_step_number - enemy_path_min_step_number && my_path_min_step_number > enemy_path_min_step_number + 2)
+        score_2 = score_2 + 100;
+
+1.2
+score_1 = 45.0 * (double)enemy_path_min_step_number + 0.7 * (double)enemy_block_left - 5.7 * (double)my_path_min_step_number - 3.0 * (double)my_block_left;
+    score_2 = 11.0 * (double)enemy_block_min_step_number - 0.7 * (double)enemy_block_left - 2.7 * (double)my_block_min_step_number + 4.0 * ((double)my_block_left - 1) + 50.0 * ((double)enemy_block_min_step_number - (double)enemy_path_min_step_number) - 50.0 * ((double)my_block_min_step_number - (double)my_path_min_step_number);
+    if (my_block_min_step_number - my_path_min_step_number > enemy_block_min_step_number - enemy_path_min_step_number)
+        score_1 = score_1 + 100;
+    if (my_path_min_step_number < 3 && my_path_min_step_number < enemy_path_min_step_number)
+        score_1 = score_1 + 10000;
+    if (enemy_path_min_step_number < 3 && my_path_min_step_number > enemy_path_min_step_number)
+        score_2 = score_2 + 10000;
+    if (my_path_min_step_number > enemy_path_min_step_number + 1)
+        score_2 = score_2 + 50;
+    else if (my_path_min_step_number > enemy_path_min_step_number)
+        score_2 = score_2 + 25;
+    if (my_path_min_step_number > enemy_path_min_step_number + 3 && my_block_min_step_number - my_path_min_step_number <= enemy_block_min_step_number - enemy_path_min_step_number)
+        score_2 = score_2 + 75;
+    if (my_block_min_step_number - my_path_min_step_number + 1 < enemy_block_min_step_number - enemy_path_min_step_number)
+        score_2 = score_2 + 75;
+    if (my_block_min_step_number - my_path_min_step_number < enemy_block_min_step_number - enemy_path_min_step_number && my_path_min_step_number > enemy_path_min_step_number + 2)
+        score_2 = score_2 + 100;
+
+0.8
+score_1 = 17.2 * (double)enemy_path_min_step_number + 1.2 * (double)enemy_block_left - 5.7 * (double)my_path_min_step_number - 3.0 * (double)my_block_left;
+    score_2 = 8.9 * (double)enemy_block_min_step_number - 1.2 * (double)enemy_block_left - 5.7 * (double)my_block_min_step_number + 4.0 * ((double)my_block_left - 1) + 25.0 * ((double)enemy_block_min_step_number - (double)enemy_path_min_step_number) - 25.0 * ((double)my_block_min_step_number - (double)my_path_min_step_number);
+    if (my_block_min_step_number - my_path_min_step_number > enemy_block_min_step_number - enemy_path_min_step_number)
+        score_1 = score_1 + 30;
+    if (my_path_min_step_number < 4 && my_path_min_step_number < enemy_path_min_step_number)
+        score_1 = score_1 + 10000;
+    if (enemy_path_min_step_number < 4 && my_path_min_step_number > enemy_path_min_step_number)
+        score_2 = score_2 + 10000;
+    if (my_path_min_step_number > enemy_path_min_step_number + 1)
+        score_2 = score_2 + 15;
+    else if (my_path_min_step_number > enemy_path_min_step_number)
+        score_2 = score_2 + 7.5;
+    if (my_path_min_step_number > enemy_path_min_step_number + 3 && my_block_min_step_number - my_path_min_step_number <= enemy_block_min_step_number - enemy_path_min_step_number)
+        score_2 = score_2 + 15;
+    if (my_block_min_step_number - my_path_min_step_number + 1 < enemy_block_min_step_number - enemy_path_min_step_number)
+        score_2 = score_2 + 22.5;
+    if (my_block_min_step_number - my_path_min_step_number < enemy_block_min_step_number - enemy_path_min_step_number && my_path_min_step_number > enemy_path_min_step_number + 2)
+        score_2 = score_2 + 30;
+
+0.9
+score_1 = 20.0 * (double)enemy_path_min_step_number + 1.0 * (double)enemy_block_left - 5.0 * (double)my_path_min_step_number - 3.0 * (double)my_block_left;
+    score_2 = 2.0 * (double)enemy_block_min_step_number - 1.0 * (double)enemy_block_left - 5.0 * (double)my_block_min_step_number + 4.0 * ((double)my_block_left - 1) + 45.0 * ((double)enemy_block_min_step_number - (double)enemy_path_min_step_number);
+    if (my_block_min_step_number - my_path_min_step_number > enemy_block_min_step_number - enemy_path_min_step_number)
+        score_1 = score_1 + 50;
+    if (my_path_min_step_number < 4 && my_path_min_step_number < enemy_path_min_step_number)
+        score_1 = score_1 + 10000;
+    if (enemy_path_min_step_number < 4 && my_path_min_step_number > enemy_path_min_step_number)
+        score_2 = score_2 + 10000;
+    if (my_path_min_step_number > enemy_path_min_step_number + 1)
+        score_2 = score_2 + 10;
+    else if (my_path_min_step_number > enemy_path_min_step_number)
+        score_2 = score_2 + 15;
+    if (my_path_min_step_number > enemy_path_min_step_number + 3 && my_block_min_step_number - my_path_min_step_number <= enemy_block_min_step_number - enemy_path_min_step_number)
+        score_2 = score_2 + 25;
+    if (my_block_min_step_number - my_path_min_step_number + 1 < enemy_block_min_step_number - enemy_path_min_step_number)
+        score_2 = score_2 + 35;
+    if (my_block_min_step_number - my_path_min_step_number <= enemy_block_min_step_number - enemy_path_min_step_number && my_path_min_step_number > enemy_path_min_step_number + 2)
+        score_2 = score_2 + 50;
+
+0.8
+score_1 = 22.0 * (double)enemy_path_min_step_number + 1.0 * (double)enemy_block_left - 5.0 * (double)my_path_min_step_number - 3.0 * (double)my_block_left;
+    score_2 = 2.0 * (double)enemy_block_min_step_number - 1.0 * (double)enemy_block_left - 5.0 * (double)my_block_min_step_number + 4.0 * ((double)my_block_left - 1) + 40.0 * ((double)enemy_block_min_step_number - (double)enemy_path_min_step_number);
+    if (my_block_min_step_number - my_path_min_step_number > enemy_block_min_step_number - enemy_path_min_step_number)
+        score_1 = score_1 + 50;
+    if (my_path_min_step_number < 4 && my_path_min_step_number < enemy_path_min_step_number)
+        score_1 = score_1 + 10000;
+    if (enemy_path_min_step_number < 4 && my_path_min_step_number > enemy_path_min_step_number)
+        score_2 = score_2 + 10000;
+    if (my_path_min_step_number > enemy_path_min_step_number + 1)
+        score_2 = score_2 + 10;
+    else if (my_path_min_step_number > enemy_path_min_step_number)
+        score_2 = score_2 + 15;
+    if (my_path_min_step_number > enemy_path_min_step_number + 3 && my_block_min_step_number - my_path_min_step_number <= enemy_block_min_step_number - enemy_path_min_step_number)
+        score_2 = score_2 + 25;
+    if (my_block_min_step_number - my_path_min_step_number + 1 < enemy_block_min_step_number - enemy_path_min_step_number)
+        score_2 = score_2 + 35;
+    if (my_block_min_step_number - my_path_min_step_number <= enemy_block_min_step_number - enemy_path_min_step_number && my_path_min_step_number > enemy_path_min_step_number + 2)
+        score_2 = score_2 + 50;
+
+0.85
+score_1 = 23.0 * (double)enemy_path_min_step_number + 1.0 * (double)enemy_block_left - 5.0 * (double)my_path_min_step_number - 3.0 * (double)my_block_left;
+    score_2 = 4.0 * (double)enemy_block_min_step_number - 1.0 * (double)enemy_block_left - 5.0 * (double)my_block_min_step_number + 4.0 * ((double)my_block_left - 1) + 40.0 * ((double)enemy_block_min_step_number - (double)enemy_path_min_step_number);
+    if (my_block_min_step_number - my_path_min_step_number > enemy_block_min_step_number - enemy_path_min_step_number)
+        score_1 = score_1 + 50;
+    if (my_path_min_step_number < 4 && my_path_min_step_number < enemy_path_min_step_number)
+        score_1 = score_1 + 10000;
+    if (enemy_path_min_step_number < 4 && my_path_min_step_number >= enemy_path_min_step_number)
+        score_2 = score_2 + 10000;
+    if (my_path_min_step_number > enemy_path_min_step_number + 1)
+        score_2 = score_2 + 10;
+    else if (my_path_min_step_number > enemy_path_min_step_number)
+        score_2 = score_2 + 15;
+    if (my_path_min_step_number > enemy_path_min_step_number + 3 && my_block_min_step_number - my_path_min_step_number <= enemy_block_min_step_number - enemy_path_min_step_number)
+        score_2 = score_2 + 25;
+    if (my_block_min_step_number - my_path_min_step_number + 1 < enemy_block_min_step_number - enemy_path_min_step_number)
+        score_2 = score_2 + 35;
+    if (my_block_min_step_number - my_path_min_step_number <= enemy_block_min_step_number - enemy_path_min_step_number && my_path_min_step_number > enemy_path_min_step_number + 2)
+        score_2 = score_2 + 50;

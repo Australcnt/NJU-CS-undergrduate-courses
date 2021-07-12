@@ -1,0 +1,17 @@
+Usage: man [-dDfkKlwWciIau7tZ?V] [-C FILE] [-R ENCODING] [-L LOCALE]
+            [-m SYSTEM] [-M PATH] [-S LIST] [-s LIST] [-e EXTENSION]
+            [-P PAGER] [-r STRING] [-E ENCODING] [-p STRING] [-T[DEVICE]]
+            [-H[BROWSER]] [-X[RESOLUTION]] [--config-file=FILE] [--debug]
+            [--default] [--warnings[=WARNINGS]] [--whatis] [--apropos]
+            [--global-apropos] [--local-file] [--where] [--path] [--location]
+            [--where-cat] [--location-cat] [--catman] [--recode=ENCODING]
+            [--locale=LOCALE] [--systems=SYSTEM] [--manpath=PATH]
+            [--sections=LIST] [--extension=EXTENSION] [--ignore-case]
+            [--match-case] [--regex] [--wildcard] [--names-only] [--all]
+            [--update] [--no-subpages] [--pager=PAGER] [--prompt=STRING]
+            [--ascii] [--encoding=ENCODING] [--no-hyphenation] [--nh]
+            [--no-justification] [--nj] [--preprocessor=STRING] [--troff]
+            [--troff-device[=DEVICE]] [--html[=BROWSER]]
+            [--gxditview[=RESOLUTION]] [--ditroff] [--help] [--usage]
+            [--version] [SECTION] PAGE...
+

@@ -1,0 +1,7 @@
+name                          id                  Math      Chinese   English   Sum       
+BuzzLightyear                 100310124           92        91        85        268       
+Jerry                         100310126           85        92        83        260       
+WinniethePooh                 100310123           98        72        89        259       
+Snoopy                        100310122           88        92        78        258       
+Garfield                      100310121           72        83        90        245       
+Tom                           100310125           76        83        66        225       

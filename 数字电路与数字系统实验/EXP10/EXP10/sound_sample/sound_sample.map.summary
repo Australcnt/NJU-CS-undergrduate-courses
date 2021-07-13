@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Wed Oct 31 09:45:17 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : sound_sample
+Top-level Entity Name : sound_sample
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 93
+Total pins : 82
+Total virtual pins : 0
+Total block memory bits : 16,384
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1
+Total DLLs : 0

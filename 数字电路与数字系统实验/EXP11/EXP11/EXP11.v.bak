@@ -1,0 +1,32 @@
+module EXP11(
+
+	input 		          		CLOCK_50,
+	input 		     [9:0]		SW,
+	input 		     [3:0]		KEY,
+	
+	output		     [9:0]		LEDR,
+
+	output		     [6:0]		HEX0,
+	output		     [6:0]		HEX1,
+	output		     [6:0]		HEX2,
+	output		     [6:0]		HEX3,
+	output		     [6:0]		HEX4,
+	output		     [6:0]		HEX5,
+
+	
+	
+	output		          		VGA_CLK,
+	output		     [7:0]		VGA_R,
+	output		     [7:0]		VGA_G,
+	output		     [7:0]		VGA_B,
+	output		          		VGA_HS,
+	output		          		VGA_VS,
+	output		          		VGA_SYNC_N,
+	output		          		VGA_BLANK_N,
+
+	output 		          		PS2_CLK,
+	output 		          		PS2_DAT
+	
+	);
+	
+	

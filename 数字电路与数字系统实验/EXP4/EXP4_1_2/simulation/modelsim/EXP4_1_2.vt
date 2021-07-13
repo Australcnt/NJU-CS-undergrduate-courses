@@ -1,0 +1,83 @@
+// Copyright (C) 2017  Intel Corporation. All rights reserved.
+// Your use of Intel Corporation's design tools, logic functions 
+// and other software and tools, and its AMPP partner logic 
+// functions, and any output files from any of the foregoing 
+// (including device programming or simulation files), and any 
+// associated documentation or information are expressly subject 
+// to the terms and conditions of the Intel Program License 
+// Subscription Agreement, the Intel Quartus Prime License Agreement,
+// the Intel FPGA IP License Agreement, or other applicable license
+// agreement, including, without limitation, that your use is for
+// the sole purpose of programming logic devices manufactured by
+// Intel and sold by Intel or its authorized distributors.  Please
+// refer to the applicable agreement for further details.
+
+// *****************************************************************************
+// This file contains a Verilog test bench template that is freely editable to  
+// suit user's needs .Comments are provided in each section to help the user    
+// fill out necessary details.                                                  
+// *****************************************************************************
+// Generated on "09/26/2020 10:39:06"
+                                                                                
+// Verilog Test Bench template for design : EXP4_1_2
+// 
+// Simulation tool : ModelSim-Altera (Verilog)
+// 
+
+`timescale 10 ns/ 1 ps
+module EXP4_1_2_vlg_tst();
+// constants                                           
+// general purpose registers
+//reg eachvec;
+// test vector input registers
+reg clk;
+reg in_data;
+reg in_en;
+// wires                                               
+wire out_unlock1;
+wire out_unlock2;
+
+// assign statements (if any)                          
+EXP4_1_2 i1 (
+// port map - connection between master ports and signals/registers   
+	.clk(clk),
+	.in_data(in_data),
+	.in_en(in_en),
+	.out_unlock1(out_unlock1),
+	.out_unlock2(out_unlock2)
+);
+initial                                                
+begin                                                  
+// code that executes only once                        
+// insert code here --> begin                          
+    clk = 0; in_data = 0; in_en = 0; #7; 
+	           in_data = 0; #7; 
+	           in_data = 1; #7; 
+	           in_data = 0; #7; 
+	           in_data = 1; #7; 
+	  in_en = 1; #7; 
+	           in_data = 0; #7; 
+	           in_data = 1; #7; 
+	           in_data = 0; #7; 
+	           in_data = 1; #7;
+	  $stop; 
+end
+
+always
+begin
+#5 clk = ~clk;	                                                       
+// --> end                                             
+//$display("Running testbench");                       
+end                                                    
+//always                                                 
+// optional sensitivity list                           
+// @(event1 or event2 or .... eventn)                  
+//begin                                                  
+// code executes for every event on sensitivity list   
+// insert code here --> begin                          
+                                                       
+//@eachvec;                                              
+// --> end                                             
+//end                                                    
+endmodule
+

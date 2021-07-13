@@ -1,0 +1,100 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Digital_Experiment/EXP4/EXP4_2/simulation/modelsim
+vasynchro
+Z1 !s110 1601083344
+!i10b 1
+!s100 h9=aB6@GeSW7MmEV<ZaBi1
+IHRd97e4ALDn2D6:n_HnE62
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1601083208
+8C:/Digital_Experiment/EXP4/EXP4_2/asynchro.v
+FC:/Digital_Experiment/EXP4/EXP4_2/asynchro.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1601083344.000000
+!s107 C:/Digital_Experiment/EXP4/EXP4_2/asynchro.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Digital_Experiment/EXP4/EXP4_2|C:/Digital_Experiment/EXP4/EXP4_2/asynchro.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Digital_Experiment/EXP4/EXP4_2
+Z7 tCvgOpt 0
+vEXP4_2
+R1
+!i10b 1
+!s100 Ah0eD?2Po5>9ER<_QZHj;0
+IQ1UBIhC5G:N=5zJY[h9GP2
+R2
+R0
+w1601024977
+8C:/Digital_Experiment/EXP4/EXP4_2/EXP4_2.v
+FC:/Digital_Experiment/EXP4/EXP4_2/EXP4_2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Digital_Experiment/EXP4/EXP4_2/EXP4_2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Digital_Experiment/EXP4/EXP4_2|C:/Digital_Experiment/EXP4/EXP4_2/EXP4_2.v|
+!i113 1
+R5
+R6
+R7
+n@e@x@p4_2
+vEXP4_2_vlg_tst
+R1
+!i10b 1
+!s100 1L8M=X0=ho;9oU@<C3>@o2
+IjR?^BL@XOo:I?3CB_5=`:2
+R2
+R0
+w1601033319
+8C:/Digital_Experiment/EXP4/EXP4_2/simulation/modelsim/EXP4_2.vt
+FC:/Digital_Experiment/EXP4/EXP4_2/simulation/modelsim/EXP4_2.vt
+L0 28
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Digital_Experiment/EXP4/EXP4_2/simulation/modelsim/EXP4_2.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Digital_Experiment/EXP4/EXP4_2/simulation/modelsim|C:/Digital_Experiment/EXP4/EXP4_2/simulation/modelsim/EXP4_2.vt|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+C:/Digital_Experiment/EXP4/EXP4_2/simulation/modelsim
+R7
+n@e@x@p4_2_vlg_tst
+vsynchro
+R1
+!i10b 1
+!s100 :Fdh?=olRdP>fjYkMObI>3
+INMA@FT7gD?f<A8PaX`[cf2
+R2
+R0
+w1601083280
+8C:/Digital_Experiment/EXP4/EXP4_2/synchro.v
+FC:/Digital_Experiment/EXP4/EXP4_2/synchro.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Digital_Experiment/EXP4/EXP4_2/synchro.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Digital_Experiment/EXP4/EXP4_2|C:/Digital_Experiment/EXP4/EXP4_2/synchro.v|
+!i113 1
+R5
+R6
+R7

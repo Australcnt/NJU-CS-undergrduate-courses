@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Digital_Experiment/EXP4/EXP4_1_1/EXP4_1_1.v
+source_file = 1, C:/Digital_Experiment/EXP4/EXP4_1_1/db/EXP4_1_1.cbx.xml
+design_name = EXP4_1_1
+instance = comp, \out_lock1~output , out_lock1~output, EXP4_1_1, 1
+instance = comp, \out_lock2~output , out_lock2~output, EXP4_1_1, 1
+instance = comp, \clk~input , clk~input, EXP4_1_1, 1
+instance = comp, \clk~inputCLKENA0 , clk~inputCLKENA0, EXP4_1_1, 1
+instance = comp, \in_data~input , in_data~input, EXP4_1_1, 1
+instance = comp, \out_lock1~reg0feeder , out_lock1~reg0feeder, EXP4_1_1, 1
+instance = comp, \in_en~input , in_en~input, EXP4_1_1, 1
+instance = comp, \out_lock1~reg0 , out_lock1~reg0, EXP4_1_1, 1
+instance = comp, \out_lock2~reg0feeder , out_lock2~reg0feeder, EXP4_1_1, 1
+instance = comp, \out_lock2~reg0 , out_lock2~reg0, EXP4_1_1, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, EXP4_1_1, 1

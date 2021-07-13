@@ -1,0 +1,56 @@
+# Reading C:/intelFPGA_lite/17.1/modelsim_ase/tcl/vsim/pref.tcl
+# do EXP3_2_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/17.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Digital_Experiment/EXP3/EXP3_2 {C:/Digital_Experiment/EXP3/EXP3_2/EXP3_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:46:39 on Sep 18,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Digital_Experiment/EXP3/EXP3_2" C:/Digital_Experiment/EXP3/EXP3_2/EXP3_2.v 
+# -- Compiling module EXP3_2
+# 
+# Top level modules:
+# 	EXP3_2
+# End time: 09:46:39 on Sep 18,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Digital_Experiment/EXP3/EXP3_2/simulation/modelsim {C:/Digital_Experiment/EXP3/EXP3_2/simulation/modelsim/EXP3_2.vt}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:46:39 on Sep 18,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Digital_Experiment/EXP3/EXP3_2/simulation/modelsim" C:/Digital_Experiment/EXP3/EXP3_2/simulation/modelsim/EXP3_2.vt 
+# -- Compiling module EXP3_2_vlg_tst
+# 
+# Top level modules:
+# 	EXP3_2_vlg_tst
+# End time: 09:46:39 on Sep 18,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  EXP3_2_vlg_tst
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" EXP3_2_vlg_tst 
+# Start time: 09:46:39 on Sep 18,2020
+# Loading work.EXP3_2_vlg_tst
+# Loading work.EXP3_2
+# ** Warning: (vsim-3017) C:/Digital_Experiment/EXP3/EXP3_2/simulation/modelsim/EXP3_2.vt(46): [TFMPC] - Too few port connections. Expected 13, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /EXP3_2_vlg_tst/i1 File: C:/Digital_Experiment/EXP3/EXP3_2/EXP3_2.v
+# ** Warning: (vsim-3722) C:/Digital_Experiment/EXP3/EXP3_2/simulation/modelsim/EXP3_2.vt(46): [TFMPC] - Missing connection for port 'HEX_result0'.
+# ** Warning: (vsim-3722) C:/Digital_Experiment/EXP3/EXP3_2/simulation/modelsim/EXP3_2.vt(46): [TFMPC] - Missing connection for port 'HEX_result1'.
+# ** Warning: (vsim-3722) C:/Digital_Experiment/EXP3/EXP3_2/simulation/modelsim/EXP3_2.vt(46): [TFMPC] - Missing connection for port 'HEX_result2'.
+# ** Warning: (vsim-3722) C:/Digital_Experiment/EXP3/EXP3_2/simulation/modelsim/EXP3_2.vt(46): [TFMPC] - Missing connection for port 'HEX_result3'.
+# ** Warning: (vsim-3722) C:/Digital_Experiment/EXP3/EXP3_2/simulation/modelsim/EXP3_2.vt(46): [TFMPC] - Missing connection for port 'HEX_cf'.
+# ** Warning: (vsim-3722) C:/Digital_Experiment/EXP3/EXP3_2/simulation/modelsim/EXP3_2.vt(46): [TFMPC] - Missing connection for port 'HEX_of'.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# End time: 09:49:57 on Sep 18,2020, Elapsed time: 0:03:18
+# Errors: 0, Warnings: 7

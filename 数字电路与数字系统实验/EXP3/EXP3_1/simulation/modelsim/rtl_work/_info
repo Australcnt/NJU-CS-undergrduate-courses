@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Digital_Experiment/EXP3/EXP3_1/simulation/modelsim
+vEXP3_1
+Z1 !s110 1600393102
+!i10b 1
+!s100 ?JQUa<T1PE9^Yc54j5K>Z2
+I?_3n=2K0?9m@6ICN6Xe5K0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1600392847
+8C:/Digital_Experiment/EXP3/EXP3_1/EXP3_1.v
+FC:/Digital_Experiment/EXP3/EXP3_1/EXP3_1.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1600393101.000000
+!s107 C:/Digital_Experiment/EXP3/EXP3_1/EXP3_1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Digital_Experiment/EXP3/EXP3_1|C:/Digital_Experiment/EXP3/EXP3_1/EXP3_1.v|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Digital_Experiment/EXP3/EXP3_1
+Z5 tCvgOpt 0
+n@e@x@p3_1
+vEXP3_1_vlg_tst
+R1
+!i10b 1
+!s100 [D@RITHVZzhgXc]=0hz@K2
+IMib0DcEFh<VAdLDlST]eP3
+R2
+R0
+w1600244102
+8C:/Digital_Experiment/EXP3/EXP3_1/simulation/modelsim/EXP3_1.vt
+FC:/Digital_Experiment/EXP3/EXP3_1/simulation/modelsim/EXP3_1.vt
+L0 28
+R3
+r1
+!s85 0
+31
+!s108 1600393102.000000
+!s107 C:/Digital_Experiment/EXP3/EXP3_1/simulation/modelsim/EXP3_1.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Digital_Experiment/EXP3/EXP3_1/simulation/modelsim|C:/Digital_Experiment/EXP3/EXP3_1/simulation/modelsim/EXP3_1.vt|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+C:/Digital_Experiment/EXP3/EXP3_1/simulation/modelsim
+R5
+n@e@x@p3_1_vlg_tst

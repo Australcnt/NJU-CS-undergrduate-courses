@@ -1,0 +1,28 @@
+module EXP3_1(x, y, -y, cin, result, cf, of, zf);
+  input [3:0] x;
+  input [3:0] y;
+  input cin;
+
+  output reg [3:0] -y;
+  output reg [3:0] result;
+  output reg cf;
+  output reg of;
+  output reg zf;
+  
+  always @ (*)
+  begin
+  
+    -y = {n{cin}} ^ y + cin;
+	 {cf, result} = x + -y;
+	 of = (x[3] == -y[3]) && (result[3] != x[3]);
+	 zf = ~(| result);
+	 if(cin == 1)
+	 begin
+	   cf = ~cf;
+	   if( y == 2'b1000)
+		  of = ~of;
+    end
+  end
+
+endmodule
+  

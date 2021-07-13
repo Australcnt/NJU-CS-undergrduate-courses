@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>audios/awooga.mp3</file>
+        <file>audios/bgm.wav</file>
+        <file>audios/buttonclick.mp3</file>
+        <file>audios/cherrybomb.mp3</file>
+        <file>audios/choosing.mp3</file>
+        <file>audios/evillaugh.mp3</file>
+        <file>audios/explosion.mp3</file>
+        <file>audios/Faster.ogg</file>
+        <file>audios/lawnmower.mp3</file>
+        <file>audios/Loonboon.ogg</file>
+        <file>audios/Mountains.ogg</file>
+        <file>audios/newspaper_rarrgh2.mp3</file>
+        <file>audios/pause.mp3</file>
+        <file>audios/plant1.mp3</file>
+        <file>audios/plant2.mp3</file>
+        <file>audios/playing.mp3</file>
+        <file>audios/polevault.mp3</file>
+        <file>audios/siren.mp3</file>
+        <file>audios/squash_hmm.mp3</file>
+        <file>audios/Ultimate Battle.ogg</file>
+        <file>audios/Watery Graves.ogg</file>
+        <file>audios/winmusic.mp3</file>
+    </qresource>
+</RCC>

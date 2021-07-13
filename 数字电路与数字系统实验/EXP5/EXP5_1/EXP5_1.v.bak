@@ -1,0 +1,52 @@
+module EXP5_1(count_clk, clk_1s, count_scd, units_digit, tens_digit, units_HEX, tens_HEX);
+	input [24:0]count_clk;
+	
+	output reg clk_1s;
+	output reg [6:0] count_scd;
+	output reg [3:0] units_digit;
+	output reg [3:0] tens_digit;
+	output reg [9:0] units_HEX;
+	output reg [9:0] tens_HEX;
+
+	always @(posedge clk)
+	  if(count_clk == 25000000)
+	  begin
+	    count_clk <= 0;
+	    clk_1s <= ~clk_1s;
+		 if(ckl_1s == 1)
+		   count_scd <= count_scd + 1;
+		 units_digit <= count_scd % 10;
+		 tens_digit <= count_scd / 10;
+		 units_HEX = 0;
+		 tens_HEX = 0;
+		 case (units_digit)
+		   0: units_HEX[0] = 1;
+			1: units_HEX[1] = 1;
+			2: units_HEX[2] = 1;
+			3: units_HEX[3] = 1;
+			4: units_HEX[4] = 1;
+			5: units_HEX[5] = 1;
+			6: units_HEX[6] = 1;
+			7: units_HEX[7] = 1;
+			8: units_HEX[8] = 1;
+			9: units_HEX[9] = 1;
+			default: units_HEX = 0;
+		 endcase
+		 case (tens_digit)
+		   0: tens_HEX[0] = 1;
+			1: tens_HEX[1] = 1;
+			2: tens_HEX[2] = 1;
+			3: tens_HEX[3] = 1;
+			4: tens_HEX[4] = 1;
+			5: tens_HEX[5] = 1;
+			6: tens_HEX[6] = 1;
+			7: tens_HEX[7] = 1;
+			8: tens_HEX[8] = 1;
+			9: tens_HEX[9] = 1;
+			default: tens_HEX = 0;
+		 endcase
+	  end
+	  else
+	    count_clk <= count_clk + 1;
+
+endmodule

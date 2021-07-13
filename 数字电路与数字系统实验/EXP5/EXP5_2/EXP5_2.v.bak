@@ -1,0 +1,25 @@
+module EXP5_2(clk, count_clk, clk_1s, count_scd, count_min, count_hour, HEX0, HEX1, HEX2, HEX3, HEX4, HEX5, pause, shift_scd, shift_min, shift_hour, alarm, count_mscd);
+    input clk;
+	 input pause;
+	 input shift_scd;
+	 input shift_min;
+	 input shift_hour;
+	 
+	 output reg [24:0] count_clk = 0;
+	 output reg clk_1s = 0;
+	 output reg [9:0] count_mscd = 0;
+	 output reg [5:0] count_scd = 0;
+	 output reg [5:0] count_min = 0;
+	 output reg [4:0] count_hour = 0;
+	 output reg [3:0] digit0 = 0;
+	 output reg [3:0] digit1 = 0;
+	 output reg [3:0] digit2 = 0;
+	 output reg [3:0] digit3 = 0;
+	 output reg [3:0] digit4 = 0;
+	 output reg [3:0] digit5 = 0;
+	 output reg [6:0] HEX0 = 64;
+	 output reg [6:0] HEX1 = 64;
+	 output reg [6:0] HEX2 = 64;
+	 output reg [6:0] HEX3 = 64;   
+	 output reg [6:0] HEX4 = 64;
+	 output reg [6:0] HEX5 = 64;

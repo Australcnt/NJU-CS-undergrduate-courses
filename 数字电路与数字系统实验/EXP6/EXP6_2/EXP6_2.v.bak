@@ -1,0 +1,13 @@
+module EXP6_2();
+    input clk;
+	 
+	 output reg [7:0] Q = 0;
+	 output reg LIN;
+	 
+	 always @(posedge clk)
+	 begin
+	   LIN = (Q[3] ^ Q[0]) | ~(Q[0] & Q[1] & Q[2] & Q[3] & Q[4] & Q[5] & Q[6] & Q[7]);
+	   Q = {LIN, Q[7:1]};
+	 end
+	 
+endmodule

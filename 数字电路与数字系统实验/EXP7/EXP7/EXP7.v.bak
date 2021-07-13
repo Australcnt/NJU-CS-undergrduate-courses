@@ -1,0 +1,14 @@
+module EXP7(clk, we, inaddr, outaddr, din, dout1, dout2);
+    input clk;
+	 input we;
+	 input [3:0] inaddr;
+	 input [3:0] outaddr;
+	 input [7:0] din;
+	 
+	 output reg [7:0] dout1;
+	 output reg [7:0] dout2;
+	 
+    ram1 myram1(clk, we, inaddr, outaddr, din, dout1);
+	 ram2port2 myram2(.clock(clk), .data(din), .wraddress(inaddr), .rdaddress(outaddr), .wren(we), .q(dout2));
+
+endmodule

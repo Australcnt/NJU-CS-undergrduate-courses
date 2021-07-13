@@ -1,0 +1,81 @@
+# Reading C:/intelFPGA_lite/17.1/modelsim_ase/tcl/vsim/pref.tcl
+# do EXP7_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/17.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Digital_Experiment/EXP7 {C:/Digital_Experiment/EXP7/ram2port.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:56:54 on Oct 17,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Digital_Experiment/EXP7" C:/Digital_Experiment/EXP7/ram2port.v 
+# -- Compiling module ram2port
+# 
+# Top level modules:
+# 	ram2port
+# End time: 10:56:54 on Oct 17,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Digital_Experiment/EXP7 {C:/Digital_Experiment/EXP7/EXP7.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:56:54 on Oct 17,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Digital_Experiment/EXP7" C:/Digital_Experiment/EXP7/EXP7.v 
+# -- Compiling module EXP7
+# 
+# Top level modules:
+# 	EXP7
+# End time: 10:56:54 on Oct 17,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Digital_Experiment/EXP7 {C:/Digital_Experiment/EXP7/ram1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:56:54 on Oct 17,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Digital_Experiment/EXP7" C:/Digital_Experiment/EXP7/ram1.v 
+# -- Compiling module ram1
+# 
+# Top level modules:
+# 	ram1
+# End time: 10:56:54 on Oct 17,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Digital_Experiment/EXP7/simulation/modelsim {C:/Digital_Experiment/EXP7/simulation/modelsim/EXP7.vt}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:56:54 on Oct 17,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Digital_Experiment/EXP7/simulation/modelsim" C:/Digital_Experiment/EXP7/simulation/modelsim/EXP7.vt 
+# -- Compiling module EXP7_vlg_tst
+# 
+# Top level modules:
+# 	EXP7_vlg_tst
+# End time: 10:56:54 on Oct 17,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  EXP7_vlg_tst
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" EXP7_vlg_tst 
+# Start time: 10:56:55 on Oct 17,2020
+# Loading work.EXP7_vlg_tst
+# Loading work.EXP7
+# Loading work.ram1
+# Loading work.ram2port
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# ** Warning: (vsim-3017) C:/Digital_Experiment/EXP7/simulation/modelsim/EXP7.vt(43): [TFMPC] - Too few port connections. Expected 9, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /EXP7_vlg_tst/i1 File: C:/Digital_Experiment/EXP7/EXP7.v
+# ** Warning: (vsim-3722) C:/Digital_Experiment/EXP7/simulation/modelsim/EXP7.vt(43): [TFMPC] - Missing connection for port 'HEX0'.
+# ** Warning: (vsim-3722) C:/Digital_Experiment/EXP7/simulation/modelsim/EXP7.vt(43): [TFMPC] - Missing connection for port 'HEX1'.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : C:/Digital_Experiment/EXP7/simulation/modelsim/EXP7.vt(74)
+#    Time: 85 ns  Iteration: 0  Instance: /EXP7_vlg_tst
+# Break in Module EXP7_vlg_tst at C:/Digital_Experiment/EXP7/simulation/modelsim/EXP7.vt line 74
+# End time: 11:04:16 on Oct 17,2020, Elapsed time: 0:07:21
+# Errors: 0, Warnings: 3

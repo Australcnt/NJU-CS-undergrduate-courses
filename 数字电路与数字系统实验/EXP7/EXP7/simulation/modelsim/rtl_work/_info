@@ -1,0 +1,100 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Digital_Experiment/EXP7/simulation/modelsim
+vEXP7
+Z1 !s110 1602903414
+!i10b 1
+!s100 VofL?`UPE^Z=00JBLi6R?1
+I`5Tk4k0Id_B>IC:kSXN9Y0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1602817980
+8C:/Digital_Experiment/EXP7/EXP7.v
+FC:/Digital_Experiment/EXP7/EXP7.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1602903414.000000
+!s107 C:/Digital_Experiment/EXP7/EXP7.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Digital_Experiment/EXP7|C:/Digital_Experiment/EXP7/EXP7.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Digital_Experiment/EXP7
+Z7 tCvgOpt 0
+n@e@x@p7
+vEXP7_vlg_tst
+R1
+!i10b 1
+!s100 eiFaS[OVFTJcB8FRRdl<G2
+Ig?m_j1kcJ[mC9Zk[5gM]?0
+R2
+R0
+w1602812275
+8C:/Digital_Experiment/EXP7/simulation/modelsim/EXP7.vt
+FC:/Digital_Experiment/EXP7/simulation/modelsim/EXP7.vt
+L0 28
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Digital_Experiment/EXP7/simulation/modelsim/EXP7.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Digital_Experiment/EXP7/simulation/modelsim|C:/Digital_Experiment/EXP7/simulation/modelsim/EXP7.vt|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+C:/Digital_Experiment/EXP7/simulation/modelsim
+R7
+n@e@x@p7_vlg_tst
+vram1
+R1
+!i10b 1
+!s100 VBm^EBFHXX>]G1EJMX4EB2
+I2CNVm@8D0>2eVAbSjDYh>2
+R2
+R0
+w1602753008
+8C:/Digital_Experiment/EXP7/ram1.v
+FC:/Digital_Experiment/EXP7/ram1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Digital_Experiment/EXP7/ram1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Digital_Experiment/EXP7|C:/Digital_Experiment/EXP7/ram1.v|
+!i113 1
+R5
+R6
+R7
+vram2port
+R1
+!i10b 1
+!s100 0=Q@?DLOlWmVXh>N?ZNVe3
+I^L<<icH>C>jlGLKZ<WE^d3
+R2
+R0
+w1602745989
+8C:/Digital_Experiment/EXP7/ram2port.v
+FC:/Digital_Experiment/EXP7/ram2port.v
+L0 39
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Digital_Experiment/EXP7/ram2port.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Digital_Experiment/EXP7|C:/Digital_Experiment/EXP7/ram2port.v|
+!i113 1
+R5
+R6
+R7

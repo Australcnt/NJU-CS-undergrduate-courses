@@ -1,0 +1,29 @@
+2021/06/16-14:47:54| [INFO] DNS server started
+homepage.cncourse.org. CNAME ['home.cncourse.org.']
+*.cncourse.org. CNAME ['home.nasa.org.']
+*.netlab.org. CNAME ['home.nasa.org.']
+home.nasa.org. A ['10.0.0.1', '10.0.0.2', '10.0.0.3']
+lab.nasa.org. A ['10.0.0.4', '10.0.0.5']
+*.localhost.computer A ['10.0.0.23']
+DNS server serving on 0.0.0.0:8048
+2021/06/16-14:47:57| [Info] Receving DNS request from '10.0.0.24' asking for 'stfw.localhost.computer.'
+stfw.localhost.computer homepage.cncourse.org
+stfw.localhost.computer *.cncourse.org
+stfw.localhost.computer *.netlab.org
+stfw.localhost.computer home.nasa.org
+stfw.localhost.computer lab.nasa.org
+stfw.localhost.computer *.localhost.computer
+2021/06/16-14:47:58| [Info] Receving DNS request from '10.0.0.24' asking for 'stfw.localhost.computer.'
+stfw.localhost.computer homepage.cncourse.org
+stfw.localhost.computer *.cncourse.org
+stfw.localhost.computer *.netlab.org
+stfw.localhost.computer home.nasa.org
+stfw.localhost.computer lab.nasa.org
+stfw.localhost.computer *.localhost.computer
+2021/06/16-14:47:59| [Info] Receving DNS request from '10.0.0.24' asking for 'stfw.localhost.computer.'
+stfw.localhost.computer homepage.cncourse.org
+stfw.localhost.computer *.cncourse.org
+stfw.localhost.computer *.netlab.org
+stfw.localhost.computer home.nasa.org
+stfw.localhost.computer lab.nasa.org
+stfw.localhost.computer *.localhost.computer

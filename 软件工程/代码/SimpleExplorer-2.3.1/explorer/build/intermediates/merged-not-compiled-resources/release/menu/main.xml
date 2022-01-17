@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/paste"
+        android:icon="?attr/action_paste"
+        app:showAsAction="ifRoom"
+        android:title="@string/paste" />
+    <item
+        android:id="@+id/folderinfo_modify"
+        android:icon="@drawable/holo_dark_action_info"
+        android:title="@string/dir_info"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/search_modify"
+        android:icon="@drawable/holo_dark_action_search"
+        android:title="@string/search"
+        app:showAsAction="ifRoom" />
+
+</menu>

@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:2:1-72:12
+MERGED from [com.android.support:support-v13:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\support-v13-23.1.1.aar\87e390b0924b9648e5c88bfac0b5efd5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.anthonycr.grant:permissions:1.1.2] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\permissions-1.1.2.aar\d5c3a23573571429ec63d257e04e2b26\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\3a1348a4f22e53804f831035116f066a\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\11eed7deadcdea5b05afa8b21b8b2e80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\9e584d6aaf6a7f5a937dd2c5e43b170f\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:3:5-34
+	android:versionName
+		INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:4:5-35
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:7:22-77
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:8:5-88
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:8:22-85
+application
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:10:5-70:19
+MERGED from [com.android.support:support-v13:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\support-v13-23.1.1.aar\87e390b0924b9648e5c88bfac0b5efd5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\support-v13-23.1.1.aar\87e390b0924b9648e5c88bfac0b5efd5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\AndroidManifest.xml:22:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\3a1348a4f22e53804f831035116f066a\AndroidManifest.xml:12:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\3a1348a4f22e53804f831035116f066a\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\9e584d6aaf6a7f5a937dd2c5e43b170f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\9e584d6aaf6a7f5a937dd2c5e43b170f\AndroidManifest.xml:22:5-20
+	android:screenOrientation
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:14:9-45
+	android:label
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:13:9-41
+	android:windowSoftInputMode
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:16:9-48
+	android:icon
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:15:9-41
+activity#com.dnielfe.manager.debug.Newview
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:17:9-60
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:17:19-48
+activity#com.dnielfe.manager.BrowserActivity
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:18:9-29:20
+	android:label
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:21:13-45
+	android:launchMode
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:22:13-43
+	android:configChanges
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:20:13-83
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:19:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:23:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:26:27-74
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:27:17-89
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:27:27-86
+activity#com.dnielfe.manager.settings.SettingsActivity
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:30:9-33:61
+	android:parentActivityName
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:33:13-58
+	android:label
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:31:13-54
+activity#com.dnielfe.manager.SearchActivity
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:34:9-42:20
+	android:parentActivityName
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:38:13-58
+	android:label
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:36:13-43
+	android:launchMode
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:35:13-43
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:39:13-41:29
+action#android.intent.action.SEARCH
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:40:17-71
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:40:25-68
+activity#com.dnielfe.manager.PickerActivity
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:43:9-56:20
+	android:label
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:46:13-45
+	android:launchMode
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:47:13-43
+	android:configChanges
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:45:13-83
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:44:13-43
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:file/*
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:48:13-55:29
+action#android.intent.action.GET_CONTENT
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:49:25-73
+category#android.intent.category.DEFAULT
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:51:17-76
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:51:27-73
+category#android.intent.category.OPENABLE
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:52:27-74
+data
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:54:17-51
+	android:mimeType
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:54:23-48
+provider#android.support.v4.content.FileProvider
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:58:9-66:20
+	android:grantUriPermissions
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:62:13-47
+	android:authorities
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:60:13-67
+	android:exported
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:59:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:63:13-65:53
+	android:resource
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:65:17-50
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:64:17-67
+meta-data#com.sec.android.support.multiwindow
+ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:67:9-69:36
+	android:value
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:69:13-33
+	android:name
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml:68:13-63
+uses-sdk
+INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\support-v13-23.1.1.aar\87e390b0924b9648e5c88bfac0b5efd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\support-v13-23.1.1.aar\87e390b0924b9648e5c88bfac0b5efd5\AndroidManifest.xml:20:5-44
+MERGED from [com.anthonycr.grant:permissions:1.1.2] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\permissions-1.1.2.aar\d5c3a23573571429ec63d257e04e2b26\AndroidManifest.xml:8:5-10:41
+MERGED from [com.anthonycr.grant:permissions:1.1.2] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\permissions-1.1.2.aar\d5c3a23573571429ec63d257e04e2b26\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\AndroidManifest.xml:20:5-43
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\3a1348a4f22e53804f831035116f066a\AndroidManifest.xml:8:5-10:41
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.3.0.aar\3a1348a4f22e53804f831035116f066a\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\11eed7deadcdea5b05afa8b21b8b2e80\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\11eed7deadcdea5b05afa8b21b8b2e80\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\9e584d6aaf6a7f5a937dd2c5e43b170f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\92469\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\9e584d6aaf6a7f5a937dd2c5e43b170f\AndroidManifest.xml:20:5-43
+INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+		INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+		ADDED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml
+		INJECTED from C:\SimpleExplorer-2.3.1\explorer\src\main\AndroidManifest.xml

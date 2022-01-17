@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LastModified">Последно модифициран:</string>
+    <string name="_files">\u0020файл(ове)</string>
+    <string name="_selected">\u0020избрани</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Придвижване към „Начало“"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"„%1$s“ – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"„%1$s“, „%2$s“ – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Придвижване нагоре"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Още опции"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Вижте всички"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Изберете приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ИЗКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Търсете…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Изчистване на заявката"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Заявка за търсене"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Търсене"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Изпращане на заявката"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Гласово търсене"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Споделяне със:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Споделяне със: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свиване"</string>
+    <string name="advancedsettings">Детайлни настройки</string>
+    <string name="app_name">Simple Explorer</string>
+    <string name="block_size">Размер на блока:</string>
+    <string name="bookmark">Отметки</string>
+    <string name="bookmarkadded">Отметката е добавена.</string>
+    <string name="bookmarkexist">Отметката вече съществува!</string>
+    <string name="cancel">Отмена</string>
+    <string name="cannotbeundoneareyousureyouwanttodelete">"Това действие е необратимо!"</string>
+    <string name="cantopenfile">Файлът не може да бъде отворен</string>
+    <string name="cantreadfolder">Папката не се вижда поради ограничени разрешения</string>
+    <string name="changegroupowner">Change group/owner</string>
+    <string name="copiedtoclipboard">Копирано в паметта.</string>
+    <string name="copy">Копирай</string>
+    <string name="copyfail">Копирането е неуспешно!</string>
+    <string name="copying">Копиране</string>
+    <string name="copysuccsess">Успешно копирано.</string>
+    <string name="create">Създай</string>
+    <string name="createbookmark">Създай отметка</string>
+    <string name="created">" Създадено."</string>
+    <string name="createmsg">Поставете точка пред името, за да създадете скрита папка.</string>
+    <string name="createnewfolder">Създай нова папка</string>
+    <string name="dark">Тъмна</string>
+    <string name="defaultdir">Папка по подразбиране</string>
+    <string name="delete">Изтрий</string>
+    <string name="deletesuccess">Успешно изтриване</string>
+    <string name="deleting">Изтриване</string>
+    <string name="desc">низх.</string>
+    <string name="detailed">Подробно</string>
+    <string name="details">Детайли</string>
+    <string name="dir_info">Информация за папката</string>
+    <string name="drawer_close">Затвори навигационния панел</string>
+    <string name="drawer_open">Отвори навигационния панел</string>
+    <string name="edit">Edit</string>
+    <string name="empty">Празно</string>
+    <string name="enable_root">Enable root access</string>
+    <string name="enter_name">Въведи име</string>
+    <string name="error">Грешка</string>
+    <string name="execute">Изпълнение</string>
+    <string name="exit">Изход</string>
+    <string name="extractionsuccess">Package successfully extracted.</string>
+    <string name="extractto">Разархивирай във</string>
+    <string name="filecreated">Файлът беше създаден.</string>
+    <string name="fileexists">Файлът вече съществува.</string>
+    <string name="files">" Файлове"</string>
+    <string name="filewasrenamed">Файлът беше преименуван.</string>
+    <string name="free">Свободно пространство:</string>
+    <string name="group">Група:</string>
+    <string name="hiddenfiles">Скрити файлове</string>
+    <string name="itcouldntbefound">Не беше намерено.</string>
+    <string name="light">Светла</string>
+    <string name="location">Местоположение:</string>
+    <string name="md5">MD5:</string>
+    <string name="move">Премести</string>
+    <string name="movefail">Преместването неуспешно.</string>
+    <string name="movesuccsess">Преместването успешно.</string>
+    <string name="moving">Преместване</string>
+    <string name="multizip">Zip</string>
+    <string name="newfile">Нов файл</string>
+    <string name="newfolderwasnotcreated">Нова папка не беше създадена.</string>
+    <string name="ok">OK</string>
+    <string name="options">Опции</string>
+    <string name="others">Други:</string>
+    <string name="overwrite_destination">Краен</string>
+    <string name="overwrite_replace">Замести</string>
+    <string name="overwrite_replace_all">Замести всички</string>
+    <string name="overwrite_skip">Пропусни</string>
+    <string name="overwrite_skip_all">Пропусни всички</string>
+    <string name="overwrite_source">Изходен</string>
+    <string name="overwrite_title">Файлът вече съществува</string>
+    <string name="owner">Собственик:</string>
+    <string name="packing">Компресиране</string>
+    <string name="paste">Постави</string>
+    <string name="permissions">Разрешения</string>
+    <string name="permissionschanged">Разрешенията променени</string>
+    <string name="pressbackagaintoquit">натиснете \"НАЗАД\", за да излезете.</string>
+    <string name="read">Четене</string>
+    <string name="rename">Преименувай</string>
+    <string name="search">Търсене</string>
+    <string name="searchtext">Търсене</string>
+    <string name="selectall">избери всички</string>
+    <string name="settings">Настройки</string>
+    <string name="share">Сподели</string>
+    <string name="shortcut">Създай пряк път</string>
+    <string name="shortcutcreated">Създаден пряк път.</string>
+    <string name="showpreview">Умален преглед</string>
+    <string name="simple">Опростен</string>
+    <string name="size">Използвани:</string>
+    <string name="sort">Подреди</string>
+    <string name="sort_date">Дата</string>
+    <string name="sort_name">Име</string>
+    <string name="sort_reverselist">Reverse list</string>
+    <string name="sort_size">Размер</string>
+    <string name="sort_type">Тип</string>
+    <string name="sortpreferences">Sort preferences</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="theme">Тема</string>
+    <string name="total">Общо пространство:</string>
+    <string name="uisettings">Виж настройките</string>
+    <string name="unzipping">разархивиране</string>
+    <string name="used">използвани:</string>
+    <string name="viewmode">Изглед</string>
+    <string name="write">Писане</string>
+    <string name="xdaforum">XDA форум</string>
+</resources>

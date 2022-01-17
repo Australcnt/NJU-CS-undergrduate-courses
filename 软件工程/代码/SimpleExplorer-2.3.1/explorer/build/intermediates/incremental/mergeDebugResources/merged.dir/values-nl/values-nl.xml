@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LastModified">Laatst Gewijzigd:</string>
+    <string name="_files">\u0020bestand(en)</string>
+    <string name="_selected">\u0020geselecteerd</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"UIT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AAN"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Delen met %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="advancedsettings">Geavanceerd</string>
+    <string name="app_name">Simple Explorer</string>
+    <string name="block_size">Blokgrootte:</string>
+    <string name="bookmark">Bladwijzers</string>
+    <string name="bookmarkadded">Bladwijzer toegevoegd</string>
+    <string name="bookmarkexist">Bladwijzer bestaat al!</string>
+    <string name="cancel">Annuleren</string>
+    <string name="cannotbeundoneareyousureyouwanttodelete">"Dit kan niet ongedaan worden gemaakt!"</string>
+    <string name="cantopenfile">Kan dit bestand niet openen</string>
+    <string name="cantreadfolder">Kan de map niet openen vanwege machtigingen</string>
+    <string name="changegroupowner">Groep/eigenaar bewerken</string>
+    <string name="copiedtoclipboard">Gekopieerd naar klembord.</string>
+    <string name="copy">Kopi\u00EBren</string>
+    <string name="copyfail">Kopi\u00EBren mislukt!</string>
+    <string name="copying">Bezig met kopi\u00EBren</string>
+    <string name="copysuccsess">Succesvol gekopiëerd.</string>
+    <string name="create">Aanmaken</string>
+    <string name="createbookmark">Bladwijzer maken</string>
+    <string name="created">" Aangemaakt."</string>
+    <string name="createmsg">Zet een punt voor de mapnaam om de map onzichtbaar te maken.</string>
+    <string name="createnewfolder">Nieuwe map</string>
+    <string name="dark">Donker</string>
+    <string name="defaultdir">Standaardlocatie</string>
+    <string name="delete">Verwijderen</string>
+    <string name="deletesuccess">Succesvol verwijderd</string>
+    <string name="deleting">Bezig met verwijderen</string>
+    <string name="desc">desc</string>
+    <string name="detailed">Gedetailleerd</string>
+    <string name="details">Details</string>
+    <string name="dir_info">Mapinformatie</string>
+    <string name="drawer_close">Sluit navigatielade</string>
+    <string name="drawer_open">Open navigatielade</string>
+    <string name="edit">Bewerken</string>
+    <string name="empty">Leeg</string>
+    <string name="enable_root">Root-toegang inschakelen</string>
+    <string name="enter_name">Voer naam in</string>
+    <string name="error">Fout</string>
+    <string name="execute">Uitvoeren</string>
+    <string name="exit">Afsluiten</string>
+    <string name="extractionsuccess">Pakket succesvol uitgepakt.</string>
+    <string name="extractto">Uitpakken naar</string>
+    <string name="filecreated">Bestand is aangemaakt.</string>
+    <string name="fileexists">Bestand bestaat al.</string>
+    <string name="files">" Bestanden"</string>
+    <string name="filewasrenamed">Bestand is hernoemd.</string>
+    <string name="free">Beschikbare ruimte:</string>
+    <string name="group">Groep:</string>
+    <string name="hiddenfiles">Verborgen bestanden</string>
+    <string name="itcouldntbefound">Kon niet gevonden worden</string>
+    <string name="light">Licht</string>
+    <string name="location">Locatie:</string>
+    <string name="md5">MD5:</string>
+    <string name="move">Verplaatsen</string>
+    <string name="movefail">Verplaatsen mislukt.</string>
+    <string name="movesuccsess">Succesvol verplaatst.</string>
+    <string name="moving">Bezig met verplaatsen</string>
+    <string name="multizip">Inpakken</string>
+    <string name="newfile">Nieuw bestand</string>
+    <string name="newfolderwasnotcreated">Nieuwe map niet aangemaakt.</string>
+    <string name="ok">Ok</string>
+    <string name="options">Opties</string>
+    <string name="others">Overig:</string>
+    <string name="overwrite_destination">Bestemming</string>
+    <string name="overwrite_replace">Vervangen</string>
+    <string name="overwrite_replace_all">Alles vervangen</string>
+    <string name="overwrite_skip">Overslaan</string>
+    <string name="overwrite_skip_all">Alles overslaan</string>
+    <string name="overwrite_source">Bron</string>
+    <string name="overwrite_title">Doelbestand bestaat al</string>
+    <string name="owner">Eigenaar:</string>
+    <string name="packing">Inpakken</string>
+    <string name="paste">Plakken</string>
+    <string name="permissions">Machtigingen</string>
+    <string name="permissionschanged">Machtigingen zijn gewijzigd</string>
+    <string name="picker_choose_one_file">Kies een bestand</string>
+    <string name="pressbackagaintoquit">Tik nogmaals op terug om af te sluiten.</string>
+    <string name="read">Lezen</string>
+    <string name="rename">Naam wijzigen</string>
+    <string name="search">Zoeken</string>
+    <string name="searchtext">Zoeken</string>
+    <string name="selectall">Alles selecteren</string>
+    <string name="settings">Instellingen</string>
+    <string name="sha1_key">SHA-1:</string>
+    <string name="share">Delen</string>
+    <string name="shortcut">Snelkoppeling maken</string>
+    <string name="shortcutcreated">Snelkoppeling gemaakt.</string>
+    <string name="showpreview">Miniaturen</string>
+    <string name="simple">Simpel</string>
+    <string name="size">Gebruikt:</string>
+    <string name="sort">Sorteren</string>
+    <string name="sort_date">Datum</string>
+    <string name="sort_name">Naam</string>
+    <string name="sort_reverselist">Lijst omkeren</string>
+    <string name="sort_size">Grootte</string>
+    <string name="sort_type">Bestandstype</string>
+    <string name="sortpreferences">Sorteerinstellingen</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="theme">Thema</string>
+    <string name="total">Totale ruimte:</string>
+    <string name="uisettings">Instellingen bekijken</string>
+    <string name="unzipping">Uitpakken</string>
+    <string name="used">Gebruikt:</string>
+    <string name="viewmode">Weergavemodus</string>
+    <string name="write">Schrijven</string>
+    <string name="xdaforum">XDA forum</string>
+</resources>

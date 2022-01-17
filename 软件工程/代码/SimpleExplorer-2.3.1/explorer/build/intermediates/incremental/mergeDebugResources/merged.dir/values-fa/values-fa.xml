@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LastModified">تاریخ آخرین تغییر:</string>
+    <string name="_files">فایل ها</string>
+    <string name="_selected">u0020selected\</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"پیمایش به صفحه اصلی"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"‏%1$s‏، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"‏%1$s‏، %2$s‏، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"پیمایش به بالا"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"گزینه‌های بیشتر"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تمام"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"مشاهده همه"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"انتخاب برنامه"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"خاموش"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"روشن"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"جستجو…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"پاک کردن عبارت جستجو"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"عبارت جستجو"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"جستجو"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ارسال عبارت جستجو"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"جستجوی شفاهی"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"اشتراک‌گذاری با"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏اشتراک‌گذاری با %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"کوچک کردن"</string>
+    <string name="advancedsettings">پیشرفته</string>
+    <string name="app_name">Simple Explorer</string>
+    <string name="block_size">اندازه:</string>
+    <string name="bookmark">نشانک ها</string>
+    <string name="bookmarkadded">نشانه اضافه شده است.</string>
+    <string name="bookmarkexist">نشانه گذاری در حال حاضر وجود دارد!</string>
+    <string name="cancel">لغو</string>
+    <string name="cannotbeundoneareyousureyouwanttodelete">"این نمی تواند باطل شود!"</string>
+    <string name="cantopenfile">قادر به گشودن این پرونده نمی باشد</string>
+    <string name="cantreadfolder">پوشه با توجه به مجوزها قابل خواندن نمی باشد</string>
+    <string name="changegroupowner">تغییر مالک/گروه</string>
+    <string name="copiedtoclipboard">کپی به حافظه موقت.</string>
+    <string name="copy">رونوشت</string>
+    <string name="copyfail">رونوشت ناموفق!</string>
+    <string name="copying">کپی کردن</string>
+    <string name="copysuccsess">با موفقیت رونوشت شده است.</string>
+    <string name="create">ایجاد</string>
+    <string name="createbookmark">ایجاد نشانه گذاری</string>
+    <string name="created">"ایجاد شد."</string>
+    <string name="createmsg">تنظیم یک دوره قبل از متن برای ایجاد پوشه های مخفی.</string>
+    <string name="createnewfolder">ایجاد پوشه جدید</string>
+    <string name="dark">تیره</string>
+    <string name="defaultdir">فهرست پیش فرض</string>
+    <string name="delete">حذف</string>
+    <string name="deletesuccess">حذف موفق</string>
+    <string name="deleting">در حال حذف</string>
+    <string name="desc">desc</string>
+    <string name="detailed">دقیق</string>
+    <string name="details">دقیق</string>
+    <string name="dir_info">اطلاعات پوشه</string>
+    <string name="drawer_close">Close</string>
+    <string name="drawer_open">Open</string>
+    <string name="edit">ویرایش</string>
+    <string name="empty">خالی</string>
+    <string name="enable_root">فعال کردن دسترسی ریشه</string>
+    <string name="enter_name">نام را وارد کنید</string>
+    <string name="error">خطا</string>
+    <string name="execute">اجرا کردن</string>
+    <string name="exit">خروج</string>
+    <string name="extractionsuccess">بسته با موفقیت استخراج شد.</string>
+    <string name="extractto">استخراج به</string>
+    <string name="filecreated">پرونده ایجاد شد.</string>
+    <string name="fileexists">فایل وجود دارد.</string>
+    <string name="files">" فایل های"</string>
+    <string name="filewasrenamed">نام فایل تغییر کرد.</string>
+    <string name="free">فضای آزاد:</string>
+    <string name="group">گروه:</string>
+    <string name="hiddenfiles">فایل های مخفی</string>
+    <string name="itcouldntbefound">یافت نشد.</string>
+    <string name="light">نور</string>
+    <string name="location">محل سکونت:</string>
+    <string name="md5">MD5:</string>
+    <string name="move">انتقال</string>
+    <string name="movefail">انتقال ناموفق.</string>
+    <string name="movesuccsess">با موفقیت منتقل شد.</string>
+    <string name="moving">در حال انتقال</string>
+    <string name="multizip">فایل فشرده</string>
+    <string name="newfile">فایل جدید</string>
+    <string name="newfolderwasnotcreated">پوشه جدید ایجاد نشد.</string>
+    <string name="ok">تایید</string>
+    <string name="options">گزینه های</string>
+    <string name="others">دیگر:</string>
+    <string name="overwrite_destination">مقصد</string>
+    <string name="overwrite_replace">جایگزین</string>
+    <string name="overwrite_replace_all">همه جایگزین</string>
+    <string name="overwrite_skip">رد کردن</string>
+    <string name="overwrite_skip_all">رد کردن همه</string>
+    <string name="overwrite_source">منبع</string>
+    <string name="overwrite_title">فایل وجود دارد</string>
+    <string name="owner">مالک:</string>
+    <string name="packing">درحال بسته بندی</string>
+    <string name="paste">الحاق</string>
+    <string name="permissions">مجوز</string>
+    <string name="permissionschanged">مجوز تغییر کرد</string>
+    <string name="pressbackagaintoquit">برای خروج بازگشت را بزنید.</string>
+    <string name="read">خواندن</string>
+    <string name="rename">تغییر نام</string>
+    <string name="search">جستجو</string>
+    <string name="searchtext">جستجو</string>
+    <string name="selectall">انتخاب همه</string>
+    <string name="settings">تنظیمات</string>
+    <string name="share">اشتراک</string>
+    <string name="shortcut">ایجاد میانبر</string>
+    <string name="shortcutcreated">میانبر ایجاد شده است.</string>
+    <string name="showpreview">Thumbnails</string>
+    <string name="simple">ساده</string>
+    <string name="size">مورد استفاده:</string>
+    <string name="sort">مرتب کردن بر اساس</string>
+    <string name="sort_date">تاریخ</string>
+    <string name="sort_name">نام</string>
+    <string name="sort_reverselist">معکوس کردن لیست</string>
+    <string name="sort_size">اندازه</string>
+    <string name="sort_type">نوع</string>
+    <string name="sortpreferences">تنظیمات مرتب سازی</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"۹۹۹+"</string>
+    <string name="theme">تم</string>
+    <string name="total">فضای کل:</string>
+    <string name="uisettings">مشاهده تنظیمات</string>
+    <string name="unzipping">در حال استخراج</string>
+    <string name="used">مورد استفاده:</string>
+    <string name="viewmode">حالت نمایش</string>
+    <string name="write">نوشتن</string>
+    <string name="xdaforum">فروم XDA</string>
+</resources>

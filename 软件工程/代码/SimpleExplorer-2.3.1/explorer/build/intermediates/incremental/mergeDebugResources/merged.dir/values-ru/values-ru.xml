@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LastModified">Изменён:</string>
+    <string name="_files">\u0020файл(а,ов)</string>
+    <string name="_selected">\u0020выбрано</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="advancedsettings">Дополнительно</string>
+    <string name="app_name">Simple Explorer</string>
+    <string name="block_size">Размер блока:</string>
+    <string name="bookmark">Закладки</string>
+    <string name="bookmarkadded">Закладка добалена.</string>
+    <string name="bookmarkexist">Закладка уже существует!</string>
+    <string name="cancel">Отмена</string>
+    <string name="cannotbeundoneareyousureyouwanttodelete">"Вы уверены? Это необратимо!"</string>
+    <string name="cantopenfile">Не удаётся открыть файл</string>
+    <string name="cantreadfolder">Не удаётся прочитать папку из-за прав доступа!</string>
+    <string name="changegroupowner">Изменить группу/владельца</string>
+    <string name="copiedtoclipboard">Скопировано в буфер обмена.</string>
+    <string name="copy">Копировать</string>
+    <string name="copyfail">Копирование не удалось!</string>
+    <string name="copying">Копирование</string>
+    <string name="copysuccsess">Скопировано успешно.</string>
+    <string name="create">Создать</string>
+    <string name="createbookmark">Добавить закладку</string>
+    <string name="created">" создана."</string>
+    <string name="createmsg">Чтобы создать скрытую папку перед названием добавьте точку.</string>
+    <string name="createnewfolder">Создать папку</string>
+    <string name="dark">Тёмная</string>
+    <string name="defaultdir">Каталог по умолчанию</string>
+    <string name="delete">Удалить</string>
+    <string name="deletesuccess">Удалено успешно.</string>
+    <string name="deleting">Удаление</string>
+    <string name="desc">desc</string>
+    <string name="detailed">Подробный</string>
+    <string name="details">Свойства</string>
+    <string name="dir_info">Свойства папки</string>
+    <string name="drawer_close">Закрыть шторку</string>
+    <string name="drawer_open">Открыть шторку</string>
+    <string name="edit">Изменить</string>
+    <string name="empty">Пусто</string>
+    <string name="enable_root">Разрешить root-доступ</string>
+    <string name="enter_name">Как назовём?</string>
+    <string name="error">Ошибка</string>
+    <string name="execute">Выполн.</string>
+    <string name="exit">Выход</string>
+    <string name="extractionsuccess">Пакет успешно извлечен.</string>
+    <string name="extractto">Распаковать в</string>
+    <string name="filecreated">Файл создан.</string>
+    <string name="fileexists">Файл с таким именем уже существует!</string>
+    <string name="files">" файлов"</string>
+    <string name="filewasrenamed">Файл переименован.</string>
+    <string name="free">Свободно:</string>
+    <string name="group">Группа:</string>
+    <string name="hiddenfiles">Скрытые файлы</string>
+    <string name="itcouldntbefound">Ничего не найдено!</string>
+    <string name="light">Светлая</string>
+    <string name="location">Расположение:</string>
+    <string name="md5">MD5:</string>
+    <string name="move">Вырезать</string>
+    <string name="movefail">Перемещение не удалось!</string>
+    <string name="movesuccsess">Перемещено успешно.</string>
+    <string name="moving">Перемещение</string>
+    <string name="multizip">Упаковать в архив</string>
+    <string name="newfile">Создать файл</string>
+    <string name="newfolderwasnotcreated">Папка не создана!</string>
+    <string name="ok">OK</string>
+    <string name="options">Действия</string>
+    <string name="others">Прочие:</string>
+    <string name="overwrite_destination">Конечный:</string>
+    <string name="overwrite_replace">Заменить</string>
+    <string name="overwrite_replace_all">Заменить все</string>
+    <string name="overwrite_skip">Пропустить</string>
+    <string name="overwrite_skip_all">Пропустить все</string>
+    <string name="overwrite_source">Исходный:</string>
+    <string name="overwrite_title">Файл уже существует!</string>
+    <string name="owner">Владелец:</string>
+    <string name="packing">Упаковать в архив</string>
+    <string name="paste">Вставить</string>
+    <string name="permissions">Разрешения</string>
+    <string name="permissionschanged">Разрешения изменены.</string>
+    <string name="picker_choose_one_file">Выбрать файл</string>
+    <string name="pressbackagaintoquit">Для выхода нажмите ещё раз.</string>
+    <string name="read">Чтение</string>
+    <string name="rename">Переименовать</string>
+    <string name="search">Поиск</string>
+    <string name="searchtext">Что ищем?</string>
+    <string name="selectall">Выбрать всё</string>
+    <string name="settings">Настройки</string>
+    <string name="sha1_key">SHA-1:</string>
+    <string name="share">Отправить</string>
+    <string name="shortcut">Создать ярлык</string>
+    <string name="shortcutcreated">Ярлык создан.</string>
+    <string name="showpreview">Эскизы</string>
+    <string name="simple">Простой</string>
+    <string name="size">Размер:</string>
+    <string name="sort">Сортировка</string>
+    <string name="sort_date">По дате</string>
+    <string name="sort_name">По имени</string>
+    <string name="sort_reverselist">Обратный список</string>
+    <string name="sort_size">По размеру</string>
+    <string name="sort_type">По типу</string>
+    <string name="sortpreferences">Параметры сортировки</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="theme">Тема</string>
+    <string name="total">Вместимость:</string>
+    <string name="uisettings">Отображение</string>
+    <string name="unzipping">Извлечение файлов</string>
+    <string name="used">Занято:</string>
+    <string name="viewmode">Вид списка</string>
+    <string name="write">Запись</string>
+    <string name="xdaforum">XDA форум</string>
+</resources>

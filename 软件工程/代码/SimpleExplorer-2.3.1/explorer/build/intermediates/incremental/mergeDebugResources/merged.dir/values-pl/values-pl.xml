@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LastModified">Ostatnia modyfikacja:</string>
+    <string name="_files">\u0020plików</string>
+    <string name="_selected">\u0020zaznaczono</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobacz wszystkie"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"WŁ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Wyszukiwane hasło"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="advancedsettings">Zaawansowane</string>
+    <string name="app_name">Simple Explorer</string>
+    <string name="block_size">Rozmiar bloku:</string>
+    <string name="bookmark">Zakładki</string>
+    <string name="bookmarkadded">Zakładka dodana.</string>
+    <string name="bookmarkexist">Zakładka już istnieje!</string>
+    <string name="cancel">Anuluj</string>
+    <string name="cannotbeundoneareyousureyouwanttodelete">"Operacja nie może być cofnięta!"</string>
+    <string name="cantopenfile">Nie można otworzyć pliku</string>
+    <string name="cantreadfolder">Nie można otworzyć przez brak odpowiednich pozwoleń</string>
+    <string name="changegroupowner">Zmień grupe/właściciela</string>
+    <string name="copiedtoclipboard">Skopiowano do schowka</string>
+    <string name="copy">Kopiuj</string>
+    <string name="copyfail">Kopiowanie zakończone niepowodzieniem!</string>
+    <string name="copying">Kopiowanie</string>
+    <string name="copysuccsess">Skopiowano pomyślnie.</string>
+    <string name="create">Utwórz</string>
+    <string name="createbookmark">Utwórz zakładkę</string>
+    <string name="created">" Utworzono."</string>
+    <string name="createmsg">Wpisz kropkę przed nazwą, aby utworzyć ukryty folder.</string>
+    <string name="createnewfolder">Utwórz nowy folder</string>
+    <string name="dark">Ciemny</string>
+    <string name="defaultdir">Domyślny katalog</string>
+    <string name="delete">Usuń</string>
+    <string name="deletesuccess">Usuwanie pomyślne</string>
+    <string name="deleting">Usuwanie</string>
+    <string name="desc">malejąco</string>
+    <string name="detailed">Szczegółowy</string>
+    <string name="details">Szczegóły</string>
+    <string name="dir_info">Informacje o folderze</string>
+    <string name="drawer_close">Zamknij drawer nawigacyjny</string>
+    <string name="drawer_open">Otwórz drawer nawigacyjny</string>
+    <string name="edit">Edytuj</string>
+    <string name="empty">Brak wyników</string>
+    <string name="enable_root">Włącz dostęp root</string>
+    <string name="enter_name">Wprowadź nazwę</string>
+    <string name="error">Błąd</string>
+    <string name="execute">Wykonanie</string>
+    <string name="exit">Wyjdź</string>
+    <string name="extractionsuccess">Zakończono powodzeniem.</string>
+    <string name="extractto">Wypakuj do</string>
+    <string name="filecreated">Plik został utworzony.</string>
+    <string name="fileexists">Plik już istnieje.</string>
+    <string name="files">"\" Pliki"</string>
+    <string name="filewasrenamed">Nazwa pliku została zmieniona.</string>
+    <string name="free">Wolna przestrzeń:</string>
+    <string name="group">Grupa:</string>
+    <string name="hiddenfiles">Ukryte pliki</string>
+    <string name="itcouldntbefound">Nie znaleziono.</string>
+    <string name="light">Jasny</string>
+    <string name="location">Ścieżka:</string>
+    <string name="md5">MD5:</string>
+    <string name="move">Przenieś</string>
+    <string name="movefail">Przenoszenie zakończone niepowodzeniem.</string>
+    <string name="movesuccsess">Przeniesiono pomyślnie.</string>
+    <string name="moving">Przenoszenie</string>
+    <string name="multizip">Spakuj do pliku .zip</string>
+    <string name="newfile">Nowy plik</string>
+    <string name="newfolderwasnotcreated">Nowy folder nie został utworzony.</string>
+    <string name="ok">OK</string>
+    <string name="options">Ustawienia</string>
+    <string name="others">Inne:</string>
+    <string name="overwrite_destination">Przeznaczenie</string>
+    <string name="overwrite_replace">Zamień</string>
+    <string name="overwrite_replace_all">Zamień wszystkie</string>
+    <string name="overwrite_skip">Pomiń</string>
+    <string name="overwrite_skip_all">Pomiń wszystkie</string>
+    <string name="overwrite_source">Żródło</string>
+    <string name="overwrite_title">Plik docelowy już istnieje</string>
+    <string name="owner">Właściciel:</string>
+    <string name="packing">Pakowanie</string>
+    <string name="paste">Wklej</string>
+    <string name="permissions">Uprawnienia</string>
+    <string name="permissionschanged">Uprawnienia zmienione</string>
+    <string name="pressbackagaintoquit">Naciśnij klawisz powrotu ponownie, aby wyjść.</string>
+    <string name="read">Odczyt</string>
+    <string name="rename">Zmień nazwę</string>
+    <string name="search">Wyszukaj</string>
+    <string name="searchtext">Wyszukaj</string>
+    <string name="selectall">Zaznacz wszystkie</string>
+    <string name="settings">Ustawienia</string>
+    <string name="share">Udostępnij</string>
+    <string name="shortcut">Utwórz skrót</string>
+    <string name="shortcutcreated">Skrót utworzony.</string>
+    <string name="showpreview">Miniatury</string>
+    <string name="simple">Uproszczony</string>
+    <string name="size">Zajmowane miejsce:</string>
+    <string name="sort">Sortuj</string>
+    <string name="sort_date">Data</string>
+    <string name="sort_name">Nazwa</string>
+    <string name="sort_reverselist">Odwrócona lista</string>
+    <string name="sort_size">Rozmiar</string>
+    <string name="sort_type">Typ</string>
+    <string name="sortpreferences">Sortowanie</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="theme">Motyw</string>
+    <string name="total">Całkowia przestrzeń:</string>
+    <string name="uisettings">Zobacz ustawienia</string>
+    <string name="unzipping">Wypakowywanie</string>
+    <string name="used">Zajmowane:</string>
+    <string name="viewmode">Tryb wyświetlania</string>
+    <string name="write">Zapis</string>
+    <string name="xdaforum">Forum XDA</string>
+</resources>

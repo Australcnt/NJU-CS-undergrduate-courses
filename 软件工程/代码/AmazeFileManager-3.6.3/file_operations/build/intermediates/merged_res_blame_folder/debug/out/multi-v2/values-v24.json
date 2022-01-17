@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\file_operations\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\92469\\.gradle\\caches\\transforms-2\\files-2.1\\7b80ea5156e50148f06766990db7c4a0\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\file_operations\\build\\intermediates\\res\\merged\\debug\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\92469\\.gradle\\caches\\transforms-2\\files-2.1\\7b80ea5156e50148f06766990db7c4a0\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

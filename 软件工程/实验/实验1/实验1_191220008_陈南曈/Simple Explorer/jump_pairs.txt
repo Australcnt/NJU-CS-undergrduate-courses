@@ -1,0 +1,157 @@
+# 0 文件浏览
+0 1 点击任意文件/文件夹 null
+0 2 点击右上角搜索按钮 null
+2 3 点击右上角搜索按钮 null
+3 4 点击右下角搜索按钮 输入想要浏览的文件/文件夹的名称
+4 1 点击想要浏览的文件/文件夹 null
+
+# 1 长按选择
+0 5 长按任意一个文件/文件夹 null
+5 6 点击除已点击文件/文件夹以外的其它文件/文件夹 当前至少已有一个文件/文件夹被选中
+6 0 点击左上角返回按钮 null
+6 0 按任意顺序重新点击已选中的所有文件/文件夹 null
+
+# 2 文件压缩
+0 5 长按任意一个文件/文件夹 null
+5 20 点击右上角菜单按钮 null
+20 40 点击Zip选项 null
+40 41 点击OK按钮 null
+
+# 3 文件搜索
+0 2 点击右上角搜索按钮 null
+2 3 点击右上角搜索按钮 null
+3 4 点击右下角搜索按钮 输入想要浏览的文件/文件夹的名称
+4 1 点击想要搜索的文件/文件夹 null
+
+# 4 文件待粘贴
+0 5 长按任意一个文件/文件夹 null
+5 23 点击右上角右起第三个按钮 null
+5 31 点击右上角右起第二个按钮 null
+
+# 6 侧边栏
+0 7 点击左上角三根横线的按钮 null
+7 0 点击左上角返回按钮 null
+7 0 点击右侧灰色区域 null
+7 0 点击侧边栏SDCard选项 null
+7 8 点击侧边栏Root选项 null
+7 9 点击侧边栏System选项 null
+7 10 点击侧边栏Settings选项 null
+10 7 点击左上角返回按钮 null
+10 11 点击Reverse list栏或勾选该栏的勾选框 null
+10 12 点击Hidden file栏或取消勾选该栏的勾选框 null
+10 13 点击Sort栏 null
+13 10 点击Type栏 null
+13 10 点击CANCEL按钮 null
+13 10 点击灰色区域 null
+10 14 点击Theme栏 null
+14 10 点击Light栏 null
+14 10 点击CANCEL按钮 null
+14 10 点击灰色区域 null
+14 15 点击Dark栏 null
+10 16 点击Default directory栏 null
+16 10 点击CANCEL按钮 null
+16 10 点击OK按钮 null
+16 10 点击灰色区域 null
+10 17 点击View mode栏 null
+17 10 点击Detailed栏 null
+17 10 点击Simple栏 null
+17 10 点击CANCEL按钮 null
+17 10 点击灰色区域 null
+7 18 点击侧边栏Exit选项 null
+7 19 点击System选项右侧的叉号 null
+
+# 7 文件删除
+0 5 长按任意一个文件/文件夹 null
+5 20 点击右上角菜单按钮 null
+20 37 点击Delete选项 null
+37 38 点击DELETE按钮 null
+
+# 11 查看文件属性
+0 5 长按任意一个文件/文件夹 null
+5 20 点击右上角菜单按钮 null
+20 21 点击Details选项 null
+21 0 点击CANCEL按钮 null
+21 0 点击OK按钮 null
+21 0 点击灰色区域 null
+0 22 点击右上角右起第二个按钮 null
+22 0 点击OK按钮 null
+22 0 点击灰色区域 null
+
+# 12 重命名
+0 5 长按任意一个文件/文件夹 null
+5 20 点击右上角菜单按钮 null
+20 35 点击Rename选项 null
+35 36 点击OK按钮 输入更改后的名称Alarm_rename
+
+# 13 点击menu按钮（用于文件的copy粘贴压缩等功能的按钮）
+0 5 长按任意一个文件/文件夹 null
+5 23 点击右上角右起第三个按钮 null
+23 24 点击右上角右起第三个按钮 null
+24 0 点击REPLACE按钮 null
+24 0 点击REPLACE ALL按钮 null
+24 0 点击SKIP按钮 null
+24 0 点击SKIP ALL按钮 null
+24 23 点击CANCEL按钮 null
+24 23 点击灰色区域 null
+23 25 点击Android文件夹 null
+25 26 点击右上角右起第三个按钮 null
+0 27 长按Movie文件夹 null
+27 28 点击右上角右起第三个按钮null
+28 29 点击Movie文件夹
+29 30 点击右上角右起第三个按钮 null
+5 31 点击右上角右起第二个按钮 null
+31 32 点击右上角右起第三个按钮 null
+32 0 点击REPLACE按钮 null
+32 0 点击REPLACE ALL按钮 null
+32 0 点击SKIP按钮 null
+32 0 点击SKIP ALL按钮 null
+32 31 点击CANCEL按钮 null
+32 31 点击灰色区域 null
+31 33 点击Alarms 文件夹 null
+33 34 点击右上角右起第三个按钮 null
+5 20 点击右上角菜单按钮 null
+20 35 点击Rename选项 null
+35 0 点击CANCEL按钮 null
+35 0 点击OK按钮 null
+35 0 点击灰色区域 null
+35 36 点击OK按钮 输入更改后的名称Alarm_rename
+20 37 点击Delete选项 null
+37 0 点击CANCEL按钮 null
+37 0 点击灰色区域 null
+37 38 点击DELETE按钮 null
+20 39 点击Share选项 null
+39 0 点击灰色区域 null
+20 40 点击Zip选项 null
+40 0 点击CANCEL按钮 null
+40 0 点击灰色区域 null
+40 41 点击OK按钮 null
+20 21 点击Details选项 null
+21 0 点击CANCEL按钮 null
+21 0 点击OK按钮 null
+20 42 点击Select all按钮 null
+42 0 点击左上角返回按钮 null
+42 0 按任意顺序重新点击已选中的所有文件/文件夹 null
+
+# 14 设置
+0 7 点击左上角三根横线的按钮 null
+7 10 点击侧边栏Settings选项 null
+10 11 点击Reverse list栏或勾选该栏的勾选框 null
+10 12 点击Hidden file栏或取消勾选该栏的勾选框 null
+10 13 点击Sort栏 null
+10 14 点击Theme栏 null
+10 16 点击Default directory栏 null
+10 17 点击View mode栏 null
+13 10 点击Type栏 null
+13 10 点击CANCEL按钮 null
+13 10 点击灰色区域 null
+14 10 点击Light栏 null
+14 10 点击CANCEL按钮 null
+14 10 点击灰色区域 null
+14 15 点击Dark栏 null
+16 10 点击CANCEL按钮 null
+16 10 点击OK按钮 null
+16 10 点击灰色区域 null
+17 10 点击Detailed栏 null
+17 10 点击Simple栏 null
+17 10 点击CANCEL按钮 null
+17 10 点击灰色区域 null

@@ -1,0 +1,100 @@
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:64
+-keep class android.support.v4.content.FileProvider { <init>(...); }
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:24
+-keep class com.dnielfe.manager.BrowserActivity { <init>(...); }
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:49
+-keep class com.dnielfe.manager.PickerActivity { <init>(...); }
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:40
+-keep class com.dnielfe.manager.SearchActivity { <init>(...); }
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:23
+-keep class com.dnielfe.manager.debug.Newview { <init>(...); }
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:36
+-keep class com.dnielfe.manager.settings.SettingsActivity { <init>(...); }
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\src\main\res\layout\dialog_properties_container.xml:15
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\src\main\res\layout\activity_browser.xml:39
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\src\main\res\layout\activity_browser.xml:11
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_alert_dialog_material.xml:75
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_alert_dialog_button_bar_material.xml:40
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_list_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_alert_dialog_button_bar_material.xml:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_alert_dialog_material.xml:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_search_view.xml:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\src\main\res\layout\support_toolbar.xml:2
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\92469\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\cb6aa762578d0a5bbc08f1c7644bda5f\res\layout\abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\src\main\res\layout\activity_settings.xml:16
+-keep class com.dnielfe.manager.settings.SettingsFragment { <init>(...); }
+
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\src\main\res\layout\dialog_properties_container.xml:8
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\src\main\res\layout\activity_browser.xml:32
+-keep class com.dnielfe.manager.ui.PageIndicator { <init>(...); }
+
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\src\main\res\layout\fragment_browser.xml:43
+-keep class com.melnykov.fab.FloatingActionButton { <init>(...); }
+
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\src\main\res\layout\activity_browser.xml:23
+-keepclassmembers class * { *** checkDirInfo(...); }
+
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\src\main\res\layout\activity_newview.xml:8
+-keepclassmembers class * { *** goBackToMain(...); }
+
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\src\main\res\layout\fragment_browser.xml:23
+-keepclassmembers class * { *** goNewView(...); }
+
+# Referenced at C:\SimpleExplorer-2.3.1\explorer\src\main\res\layout\activity_settings.xml:9
+-keepclassmembers class * { *** goSearchFile(...); }
+

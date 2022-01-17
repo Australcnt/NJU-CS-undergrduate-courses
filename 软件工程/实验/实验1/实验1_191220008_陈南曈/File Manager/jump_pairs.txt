@@ -1,0 +1,187 @@
+# 0 文件浏览
+0 1 点击Internal Storage栏 null
+1 2 点击任意一个文件/文件夹 null
+1 3 点击右上角右起第三个搜索按钮 null
+3 4 点击右下角搜索按钮 输入想要浏览的文件/文件夹的名称
+4 5 点击想要浏览的文件/文件夹
+
+# 1 长按选择
+0 1 点击Internal Storage栏 null
+1 6 长按任意一个文件/文件夹 null
+6 7 点击除已点击文件/文件夹以外的其它文件/文件夹 当前至少已有一个文件/文件夹被选中
+7 1 点击左上角返回按钮 null
+7 1 按任意顺序重新点击已选中的所有文件/文件夹 null
+
+# 3 文件搜索
+0 1 点击Internal Storage栏 null
+1 3 点击右上角右起第三个搜索按钮 null
+3 4 点击右下角搜索按钮 输入想要浏览的文件/文件夹的名称
+4 5 点击想要浏览的文件/文件夹
+
+# 4 文件待粘贴
+1 19 点击任意文件所在栏右侧的菜单按钮 null
+19 48 点击Copy选项 null
+48 49 点击Android文件夹 null
+19 51 点击Cut选项 null
+51 52 点击Android文件夹 null
+
+# 6 侧边栏
+0 1 点击Internal Storage栏 null
+1 8 点击右上角三根横线的按钮 null
+8 0 点击Home选项 null
+8 1 点击Internal Storage选项 null
+8 9 点击SDCARD选项 null
+8 10 点击Phone选项 null
+8 11 点击Root选项 null
+8 12 点击Connections选项 null
+8 13 点击 User Apps选项 null
+8 14 点击System Apps选项 null
+8 15 点击Processes选项 null
+8 16 点击Recent选项 null
+8 17 点击STORAGE栏 null
+
+# 7 文件删除
+1 19 点击任意文件所在栏右侧的菜单按钮 null
+19 53 点击Delete选项 null
+53 19 点击CANCEL按钮 null
+53 19 点击OK按钮 null
+1 54 点击Audiobooks文件所在栏右侧的菜单按钮 null
+54 55 点击Delete选项
+55 56 点击OK按钮 null
+
+# 11 查看文件属性
+0 1 点击Internal Storage栏 null
+1 6 长按任意一个文件/文件夹 null
+6 18 点击右上角右起第三个按钮 null
+18 1 点击左侧灰色区域 null
+1 19 点击目标文件所在栏右侧的菜单按钮 null
+19 18 点击Info选项 null
+18 1 点击左侧灰色区域 null
+
+# 12 重命名
+1 19 点击任意文件所在栏右侧的菜单按钮 null
+19 46 点击Rename选项 null
+46 1 点击CANCEL按钮 null
+46 1 点击RENAME按钮 null
+46 1 点击灰色区域 null
+46 47 点击RENAME按钮 输入更改后的名称Android_rename
+
+# 13 点击menu按钮（用于文件的copy粘贴压缩等功能的按钮）
+0 1 点击Internal Storage栏 null
+1 20 点击右上角右起第一个菜单按钮 null
+20 21点击Sort by选项 null
+21 1 点击By name选项 null
+21 1 点击By date modified选项 null
+21 22 点击 By size选项 null
+20 23 点击Settings选项 null
+23 24 点击General选项 null
+24 25 点击Display folder size栏或勾选该栏的勾选框 null
+24 26 点击Display file size栏或取消勾选该栏的勾选框 null
+23 27 点击Theme选项 null
+27 28 点击Theme Style栏 null
+28 27 点击Light选项 null
+28 27 点击Auto选项 null
+28 27 点击CANCEL按钮 null
+28 27 点击灰色区域 null
+28 29 点击Dark选项 null
+27 30 点击Primary Color栏 null
+30 27 点击CANCEL按钮 null
+30 27 点击灰色区域 null
+30 31 点击OK按钮 null
+30 32 点击任意颜色 null
+32 33 点击第二行任意颜色 null
+33 27 点击CANCEL按钮 null
+33 27 点击灰色区域 null
+33 34 点击OK按钮 null
+27 35 点击Accent Color栏 null
+35 27 点击CANCEL按钮 null
+35 27 点击灰色区域 null
+35 27 点击OK按钮 null
+35 36 点击任意颜色 null
+36 27 点击CANCEL按钮 null
+36 27 点击灰色区域 null
+36 37 点击OK按钮 null
+23 38 点击Security选项 null
+38 39 点击Enable PIN Protection栏或勾选该栏的勾选框 null
+39 40 点击Set PIN栏 null
+40 39 点击CANCEL按钮 null
+40 41 点击右下角OK按钮 输入想要设置的PIN
+41 39 点击CANCEL按钮 null
+41 39 点击右下角OK按钮 输入与上一次相同的PIN
+41 42 点击右下角OK按钮 输入与上一次不同的PIN
+42 42 点击右下角OK按钮 输入与第一次不同的PIN
+42 39 点击右下角OK按钮 输入与第一次相同的PIN
+23 43 点击Advanced选项 null
+43 44 点击Display advanced栏或勾选该栏的勾选框 null
+44 43点击Display advanced栏或取消勾选该栏的勾选框 null
+20 45 点击Exit选项 null
+1 19 点击任意文件所在栏右侧的菜单按钮 null
+19 18 点击Info选项 null
+18 1 点击左侧灰色区域 null
+19 46 点击Rename选项 null
+46 1 点击CANCEL按钮 null
+46 1 点击RENAME按钮 null
+46 1 点击灰色区域 null
+46 47 点击RENAME按钮 输入更改后的名称Android_rename
+19 48 点击Copy选项 null
+48 19 点击左下角的叉号 null
+48 49 点击Android文件夹 null
+49 50 点击右下角的勾号 null
+19 51 点击Cut选项 null
+51 19 点击左下角的叉号 null
+51 52 点击Android文件夹 null‘
+52 52 点击右下角的勾号 null
+19 53 点击Delete选项 null
+53 19 点击CANCEL按钮 null
+53 19 点击OK按钮 null
+1 54 点击Audiobooks文件所在栏右侧的菜单按钮 null
+54 55 点击Delete选项
+55 56 点击OK按钮 null
+19 1 点击Compress选项 null
+19 57 点击Share选项 null
+57 1 点击灰色区域 null
+
+# 14 设置
+0 1 点击Internal Storage栏 null
+1 20 点击右上角右起第一个菜单按钮 null
+20 23 点击Settings选项 null
+23 24 点击General选项 null
+23 27 点击Theme选项 null
+23 38 点击Security选项 null
+23 43 点击Advanced选项 null
+24 25 点击Display folder size栏或勾选该栏的勾选框 null
+24 26 点击Display file size栏或取消勾选该栏的勾选框 null
+27 28 点击Theme Style栏 null
+28 27 点击Light选项 null
+28 27 点击Auto选项 null
+28 27 点击CANCEL按钮 null
+28 27 点击灰色区域 null
+28 29 点击Dark选项 null
+27 30 点击Primary Color栏 null
+30 27 点击CANCEL按钮 null
+30 27 点击灰色区域 null
+30 31 点击OK按钮 null
+30 32 点击任意颜色 null
+32 33 点击第二行任意颜色 null
+33 27 点击CANCEL按钮 null
+33 27 点击灰色区域 null
+33 34 点击OK按钮 null
+27 35 点击Accent Color栏 null
+35 27 点击CANCEL按钮 null
+35 27 点击灰色区域 null
+35 27 点击OK按钮 null
+35 36 点击任意颜色 null
+36 27 点击CANCEL按钮 null
+36 27 点击灰色区域 null
+36 37 点击OK按钮 null
+38 39 点击Enable PIN Protection栏或勾选该栏的勾选框 null
+39 40 点击Set PIN栏 null
+40 39 点击CANCEL按钮 null
+40 41 点击右下角OK按钮 输入想要设置的PIN
+41 39 点击CANCEL按钮 null
+41 39 点击右下角OK按钮 输入与上一次相同的PIN
+41 42 点击右下角OK按钮 输入与上一次不同的PIN
+42 42 点击右下角OK按钮 输入与第一次不同的PIN
+42 39 点击右下角OK按钮 输入与第一次相同的PIN
+43 44 点击Display advanced栏或勾选该栏的勾选框 null
+44 43点击Display advanced栏或取消勾选该栏的勾选框 null

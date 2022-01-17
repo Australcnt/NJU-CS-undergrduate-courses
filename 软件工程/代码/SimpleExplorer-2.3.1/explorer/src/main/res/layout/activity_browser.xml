@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:vpi="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E2EC7E"
+    android:orientation="vertical">
+
+    <include layout="@layout/support_toolbar" />
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Main content view -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="checkDirInfo"
+                android:text="Settings" />
+
+            <include layout="@layout/directory_buttons" />
+
+            <com.dnielfe.manager.ui.PageIndicator
+                android:id="@+id/indicator"
+                android:layout_width="match_parent"
+                android:layout_height="1.5dp"
+                android:background="?colorPrimary"
+                vpi:selectedColor="?colorAccent" />
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/pager"
+                android:layout_width="match_parent"
+                android:layout_height="509dp">
+
+            </android.support.v4.view.ViewPager>
+
+        </LinearLayout>
+
+        <!-- Navigation drawer -->
+
+        <ListView
+            android:id="@+id/left_drawer"
+            android:layout_width="@dimen/drawer_width"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="?android:attr/windowBackground"
+            android:divider="@null" />
+
+    </android.support.v4.widget.DrawerLayout>
+</LinearLayout>

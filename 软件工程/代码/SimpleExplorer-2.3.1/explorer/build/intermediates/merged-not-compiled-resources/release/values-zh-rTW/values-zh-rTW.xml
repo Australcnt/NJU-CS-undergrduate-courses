@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LastModified">最後修改:</string>
+    <string name="_files">\u0020file(s)</string>
+    <string name="_selected">\u0020選</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="advancedsettings">進階</string>
+    <string name="app_name">Simple Explorer</string>
+    <string name="block_size">塊大小：</string>
+    <string name="bookmark">書籤</string>
+    <string name="bookmarkadded">書籤新增完成.</string>
+    <string name="bookmarkexist">書籤已存在!</string>
+    <string name="cancel">取消</string>
+    <string name="cannotbeundoneareyousureyouwanttodelete">"無法被還原!"</string>
+    <string name="cantopenfile">無法打開此檔案</string>
+    <string name="cantreadfolder">權限限制而無法讀取資料夾.</string>
+    <string name="changegroupowner">更改組群/擁有者</string>
+    <string name="copiedtoclipboard">複製到剪貼簿。</string>
+    <string name="copy">複製</string>
+    <string name="copyfail">複製失敗!</string>
+    <string name="copying">複製中</string>
+    <string name="copysuccsess">複製成功.</string>
+    <string name="create">建立</string>
+    <string name="createbookmark">建立書籤</string>
+    <string name="created">" 建立完成."</string>
+    <string name="createmsg">Set a period before the text to create hidden folder.</string>
+    <string name="createnewfolder">建立新資料夾</string>
+    <string name="dark">暗</string>
+    <string name="defaultdir">預設路徑</string>
+    <string name="delete">刪除</string>
+    <string name="deletesuccess">成功刪除</string>
+    <string name="deleting">刪除中</string>
+    <string name="desc">其它</string>
+    <string name="detailed">明細</string>
+    <string name="details">明細</string>
+    <string name="dir_info">資料夾資訊</string>
+    <string name="drawer_close">關閉導航抽屜</string>
+    <string name="drawer_open">開啟導航抽屜</string>
+    <string name="edit">編輯</string>
+    <string name="empty">空白</string>
+    <string name="enable_root">啟用root權限</string>
+    <string name="enter_name">輸入名稱</string>
+    <string name="error">錯誤</string>
+    <string name="execute">Execute</string>
+    <string name="exit">退出</string>
+    <string name="extractionsuccess">包成功地提取了。</string>
+    <string name="extractto">提取至</string>
+    <string name="filecreated">檔案建立完成.</string>
+    <string name="fileexists">檔案已存在.</string>
+    <string name="files">" 檔案"</string>
+    <string name="filewasrenamed">檔案更名完成.</string>
+    <string name="free">可用空間:</string>
+    <string name="group">組群:</string>
+    <string name="hiddenfiles">隱藏檔案</string>
+    <string name="itcouldntbefound">它無法被發現.</string>
+    <string name="light">光</string>
+    <string name="location">位置：</string>
+    <string name="md5">MD5演算法:</string>
+    <string name="move">移動</string>
+    <string name="movefail">移動失敗.</string>
+    <string name="movesuccsess">移動成功.</string>
+    <string name="moving">移動中</string>
+    <string name="multizip">壓縮檔</string>
+    <string name="newfile">新檔案</string>
+    <string name="newfolderwasnotcreated">無法建立新資料夾.</string>
+    <string name="ok">可以</string>
+    <string name="options">選項</string>
+    <string name="others">其他：</string>
+    <string name="overwrite_destination">目標位置</string>
+    <string name="overwrite_replace">取代</string>
+    <string name="overwrite_replace_all">取代所有</string>
+    <string name="overwrite_skip">跳過</string>
+    <string name="overwrite_skip_all">跳過所有</string>
+    <string name="overwrite_source">來源</string>
+    <string name="overwrite_title">目標文件已經存在</string>
+    <string name="owner">擁有者：</string>
+    <string name="packing">打包</string>
+    <string name="paste">黏貼</string>
+    <string name="permissions">權限</string>
+    <string name="permissionschanged">許可權已被更改</string>
+    <string name="pressbackagaintoquit">再按一次返回將離開.</string>
+    <string name="read">讀取</string>
+    <string name="rename">更名</string>
+    <string name="search">搜尋</string>
+    <string name="searchtext">搜尋</string>
+    <string name="selectall">全部選擇</string>
+    <string name="settings">設定</string>
+    <string name="share">分享</string>
+    <string name="shortcut">建立捷徑</string>
+    <string name="shortcutcreated">捷徑建立完成.</string>
+    <string name="showpreview">縮圖</string>
+    <string name="simple">簡單</string>
+    <string name="size">佔用:</string>
+    <string name="sort">排序</string>
+    <string name="sort_date">日期</string>
+    <string name="sort_name">名稱</string>
+    <string name="sort_reverselist">反向清單</string>
+    <string name="sort_size">大小</string>
+    <string name="sort_type">類型</string>
+    <string name="sortpreferences">排序偏好</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="theme">主題</string>
+    <string name="total">總空間:</string>
+    <string name="uisettings">View 設定</string>
+    <string name="unzipping">解壓縮</string>
+    <string name="used">已用:</string>
+    <string name="viewmode">View 模式</string>
+    <string name="write">寫入</string>
+    <string name="xdaforum">XDA 論壇</string>
+</resources>

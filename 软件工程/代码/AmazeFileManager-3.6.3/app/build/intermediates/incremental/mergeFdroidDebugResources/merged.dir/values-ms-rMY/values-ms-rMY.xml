@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">BATAL</string>
+    <string name="color_title">Warna</string>
+    <string name="delete">Padam</string>
+    <string name="details">Butiran</string>
+    <string name="dialog_delete_title">Sahkan</string>
+    <string name="duration">Tempoh</string>
+    <string name="exposure_time">Masa Dedahan</string>
+    <string name="focal_length">Jarak Fokus</string>
+    <string name="height">Tinggi</string>
+    <string name="information">Maklumat</string>
+    <string name="path">Laluan</string>
+    <string name="save">Simpan</string>
+    <string name="share">Kongsi</string>
+    <string name="size_capitalized">Saiz</string>
+    <string name="sort_size">Saiz</string>
+    <string name="version">Versi</string>
+    <string name="width">Lebar</string>
+</resources>

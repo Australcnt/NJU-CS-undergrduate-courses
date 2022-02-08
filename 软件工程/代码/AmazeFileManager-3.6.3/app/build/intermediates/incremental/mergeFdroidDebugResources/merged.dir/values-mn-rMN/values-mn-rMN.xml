@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Цуцлах</string>
+    <string name="color_title">Өнгө</string>
+    <string name="delete">Устгах</string>
+    <string name="details">Дэлгэрэнгүй</string>
+    <string name="dialog_delete_title">Бататгах</string>
+    <string name="duration">Үргэлжлэх хугацаа</string>
+    <string name="exposure_time">Буулгалтын хугацаа</string>
+    <string name="focal_length">Фокусын зай</string>
+    <string name="height">Өндөр</string>
+    <string name="information">Мэдээлэл</string>
+    <string name="path">Зам</string>
+    <string name="save">Хадгалах</string>
+    <string name="share">Хуваалцах</string>
+    <string name="size_capitalized">Хэмжээ</string>
+    <string name="sort_size">Хэмжээ</string>
+    <string name="version">Хувилбар</string>
+    <string name="width">Өргөн</string>
+</resources>

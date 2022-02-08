@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="changelog">மாற்றம் பதிவு</string>
+    <string name="color_title">நிறம்</string>
+    <string name="default_string">இயல்புநிலை</string>
+    <string name="donate">நன்கொடை</string>
+    <string name="done">முடிந்தது</string>
+    <string name="edit">திருத்தம்</string>
+    <string name="exit">வெளியேறுதல்</string>
+    <string name="exposure_time">வெளிப்பாடு நேரம்</string>
+    <string name="focal_length">குவியத்தூரம்</string>
+    <string name="history">வரலாறு</string>
+    <string name="home">முகப்பு</string>
+    <string name="information">தகவல்</string>
+    <string name="install">நிறுவு</string>
+    <string name="no">இல்லை</string>
+    <string name="ok">சரி</string>
+    <string name="other">பிற</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="permission_other">பிற</string>
+    <string name="size_capitalized">அளவு</string>
+    <string name="skip">தவிர்</string>
+    <string name="sort_size">அளவு</string>
+    <string name="start_ftp">ஆரம்பி</string>
+    <string name="text">உரை</string>
+    <string name="version">பதிப்பு</string>
+    <string name="yes">ஆம்</string>
+</resources>

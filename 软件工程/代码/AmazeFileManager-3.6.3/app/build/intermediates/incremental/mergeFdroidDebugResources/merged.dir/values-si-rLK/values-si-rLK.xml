@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">අවලංගු කිරීම</string>
+    <string name="color_title">වර්ණය</string>
+    <string name="delete">මකන්න</string>
+    <string name="details">විස්තර</string>
+    <string name="dialog_delete_title">තහවුරු කරන්න</string>
+    <string name="duration">කාල සීමාව</string>
+    <string name="exposure_time">නිරාවරණ කාලය</string>
+    <string name="focal_length">නාභි දුර</string>
+    <string name="height">උස</string>
+    <string name="information">තොරතුරු</string>
+    <string name="password">මුරපදය</string>
+    <string name="path">මග</string>
+    <string name="save">සුරකින්න</string>
+    <string name="share">බෙදාගන්න</string>
+    <string name="size_capitalized">ප්‍රමාණය</string>
+    <string name="sort_size">ප්‍රමාණය</string>
+    <string name="version">අනුවාදය</string>
+    <string name="width">පළල</string>
+</resources>

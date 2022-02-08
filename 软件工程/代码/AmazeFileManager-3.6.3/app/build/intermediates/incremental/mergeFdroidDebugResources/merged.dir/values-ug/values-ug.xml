@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="done">تامام</string>
+    <string name="edit">تەھرىرلەش</string>
+    <string name="exit">چېكىنىش</string>
+    <string name="password">ئىم</string>
+    <string name="setting">تەڭشەش</string>
+    <string name="text">تېكىست</string>
+</resources>

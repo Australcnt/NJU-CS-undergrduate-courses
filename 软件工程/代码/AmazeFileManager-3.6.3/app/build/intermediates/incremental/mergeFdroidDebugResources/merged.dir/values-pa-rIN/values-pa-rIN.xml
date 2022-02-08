@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">ਰੰਗ</string>
+    <string name="exposure_time">ਐਕਸਪੋਜ਼ਰ ਸਮਾਂ</string>
+    <string name="focal_length">ਫੋਕਲ ਲੰਮਾਈ</string>
+    <string name="information">ਜਾਣਕਾਰੀ</string>
+    <string name="size_capitalized">ਆਕਾਰ</string>
+    <string name="sort_size">ਆਕਾਰ</string>
+    <string name="version">ਵਰਜਨ</string>
+</resources>

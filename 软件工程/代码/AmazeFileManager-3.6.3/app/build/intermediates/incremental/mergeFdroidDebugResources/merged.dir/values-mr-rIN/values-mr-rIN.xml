@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">रंग</string>
+    <string name="exposure_time">एक्सपोजर वेळ</string>
+    <string name="focal_length">फोकल लेंथः</string>
+    <string name="information">माहिती</string>
+    <string name="password">संकेतशब्द</string>
+    <string name="size_capitalized">आकार</string>
+    <string name="sort_size">आकार</string>
+    <string name="text">मजकूर</string>
+    <string name="version">आवृत्ती</string>
+</resources>

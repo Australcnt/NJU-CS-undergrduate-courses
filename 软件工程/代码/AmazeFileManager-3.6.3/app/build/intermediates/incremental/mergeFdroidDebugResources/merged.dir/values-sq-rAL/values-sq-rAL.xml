@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">Ngjyra</string>
+    <string name="exposure_time">Ora e ekspozimit</string>
+    <string name="focal_length">Largësia e fokusimit</string>
+    <string name="information">Informacione</string>
+    <string name="password">Fjalëkalimi</string>
+    <string name="size_capitalized">Madhësia</string>
+    <string name="sort_size">Madhësia</string>
+    <string name="version">Versioni</string>
+</resources>

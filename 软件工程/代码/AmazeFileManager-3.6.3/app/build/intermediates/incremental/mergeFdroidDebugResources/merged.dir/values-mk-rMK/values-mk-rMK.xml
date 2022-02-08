@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">Боја</string>
+    <string name="exposure_time">Време на експозиција</string>
+    <string name="focal_length">Фокусно растојание</string>
+    <string name="information">Информации</string>
+    <string name="size_capitalized">Големина</string>
+    <string name="sort_size">Големина</string>
+    <string name="version">Верзија</string>
+</resources>

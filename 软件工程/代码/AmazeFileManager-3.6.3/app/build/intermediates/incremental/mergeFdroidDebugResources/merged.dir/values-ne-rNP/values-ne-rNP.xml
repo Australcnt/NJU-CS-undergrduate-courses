@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">रद्द गर्नुहोस्</string>
+    <string name="color_title">रङ्ग</string>
+    <string name="delete">मेट्नुहोस्</string>
+    <string name="details">विवरणहरू</string>
+    <string name="dialog_delete_title">निश्चित गर्नुहोस्</string>
+    <string name="duration">अवधि:</string>
+    <string name="exposure_time">खु्ला गरिएको समय</string>
+    <string name="focal_length">फोकल लम्बाइ:</string>
+    <string name="height">उचाइ</string>
+    <string name="information">सूचना</string>
+    <string name="path">बाटो</string>
+    <string name="save">बचत गर्नुहोस्</string>
+    <string name="share">साझेदारी गर्नुहोस्</string>
+    <string name="size_capitalized">आकार</string>
+    <string name="sort_size">आकार</string>
+    <string name="version">संस्करण</string>
+    <string name="width">चौडाइ</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">വർണ്ണം</string>
+    <string name="donate">സംഭാവന</string>
+    <string name="exposure_time">എക്‌സ്പോഷർ സമയം</string>
+    <string name="focal_length">ഫോക്കൽ ദൈർഘ്യം</string>
+    <string name="history">ചരിത്രം</string>
+    <string name="information">വിവരം</string>
+    <string name="install">ഇൻസ്റ്റാൾ</string>
+    <string name="ok">ശരി</string>
+    <string name="password">പാസ്‌വേഡ്</string>
+    <string name="size_capitalized">വലുപ്പം</string>
+    <string name="sort_size">വലുപ്പം</string>
+    <string name="text">ടെക്സ്റ്റ്</string>
+    <string name="version">പതിപ്പ്</string>
+</resources>

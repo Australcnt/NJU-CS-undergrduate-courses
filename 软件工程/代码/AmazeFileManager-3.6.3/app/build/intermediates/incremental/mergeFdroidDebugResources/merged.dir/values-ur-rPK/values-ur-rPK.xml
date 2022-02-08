@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">رنگ</string>
+    <string name="exposure_time">ایکسپوژر کا وقت</string>
+    <string name="focal_length">ماسکہ کی طوالت</string>
+    <string name="information">معلومات</string>
+    <string name="size_capitalized">سائز</string>
+    <string name="sort_size">سائز</string>
+    <string name="version">ورژن</string>
+</resources>

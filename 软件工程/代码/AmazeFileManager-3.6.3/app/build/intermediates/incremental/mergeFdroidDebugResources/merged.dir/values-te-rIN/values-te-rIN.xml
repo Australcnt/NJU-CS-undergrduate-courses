@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">రంగు</string>
+    <string name="exposure_time">ఎక్స్‌పోజర్ సమయం</string>
+    <string name="focal_length">కేంద్రాంతరము</string>
+    <string name="information">సమాచారం</string>
+    <string name="password">పాస్‌వర్డ్</string>
+    <string name="size_capitalized">పరిమాణం</string>
+    <string name="sort_size">పరిమాణం</string>
+    <string name="text">పాఠం</string>
+    <string name="version">సంస్కరణ</string>
+</resources>

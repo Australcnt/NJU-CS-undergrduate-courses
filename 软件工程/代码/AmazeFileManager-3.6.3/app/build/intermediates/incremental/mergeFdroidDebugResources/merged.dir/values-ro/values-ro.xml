@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notificare nouă</item>
+    <item quantity="few">%d notificări noi</item>
+    <item quantity="other">%d de notificări noi</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gata"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Afișați tot"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DEZACTIVAT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meniu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Termen de căutare"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Trimiteți folosind <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <string name="about">Despre</string>
+    <string name="about_amaze_file_manager_label">Despre Amaze File Manager</string>
+    <string name="accent_color_summary">Setaţi culoarea FAB şi a altor elemente UI mici</string>
+    <string name="accent_color_title">Culoare accent</string>
+    <string name="add_shortcut">Adăugaţi o comandă rapidă</string>
+    <string name="add_to_bookmarks">Adăugaţi în marcaje</string>
+    <string name="anonymous">Anonim</string>
+    <string name="apks">Apk-uri</string>
+    <string name="apps">Gestionare aplicaţii</string>
+    <string name="archive">Arhivă</string>
+    <string name="archive_extract_folder">Dosar extragere arhivă</string>
+    <string name="archive_summary">Fișierele arhivă vor fi extrase în acest dosar. Valoarea implicită este dosarul în care este arhiva în prezent</string>
+    <string name="archive_text">Aceasta este o arhivă. Ce doriţi să faceţi?</string>
+    <string name="ascending">Ascendent</string>
+    <string name="authors">Autori</string>
+    <string name="back_summary">Activaţi navigarea personalizată Înapoi în partea de sus a listei</string>
+    <string name="back_title">Înapoi</string>
+    <string name="basque_translation_title">Bască</string>
+    <string name="bookmarks_added">Marcaje adăugate</string>
+    <string name="bottomsheet_action_expand_halfway">Extinde pe ecran complet</string>
+    <string name="calculating"> calculare </string>
+    <string name="cancel">ANULAŢI</string>
+    <string name="cant_be_empty">%s nu poate fi gol</string>
+    <string name="changelog">Istoric modificări</string>
+    <string name="character_counter_content_description">Caractere introduse: %1$d din %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
+    <string name="chinese_translation_title">Chineză</string>
+    <string name="choose_color">Selectaţi culoarea</string>
+    <string name="circular_icons">Utilizați pictograme circulare</string>
+    <string name="circular_images">Utilizați pictograme circulare pentru imagini și videoclipuri</string>
+    <string name="clear">Ştergeţi</string>
+    <string name="clear_text_end_icon_content_description">Ștergeți textul</string>
+    <string name="clipboard_path_copy">Cale copiată în clipboard</string>
+    <string name="color_summary">Setaţi culoarea diferitelor componente UI</string>
+    <string name="color_title">Culoare</string>
+    <string name="colored_navigation">Bară de navigare colorată</string>
+    <string name="colored_navigvation_sum">Colorarea sau nu a barei de navigare de sistem împreună cu skin-ul</string>
+    <string name="colorize">Colorare pictograme</string>
+    <string name="colorize_summary">Setare culoare statică pentru pictograme. Nu se suprascrie preferinţa de culoare pentru pictograma dosarului.</string>
+    <string name="compress">Arhivaţi</string>
+    <string name="connection_name">Nume conexiune</string>
+    <string name="contributors">Contribuitori</string>
+    <string name="copy">Copiere</string>
+    <string name="copying">Copiere</string>
+    <string name="copyingapk">Copiere apk în </string>
+    <string name="create">CREAŢI</string>
+    <string name="creatingfile">Creare fişier</string>
+    <string name="creatingfolder">Creare dosar</string>
+    <string name="cut">Mutare</string>
+    <string name="database">Bază de date</string>
+    <string name="databasereader">Reader baze de date</string>
+    <string name="date">Dată: </string>
+    <string name="default_string">Implicit</string>
+    <string name="delete">Ştergere</string>
+    <string name="deleting">Ştergere</string>
+    <string name="descending">Descendent</string>
+    <string name="details">Detalii</string>
+    <string name="dialog_delete_category_directories">Dosare</string>
+    <string name="dialog_delete_category_files">Fișiere</string>
+    <string name="dialog_delete_disclaimer">Doriţi să ștergeți următoarele fișiere?</string>
+    <string name="dialog_delete_title">Confirmaţi</string>
+    <string name="directorysort">Mod sortare</string>
+    <string name="documents">Documente</string>
+    <string name="doforall">Se execută pentru toate elementele</string>
+    <string name="doit">Fă-o</string>
+    <string name="donate">Donaţi</string>
+    <string name="done">Finalizat</string>
+    <string name="drawer_close">Închideţi sertarul de navigare</string>
+    <string name="drawer_open">Deschideţi sertarul de navigare</string>
+    <string name="duration">Durată</string>
+    <string name="dutch_translation_title">Olandeză</string>
+    <string name="edit">Editare</string>
+    <string name="enablerootmde">Activaţi modul Root</string>
+    <string name="entername">Introduceţi numele</string>
+    <string name="enterpath">Introduceţi calea</string>
+    <string name="enterzipname">Introduceţi numele fişierului Zip</string>
+    <string name="error">Eroare</string>
+    <string name="error_icon_content_description">Eroare</string>
+    <string name="exit">Ieşire</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Avansat"</string>
+    <string name="exposed_dropdown_menu_content_description">Afișați meniul drop-down</string>
+    <string name="exposure_time">Timp de expunere</string>
+    <string name="extract">Extrageţi</string>
+    <string name="extracting">Extragere</string>
+    <string name="feedback">Trimiteţi Feedback</string>
+    <string name="file">Fişier</string>
+    <string name="file_empty">Fişier gol</string>
+    <string name="fileexist">Un fișier cu același nume există deja </string>
+    <string name="files">Fişiere</string>
+    <string name="filesOnTop">Fişierele sus</string>
+    <string name="find">Căutaţi în pagină</string>
+    <string name="focal_length">Distanța focală</string>
+    <string name="folder">Dosar</string>
+    <string name="folders">Dosare</string>
+    <string name="foldersOnTop">Dosarele sus</string>
+    <string name="french_translation_title">Franceză</string>
+    <string name="german_translation_title">Germană</string>
+    <string name="goback">Înapoi</string>
+    <string name="grant">Acordaţi</string>
+    <string name="grant_storage_permission">Aplicaţia necesită permisiunea de stocare pentru a continua. Anularea acestui dialog va închide aplicația.</string>
+    <string name="grantfailed">Permisiun neacordată</string>
+    <string name="grantper">Acordaţi permisiunea</string>
+    <string name="greek_translation_title">Greacă</string>
+    <string name="gridcolumnno">Numărul de coloane din grilă</string>
+    <string name="gridview">Grilă</string>
+    <string name="height">Înălţime</string>
+    <string name="hidden">Afișare fișiere și dosare ascunse</string>
+    <string name="hiddenfiles">Fişiere ascunse</string>
+    <string name="hide">Ascundeţi</string>
+    <string name="history">Istoric</string>
+    <string name="home">Acasă</string>
+    <string name="icon">pictogramă</string>
+    <string name="icon_color_summary">Setaţi culoarea pictogramelor</string>
+    <string name="icon_color_title">Culoarea pictogramelor</string>
+    <string name="icon_content_description">Pictogramă de dialog</string>
+    <string name="image">Imagine</string>
+    <string name="images">Imagini</string>
+    <string name="in_safe">Spaţiu insuficient</string>
+    <string name="information">Informații</string>
+    <string name="install">Instalare</string>
+    <string name="ip">Adresă</string>
+    <string name="italian_translation_title">Italiană</string>
+    <string name="item">Element</string>
+    <string name="item_view_role_description">Filă</string>
+    <string name="items">Elemente</string>
+    <string name="korean_translation_title">Coreeană</string>
+    <string name="lastModified">Ultima modificare</string>
+    <string name="lastModifiedPref">Afişare ultima modificare</string>
+    <string name="lastModifiedSummary">Se afişează data și ora când fișierul a fost modificat ultima dată</string>
+    <string name="listview">Listă</string>
+    <string name="loading">Încărcare...</string>
+    <string name="location">Locaţie: </string>
+    <string name="material_clock_toggle_content_description">Selectați ora</string>
+    <string name="material_hour_selection">Selectați ora</string>
+    <string name="material_hour_suffix">Ora %1$s</string>
+    <string name="material_minute_selection">Selectați minutele</string>
+    <string name="material_minute_suffix">%1$s minute</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Pentru a introduce ora, comutați la modul ceas.</string>
+    <string name="material_timepicker_hour">Ora</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Selectați ora</string>
+    <string name="material_timepicker_text_input_mode_description">Pentru a introduce ora, comutați la modul de introducere a textului.</string>
+    <string name="miscellaneous">Diverse</string>
+    <string name="moving">Mutare</string>
+    <string name="mtrl_badge_numberless_content_description">Notificare nouă</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Peste %1$d notificări noi</string>
+    <string name="mtrl_picker_a11y_next_month">Treceți la luna următoare</string>
+    <string name="mtrl_picker_a11y_prev_month">Treceți la luna anterioară</string>
+    <string name="mtrl_picker_announce_current_selection">Selecția actuală: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selectați data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selectată</string>
+    <string name="mtrl_picker_day_of_week_column_header">Coloana cu zile: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format nevalid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplu: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Folosiți: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Interval nevalid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigați la anul %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fără acoperire: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de începere – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – data de încheiere</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selectați intervalul</string>
+    <string name="mtrl_picker_range_header_unselected">Data de începere – data de încheiere</string>
+    <string name="mtrl_picker_save">Salvați</string>
+    <string name="mtrl_picker_text_input_date_hint">Dată</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de încheiere</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de începere</string>
+    <string name="mtrl_picker_text_input_day_abbr">z</string>
+    <string name="mtrl_picker_text_input_month_abbr">l</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Comutați la modul introducere în calendar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei zile</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul de introducere a textului</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
+    <string name="name">Nume: </string>
+    <string name="needs_access">Acces pentru scriere necesar</string>
+    <string name="needs_access_summary">Selectaţi dosarul rădăcină pentru \t</string>
+    <string name="needs_access_summary1">\tpt. a acorda acces de scriere pentru a funcționa </string>
+    <string name="newfile">Fişier nou</string>
+    <string name="newfolder">Dosar nou</string>
+    <string name="no">Nu</string>
+    <string name="no_app_found">Nu s-a găsit nicio aplicaţie pentru a deschide acest fișier</string>
+    <string name="no_device_found">Niciun dispozitiv găsit</string>
+    <string name="no_file_overwrite">Nu s-a suprascris fişierul</string>
+    <string name="no_files">Niciun fişier</string>
+    <string name="none_on_top">Nimic sus</string>
+    <string name="not_allowed">Nu este permis</string>
+    <string msgid="478774118347071097" name="not_set">"Nesetată"</string>
+    <string name="ok">OK</string>
+    <string name="open">Deschideţi</string>
+    <string name="open_as">Deschidere ca</string>
+    <string name="open_parent">Deschideţi dosarul primar</string>
+    <string name="open_with">Deschideţi cu</string>
+    <string name="operation_unsuccesful">Operaţie nereuşită</string>
+    <string name="other">Altele</string>
+    <string name="overwrite">Suprascriere</string>
+    <string name="package_installer">Instalare pachete</string>
+    <string name="package_installer_text">Acesta este un pachet de instalare. Ce doriţi să faceţi?</string>
+    <string name="password">Parolă</string>
+    <string name="password_toggle_content_description">Afișați parola</string>
+    <string name="paste">Lipire</string>
+    <string name="path">Cale</string>
+    <string name="permission">Permisiuni</string>
+    <string name="permission_read">Citește</string>
+    <string name="pick_a_file">Selectaţi un fişier</string>
+    <string name="play">Magazin Play</string>
+    <string name="polish_translation_title">Poloneză</string>
+    <string name="portuguese_translation_title">Portugeză</string>
+    <string msgid="7961817945132860002" name="preference_copied">"„<ns1:g id="SUMMARY">%1$s</ns1:g>” a fost copiat în clipboard."</string>
+    <string name="press_again">Apăsați din nou pentru a ieși</string>
+    <string name="primary_color_summary">Setaţi culoarea elementelor UI mari</string>
+    <string name="primary_color_title">Culoare primară</string>
+    <string name="process_viewer">Vizualizare proces</string>
+    <string name="properties">Proprietăţi</string>
+    <string name="question_set_path_as_home">Doriţi să setați calea actuală ca Dosar Acasă pentru această filă?</string>
+    <string name="quick">Acces rapid</string>
+    <string name="random">Skin aleator</string>
+    <string name="random_summary">Setare culoare primară aleatorie la pornire</string>
+    <string name="rate">Evaluaţi aplicaţia</string>
+    <string name="recent">Fişiere recente</string>
+    <string name="rename">Redenumiţi</string>
+    <string name="rename_bookmark">Modificaţi marcajul</string>
+    <string name="renaming">Redenumire</string>
+    <string name="romanian_translation_title">Română</string>
+    <string name="root_failure">Accesul root nu a fost acordat</string>
+    <string name="root_mode_summary">Doar pentru dispozitive cu acces root. Bifaţi numai dacă sunteți sigur.</string>
+    <string name="root_pref">Afişare permisiuni</string>
+    <string name="root_pref_summary">Se afişează permisiunile fișierelor și dosarelor</string>
+    <string name="russian_translation_title">Rusă</string>
+    <string name="save">Salvaţi</string>
+    <string name="save_path_summary">La pornire, dosarul cel mai recent văzut pentru fiecare filă va fi afișat</string>
+    <string name="save_paths">Memorizare căi</string>
+    <string name="saving">Salvare</string>
+    <string name="search">Căutare</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Căutați"</string>
+    <string name="searching_devices">Căutare dispozitive</string>
+    <string name="select">Selectaţi elementele</string>
+    <string name="select_all">Selectaţi tot</string>
+    <string name="select_intent">Selectaţi</string>
+    <string name="serbian_translation_title">Sârbă</string>
+    <string name="set">Setare</string>
+    <string name="set_as_home">Setaţi ca Acasă</string>
+    <string name="set_random">Modificările vor intra în vigoare după repornirea aplicației</string>
+    <string name="setting">Setări</string>
+    <string name="share">Distribuiţi</string>
+    <string name="show_dividers">Afişare divizoare</string>
+    <string name="size_capitalized">Dimensiune</string>
+    <string name="size_pref">Afişare dimensiuni</string>
+    <string name="size_pref_summary">Se afişează dimensiunea fișierelor și numărul de elemente în dosare</string>
+    <string name="skip">Omiteţi</string>
+    <string name="smb_connection">Conexiune SMB</string>
+    <string name="smb_server">Server: Adresă IP sau Adresă IP/DosarPartajat</string>
+    <string name="sort">Sortare</string>
+    <string name="sort_by">Sortare după</string>
+    <string name="sort_name">Nume</string>
+    <string name="sort_size">Dimensiune</string>
+    <string name="spanish_translation_title">Spaniolă</string>
+    <string name="start_ftp">Pornire</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stopping">Oprire</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="textreader">Reader text</string>
+    <string name="theme">Temă</string>
+    <string name="thumb">Afişare miniaturi</string>
+    <string name="thumb_summary">Se afişează miniaturile aplicațiilor și imaginilor</string>
+    <string name="translators">Traducători</string>
+    <string name="turkish_translation_title">Turcă</string>
+    <string name="type">Tip</string>
+    <string name="ui">Interfaţă</string>
+    <string name="ukrainian_translation_title">Ucraineană</string>
+    <string name="unin_system_apk">Aceasta este o aplicație de sistem, ștergerea ei ar putea duce la instabilitatea sistemului.\nContinuaţi?</string>
+    <string name="uninstall">Dezinstalaţi</string>
+    <string name="unsaved_changes">Modificări nesalvate</string>
+    <string name="unsaved_changes_description">Aveți modificări nesalvate, doriţi să le salvați înainte de a ieși?</string>
+    <string name="username">Nume utilizator</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"DEZACTIVAT"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ACTIVAT"</string>
+    <string name="version">Versiune</string>
+    <string name="video">Videoclip</string>
+    <string name="videos">Videoclipuri</string>
+    <string name="view">Vizualizare</string>
+    <string name="want_help"><u>Aveţi nevoie de ajutor?</u></string>
+    <string name="warning">Avertizare</string>
+    <string name="width">Lăţime</string>
+    <string name="xda_summary">Î. şi R., Ajutor şi Depanare</string>
+    <string name="xda_title">XDA</string>
+    <string name="yes">Da</string>
+    <string name="zip_viewer">Vizualizator Zip</string>
+</resources>

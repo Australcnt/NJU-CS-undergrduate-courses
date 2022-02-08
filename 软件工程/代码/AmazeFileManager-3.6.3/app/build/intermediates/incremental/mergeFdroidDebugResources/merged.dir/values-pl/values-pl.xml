@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nowe powiadomienie</item>
+    <item quantity="few">%d nowe powiadomienia</item>
+    <item quantity="many">%d nowych powiadomień</item>
+    <item quantity="other">%d nowego powiadomienia</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Przejdź na stronę główną"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Pokaż wszystko"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"WŁ."</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funkcyjny+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spacja"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Zapytanie"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Udostępnij przez:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="about">Informacje</string>
+    <string name="about_amaze_file_manager_label">O menedżerze plików Amaze</string>
+    <string name="accent_color_summary">Ustala kolor przycisków czynności i małych elementów interfejsu</string>
+    <string name="accent_color_title">Kolor akcentów</string>
+    <string name="accessed">Uzyskano dostęp</string>
+    <string name="add_shortcut">Dodaj skrót</string>
+    <string name="add_to_bookmarks">Dodaj do zakładek</string>
+    <string name="advanced_search">Zaawansowane wyszukiwanie</string>
+    <string name="album">Album</string>
+    <string name="anonymous">Anonimowy</string>
+    <string name="aperture_value">Wartość przysłony</string>
+    <string name="apks">Aplikacje</string>
+    <string name="app_name">Menedżer plików Amaze</string>
+    <string name="apps">Menedżer aplikacji</string>
+    <string name="archive">Archiwum</string>
+    <string name="archive_extract_folder">Katalog wypakowywania</string>
+    <string name="archive_summary">Wskazuje ścieżkę wypakowania plików z archiwum. Domyślnie: aktualny katalog archiwum.</string>
+    <string name="archive_text">To jest archiwum. Jaką czynność wykonać?</string>
+    <string name="artist">Wykonawca</string>
+    <string name="ascending">Rosnąco</string>
+    <string name="audio">Muzyka</string>
+    <string name="author">Autor</string>
+    <string name="authors">Autorzy</string>
+    <string name="back_summary">Wyświetla przycisk powrotu na górze listy</string>
+    <string name="back_title">Przycisk cofania</string>
+    <string name="backup">Utwórz kopię zapasową</string>
+    <string name="basque_translation_title">Baskijski</string>
+    <string name="bitrate">Częstotliwość próbkowania</string>
+    <string name="blue">Niebieski</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bookmark_lost">Nie odnaleziono zakładki, ponowne tworzenie…</string>
+    <string name="bookmarks_added">Dodano zakładki</string>
+    <string name="bottomsheet_action_expand_halfway">Rozwiń do połowy</string>
+    <string name="byte_singular">bajtów</string>
+    <string name="bytes">Bajtów</string>
+    <string name="calculating"> obliczanie </string>
+    <string name="camera_brand">Marka aparatu</string>
+    <string name="camera_model">Model aparatu</string>
+    <string name="cancel">Anuluj</string>
+    <string name="cancelled">Anulowano</string>
+    <string name="cant_be_empty">%s nie może być pusty</string>
+    <string name="change">Zmień</string>
+    <string name="changelog">Lista zmian</string>
+    <string name="channels">Ścieżki</string>
+    <string name="character_counter_content_description">%1$d z %2$d znaków</string>
+    <string name="character_counter_overflowed_content_description">Przekroczono limit znaków (%1$d z %2$d)</string>
+    <string name="chinese_translation_title">Chiński</string>
+    <string name="choose_color">Wybierz kolor</string>
+    <string name="circular_icons">Okrągłe ikony</string>
+    <string name="circular_images">Używa okrągłych ikon dla obrazów i wideo</string>
+    <string name="clear">Wyczyść</string>
+    <string name="clear_text_end_icon_content_description">Wyczyść tekst</string>
+    <string name="clipboard_path_copy">Skopiowano ścieżkę</string>
+    <string name="close">Zamknij</string>
+    <string name="cloud_drive">Google Drive™</string>
+    <string name="cloud_dropbox">Dropbox</string>
+    <string name="cloud_onedrive">OneDrive</string>
+    <string name="codec">Kodek</string>
+    <string name="color_summary">Ustala kolory różnych elementów interfejsu</string>
+    <string name="color_title">Kolor</string>
+    <string name="colored_navigation">Kolorowy pasek nawigacji</string>
+    <string name="colored_navigvation_sum">Koloruje pasek nawigacji zgodnie z kolorystyką aplikacji</string>
+    <string name="colorize">Kolorowanie ikon</string>
+    <string name="colorize_summary">Ustawia statyczny kolor ikon. Nie zastępuje preferowanego koloru ikon katalogów.</string>
+    <string name="comment">Komentarz</string>
+    <string name="compress">Skompresuj</string>
+    <string name="compressing">Kompresowanie</string>
+    <string name="compression_complete">Zakończono kompresowanie</string>
+    <string name="connection_name">Nazwa połączenia</string>
+    <string name="container">Kontener</string>
+    <string name="contributors">Współtwórcy</string>
+    <string name="contributors_1_summary">Tłumaczenie</string>
+    <string name="contributors_2_summary">Ikony i bannery</string>
+    <string name="contributors_6_summary">Serwer FTP</string>
+    <string name="copied">skopiowano</string>
+    <string name="copy">Skopiuj</string>
+    <string name="copy_complete">Zakończono kopiowanie</string>
+    <string name="copy_error">Nie %s niektórych plików</string>
+    <string name="copying">Kopiowanie</string>
+    <string name="copyingapk">Kopiowanie aplikacji do </string>
+    <string name="create">Utwórz</string>
+    <string name="created">Utworzono</string>
+    <string name="creatingfile">Tworzenie pliku</string>
+    <string name="creatingfolder">Tworzenie katalogu</string>
+    <string name="creator">Kreator</string>
+    <string name="crypt_decrypt">Odszyfruj</string>
+    <string name="crypt_decrypted">Odszyfrowano</string>
+    <string name="crypt_decrypting">Odszyfrowywanie</string>
+    <string name="crypt_decryption_fail_password">Błędne hasło!</string>
+    <string name="crypt_encrypt">Zaszyfruj</string>
+    <string name="crypt_encrypted">Zaszyfrowano</string>
+    <string name="crypt_encrypting">Szyfrowanie</string>
+    <string name="crypt_fingerprint_authenticate">Dotknij czujnika by kontynuować</string>
+    <string name="crypt_pref_fingerprint_title">Odcisk palca</string>
+    <string name="current_speed">Aktualna prędkość</string>
+    <string name="cut">Wytnij</string>
+    <string name="dark">Ciemny \"material\"</string>
+    <string name="database">Baza danych</string>
+    <string name="databasereader">Czytnik baz danych</string>
+    <string name="date">Data</string>
+    <string name="date_modified">Data modyfikacji</string>
+    <string name="date_taken">Data wykonania</string>
+    <string name="daytime">Zależny od pory dnia</string>
+    <string name="default_string">Domyślnie</string>
+    <string name="delbook">Usuń zakładkę</string>
+    <string name="delete">Usuń</string>
+    <string name="deleting">Usuwanie</string>
+    <string name="descending">Malejąco</string>
+    <string name="details">Szczegóły</string>
+    <string name="dialog_delete_category_directories">Katalogi</string>
+    <string name="dialog_delete_category_files">Pliki</string>
+    <string name="dialog_delete_disclaimer">Czy usunąć następujące pliki?</string>
+    <string name="dialog_delete_title">Potwierdź</string>
+    <string name="dimensions">Wymiary</string>
+    <string name="directorysort">Tryb sortowania katalogów</string>
+    <string name="documents">Dokumenty</string>
+    <string name="doforall">Wykonaj dla wszystkich elementów</string>
+    <string name="doit">Gotowe</string>
+    <string name="domain">Domena</string>
+    <string name="donate">Dotacja</string>
+    <string name="done">Gotowe</string>
+    <string name="drawer_close">Zamknij pasek nawigacji</string>
+    <string name="drawer_open">Otwórz pasek nawigacji</string>
+    <string name="duration">Czas trwania</string>
+    <string name="dutch_translation_title">Holenderski</string>
+    <string name="easter_egg_title">Tryb studio</string>
+    <string name="edit">Edytuj</string>
+    <string name="enablerootmde">Włącz tryb roota</string>
+    <string name="entername">Wprowadź nazwę</string>
+    <string name="enterpath">Wprowadź ścieżkę</string>
+    <string name="enterzipname">Wpisz nazwę archiwum</string>
+    <string name="error">Błąd</string>
+    <string name="error_file_not_found">Błąd! Nie odnaleziono pliku</string>
+    <string name="error_icon_content_description">Błąd</string>
+    <string name="error_io">Błąd wejścia/wyjścia</string>
+    <string name="exit">Zakończ</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Zaawansowane"</string>
+    <string name="exposed_dropdown_menu_content_description">Pokaż menu</string>
+    <string name="exposure_time">Czas ekspozycji</string>
+    <string name="extract">Rozpakuj</string>
+    <string name="extract_complete">Zakończono rozpakowywanie</string>
+    <string name="extracting">Rozpakowywanie</string>
+    <string name="feedback">Wyślij opinię</string>
+    <string name="field_empty">Pole nie może być puste</string>
+    <string name="file">Plik</string>
+    <string name="file_empty">Plik jest pusty</string>
+    <string name="fileexist">Istnieje już plik o takiej nazwie </string>
+    <string name="files">Pliki</string>
+    <string name="filesOnTop">Pliki na górze</string>
+    <string name="find">Znajdź na stronie</string>
+    <string name="flash_fired">Z lampą</string>
+    <string name="focal_length">Ogniskowa</string>
+    <string name="folder">Katalog</string>
+    <string name="folders">Katalogi</string>
+    <string name="foldersOnTop">Katalogi na górze</string>
+    <string name="format">Typ pliku</string>
+    <string name="frame_rate">Klatki na sekundę</string>
+    <string name="french_translation_title">Francuski</string>
+    <string name="ftp">Serwer FTP</string>
+    <string name="ftp_login">Zaloguj</string>
+    <string name="ftp_no_wifi">Upewnij się, że jesteś połączony z siecią Wi-Fi</string>
+    <string name="ftp_notif_starting">Uruchamianie serwera FTP</string>
+    <string name="ftp_notif_starting_title">Serwer FTP</string>
+    <string name="ftp_notif_stop_server">ZATRZYMAJ</string>
+    <string name="ftp_notif_text">pod adresem: %s</string>
+    <string name="ftp_notif_title">Serwer Amaze FTP jest uruchomiony</string>
+    <string name="ftp_path_change_error_invalid">Nieprawidłowa ścieżka</string>
+    <string name="ftp_port">Port</string>
+    <string name="ftp_port_change_error_invalid">Wprowadzono nieprawidłowy numer portu</string>
+    <string name="ftp_port_change_success">Port FTP zmieniony pomyślnie</string>
+    <string name="ftp_port_edit_menu_title">Wybierz port FTP</string>
+    <string name="ftp_status_no_connection">Brak połączenia</string>
+    <string name="ftp_status_not_running">Nie uruchomiony</string>
+    <string name="ftp_status_running">Uruchomiony</string>
+    <string name="ftp_status_secure_connection">Bezpieczne połączenie</string>
+    <string name="ftp_status_title">Status</string>
+    <string name="general">Ogólne</string>
+    <string name="german_translation_title">Niemiecki</string>
+    <string name="goback">Wstecz</string>
+    <string name="grant">Przyznaj</string>
+    <string name="grant_storage_permission">Aplikacja potrzebuje uprawnień do pamięci, by kontynuować. Anulowanie tego okna dialogowego spowoduje zamknięcie aplikacji.</string>
+    <string name="grantfailed">Nie przyznano uprawnień</string>
+    <string name="grantper">Przyznaj uprawnienia</string>
+    <string name="greek_translation_title">Grecki</string>
+    <string name="green">Zielony</string>
+    <string name="gridcolumnno">Liczba kolumn w widoku siatki</string>
+    <string name="gridview">Widok siatki</string>
+    <string name="hash_sha256">SHA-256</string>
+    <string name="height">Wysokość</string>
+    <string name="hidden">Ukryte pliki i katalogi</string>
+    <string name="hiddenfiles">Ukryte pliki</string>
+    <string name="hide">Ukryj</string>
+    <string name="history">Historia</string>
+    <string name="home">Start</string>
+    <string name="icon">ikona</string>
+    <string name="icon_color_summary">Ustala kolor ikon</string>
+    <string name="icon_color_title">Kolor ikon</string>
+    <string name="icon_content_description">Ikona okna</string>
+    <string name="image">Obraz</string>
+    <string name="image_iso">Indeks prędkości ISO</string>
+    <string name="image_type">Rodzaj obrazu</string>
+    <string name="images">Obrazy</string>
+    <string name="in_safe">Za mało pamięci</string>
+    <string name="information">Informacja</string>
+    <string name="install">Zainstaluj</string>
+    <string name="intellihide_toolbar_summary">Automatycznie ukryj paski narzędzi podczas przewijania</string>
+    <string name="invalid">Nieprawidłowa %s</string>
+    <string name="invalid_name">Nieprawidłowa nazwa</string>
+    <string name="ip">Adres</string>
+    <string name="italian_translation_title">Włoski</string>
+    <string name="item">Element</string>
+    <string name="item_view_role_description">Karta</string>
+    <string name="items">Elementy</string>
+    <string name="japanese_translation_title">Japoński</string>
+    <string name="keywords">Słowa kluczowe</string>
+    <string name="korean_translation_title">Koreański</string>
+    <string name="lastModified">Data modyfikacji</string>
+    <string name="lastModifiedPref">Data ostatniej modyfikacji</string>
+    <string name="lastModifiedSummary">Wyświetla datę i czas ostatniej modyfikacji pliku</string>
+    <string name="light">Jasny \"material\"</string>
+    <string name="listview">Widok listy</string>
+    <string name="loading">Wczytywanie…</string>
+    <string name="location">Lokalizacja</string>
+    <string name="match_content">Dopasowanie zawartości</string>
+    <string name="match_content_summary">Dopasowuje wyrażenie regularne do całej nazwy pliku zamiast jej fragmentu.</string>
+    <string name="material_clock_toggle_content_description">Wybierz: przed południem czy po południu</string>
+    <string name="material_hour_selection">Wybierz godzinę</string>
+    <string name="material_hour_suffix">%1$s</string>
+    <string name="material_minute_selection">Wybierz minuty</string>
+    <string name="material_minute_suffix">%1$s minut</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Aby wprowadzić czas, włącz tryb zegara.</string>
+    <string name="material_timepicker_hour">Godzina</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Określ czas</string>
+    <string name="material_timepicker_text_input_mode_description">Aby wprowadzić czas, włącz tryb wprowadzania tekstu.</string>
+    <string name="md5">MD5: </string>
+    <string name="medium_text">Średni tekst</string>
+    <string name="miscellaneous">Różne</string>
+    <string name="modified">Zmodyfikowano</string>
+    <string name="moved">przeniesiono</string>
+    <string name="moving">Przenoszenie</string>
+    <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
+    <string name="mtrl_chip_close_icon_content_description">Usuń: (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Liczba nowych powiadomień przekracza %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Zmień na następny miesiąc</string>
+    <string name="mtrl_picker_a11y_prev_month">Zmień na poprzedni miesiąc</string>
+    <string name="mtrl_picker_announce_current_selection">Bieżący wybór: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Wybierz datę</string>
+    <string name="mtrl_picker_date_header_unselected">Wybrana data</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolumna z dniami: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nieprawidłowy format.</string>
+    <string name="mtrl_picker_invalid_format_example">Przykład: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Użyj formatu: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Nieprawidłowy zakres.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Przejdź do roku %1$s</string>
+    <string name="mtrl_picker_out_of_range">Poza zakresem: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data rozpoczęcia – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – data zakończenia</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Wybierz zakres</string>
+    <string name="mtrl_picker_range_header_unselected">Data rozpoczęcia – data zakończenia</string>
+    <string name="mtrl_picker_save">Zapisz</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data zakończenia</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data rozpoczęcia</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">r</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Włącz kalendarzowy tryb wprowadzania</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Kliknij, by wybrać dzień</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Włącz tekstowy tryb wprowadzania</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Kliknij, by wybrać rok</string>
+    <string name="name">Nazwa</string>
+    <string name="needs_access">Wymagane uprawnienia zapisu</string>
+    <string name="needs_access_summary">Proszę wybrać główny katalog dla \t</string>
+    <string name="needs_access_summary1">\taby przyznać dostęp zapisu dla operacji </string>
+    <string name="newfile">Nowy plik</string>
+    <string name="newfolder">Nowy katalog</string>
+    <string name="no">Nie</string>
+    <string name="no_app_found">Nie odnaleziono aplikacji potrzebnej do otworzenia tego pliku</string>
+    <string name="no_device_found">Nie znaleziono żadnego urządzenia</string>
+    <string name="no_file_overwrite">Nie zastąpiono pliku</string>
+    <string name="no_files">Brak plików</string>
+    <string name="no_items">Brak elementów</string>
+    <string name="none_on_top">Nic na górze</string>
+    <string name="not_allowed">Niedozwolone</string>
+    <string msgid="478774118347071097" name="not_set">"Nie ustawiono"</string>
+    <string name="of">z</string>
+    <string name="ok">OK</string>
+    <string name="open">Otwórz</string>
+    <string name="open_as">Otwórz jako</string>
+    <string name="open_parent">Otwórz katalog nadrzędny</string>
+    <string name="open_with">Otwórz za pomocą</string>
+    <string name="opening">Otwieranie...</string>
+    <string name="operation_unsuccesful">Nieudana operacja</string>
+    <string name="optimized">Optymalizowano</string>
+    <string name="orange">Pomarańczowy</string>
+    <string name="otg_access">Wybierz katalog główny urządzenia OTG</string>
+    <string name="other">Inne</string>
+    <string name="out_of">z</string>
+    <string name="overwrite">Zastąp</string>
+    <string name="package_installer">Instalator pakietów</string>
+    <string name="package_installer_text">To jest instalator pakietów. Jaką czynność wykonać?</string>
+    <string name="pages">Liczba stron</string>
+    <string name="paper_size">Rozmiar papieru</string>
+    <string name="password">Hasło</string>
+    <string name="password_toggle_content_description">Pokaż hasło</string>
+    <string name="paste">Wklej</string>
+    <string name="path">Ścieżka</string>
+    <string name="paypal_copy_message">Skopiowano do schowka identyfikator Paypal</string>
+    <string name="permission">Uprawnienia</string>
+    <string name="permission_execute">Uruchom</string>
+    <string name="permission_group">Grupa</string>
+    <string name="permission_other">Inny</string>
+    <string name="permission_owner">Właściciel</string>
+    <string name="permission_read">Czytaj</string>
+    <string name="permission_write">Zapisz</string>
+    <string name="pick_a_file">Wybierz plik</string>
+    <string name="play">Sklep Play</string>
+    <string name="please_wait">Proszę czekać</string>
+    <string name="polish_translation_title">Polski</string>
+    <string name="portuguese_translation_title">Portugalski</string>
+    <string msgid="7961817945132860002" name="preference_copied">"Skopiowano „<ns1:g id="SUMMARY">%1$s</ns1:g>” do schowka."</string>
+    <string name="press_again">Proszę nacisnąć ponownie, aby zakończyć</string>
+    <string name="primary_color_summary">Ustala kolor dużych elementów interfejsu lewej karty</string>
+    <string name="primary_color_title">Kolor główny (lewa karta)</string>
+    <string name="primary_two_summary">Ustala kolor dużych elementów interfejsu prawej karty</string>
+    <string name="primary_two_title">Kolor główny (prawa karta)</string>
+    <string name="process_viewer">Podgląd procesu</string>
+    <string name="processing_file">Przetwarzanie pliku</string>
+    <string name="producer">Reżyser</string>
+    <string name="properties">Właściwości</string>
+    <string name="properties_copied_clipboard">skopiowano do schowka</string>
+    <string name="question_set_path_as_home">Czy ustawić aktualną ścieżkę jako główną dla tej karty?</string>
+    <string name="quick">Szybki dostęp</string>
+    <string name="random">Losowy wygląd</string>
+    <string name="random_summary">Ustala losowy główny kolor podczas uruchamiania</string>
+    <string name="rate">Oceń aplikację</string>
+    <string name="recent">Ostatnie pliki</string>
+    <string name="regular_expression">Wyrażenia regularne</string>
+    <string name="regular_expression_summary">Wyszukuje używając wyrażeń regularnych w stylu BASH</string>
+    <string name="rename">Zmień nazwę</string>
+    <string name="rename_bookmark">Modyfikuj zakładkę</string>
+    <string name="renaming">Zmienianie nazwy</string>
+    <string name="report_bugs_summary">Umożliwia zgłoszenie błędu lub zaproponowanie nowej funkcjonalności</string>
+    <string name="report_bugs_title">Zgłoś błąd</string>
+    <string name="romanian_translation_title">Rumuński</string>
+    <string name="root_directory">Root</string>
+    <string name="root_failure">Nie przyznano praw roota</string>
+    <string name="root_mode">Root Explorer</string>
+    <string name="root_mode_summary">Działa jedynie na urządzeniach zrootowanych. Zaznacz tylko wtedy, gdy jesteś tego pewny.</string>
+    <string name="root_pref">Uprawnienia</string>
+    <string name="root_pref_summary">Wyświetla uprawnienia plików i katalogów</string>
+    <string name="russian_translation_title">Rosyjski</string>
+    <string name="sample_rate">Częstotliwość samplowania</string>
+    <string name="save">Zapisz</string>
+    <string name="save_path_summary">Wyświetla najczęściej wyświetlany katalog w każdej karcie po uruchomieniu aplikacji</string>
+    <string name="save_paths">Pamiętanie ścieżek</string>
+    <string name="saving">Zapisywanie</string>
+    <string name="scp_port">Port</string>
+    <string name="search">Szukaj</string>
+    <string name="search_hint">Wprowadzanie wyszukiwanej frazy…</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Szukaj"</string>
+    <string name="searching_devices">Szukanie urządzeń</string>
+    <string name="security">Bezpieczeństwo</string>
+    <string name="select">Wybierz element</string>
+    <string name="select_all">Zaznacz wszystko</string>
+    <string name="select_intent">Wybierz</string>
+    <string name="serbian_translation_title">Serbski</string>
+    <string name="service_timer">Czas trwania</string>
+    <string name="set">Ustaw</string>
+    <string name="set_as_home"> Ustaw jako katalog główny</string>
+    <string name="set_random">Zmiany zostaną wprowadzone po ponownym uruchomieniu aplikacji</string>
+    <string name="setting">Ustawienia</string>
+    <string name="share">Udostępnij</string>
+    <string name="share_limit">Nie możesz udostępnić więcej niż 100 plików</string>
+    <string name="showHeaders">Pokaż nagłówki</string>
+    <string name="show_dividers">Separatory elementów</string>
+    <string name="size_capitalized">Wymiary</string>
+    <string name="size_pref">Rozmiary</string>
+    <string name="size_pref_summary">Wyświetla rozmiar plików i liczbę elementów w katalogach</string>
+    <string name="skip">Pomiń</string>
+    <string name="smb_connection">Połączenie SMB</string>
+    <string name="smb_instructions">
+        <html>
+            <body>
+                <h1>Jak uzyskać dostęp na Androidzie do folderu udostępnionego w Windows</h1>\n\n
+                <ul>
+                    <li>
+                        <b>Włącz "Udostępnianie plików"</b>\n
+                    </li>
+                    <p style="margin-left: 40px">
+                        Otwórz Panel sterowania, kliknij \"Wybierz grupę domową\" i opcje udostępniania przez Internet, a potem kliknij \"Zmień zaawansowane opcje udostępniania. Włącz plik i uruchom funkcję udostępniania drukarki.\n\n
+                    </p>
+
+                    <li>
+                        <b>Dodatkowe ustawienia udostępnianych plików</b>\n
+                    </li>
+                    <p style="margin-left: 40px">
+                        Możesz tutaj skonfigurować również inne zaawansowane opcje udostępniania. \n Na przykład możesz zezwolić na dostęp do twoich plików bez podawania hasła, jeżeli rozpoznajesz wszystkie urządzenia w sieci lokalnej. Gdy udostępnianie plików i drukarek jest włączone, otwórz Eksplorator plików lub Eksplorator Windows, kliknij prawym przyciskiem myszy na folder, który chcesz udostępnić, i wybierz \"Właściwości\". \n
+                        Kliknij przycisk \"Udostępnij\", aby folder był dostępny w sieci.\n\n
+                        </p>
+
+                    <li>
+                        <b>Upewnij się, że oba urządzenia są w tej samej sieci Wi-Fi</b>\n
+                    </li>
+                    <p style="margin-left: 40px">
+                        Dzięki temu pliki staną się dostępne w sieci lokalnej; twój komputer i urządzenie mobilne muszą pracować w tej samej sieci lokalnej. Nie możesz uzyskać dostępu do folderu Windows udostępnionego przez Internet albo gdy twój smartfon korzysta z niego za pośrednictwem łączności mobilnej. Musisz być połączony przez Wi-Fi.\n\n
+                    </p>
+
+                    <li>
+                        <b>Znajdź adres IP</b>\n
+                    </li>
+                    <p style="margin-left: 40px">
+                        Otwórz okno Wiersza poleceń. Wpisz \"ipconfig\" i naciśnij Enter. Sprawdź domyślną bramkę zgodną z twoją kartą sieciową dla adresu IP rutera. Szukaj \"Adres IPv4\" w tej samej sekcji karty, aby znaleźć adres IP komputera.\n\n
+                    </p>
+
+                    <b>Wpisz szczegóły w oknie dialogowym</b>\n
+                </ul>
+            </body>
+        </html>
+    
+ 
+smb_instructions
+</string>
+    <string name="smb_launch_error">Musisz skopiować ten plik do pamięci urządzenia, aby go otworzyć</string>
+    <string name="smb_server">Adres IP serwera</string>
+    <string name="software">Oprogramowanie</string>
+    <string name="sort">Sortowanie</string>
+    <string name="sort_by">Sortowanie po</string>
+    <string name="sort_name">Nazwa</string>
+    <string name="sort_size">Rozmiar</string>
+    <string name="spanish_translation_title">Hiszpański</string>
+    <string name="start_ftp">Rozpocznij</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_ftp">Zatrzymaj</string>
+    <string name="stopping">Zatrzymywanie</string>
+    <string name="subject">Temat</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_development">Wspomóż rozwój</string>
+    <string name="tamil_translation_title">Tamilski</string>
+    <string name="text">Tekst</string>
+    <string name="textreader">Czytnik tekstu</string>
+    <string name="theme">Motyw</string>
+    <string name="thumb">Miniatury</string>
+    <string name="thumb_summary">Wyświetla miniatury aplikacji i obrazów</string>
+    <string name="title">Tytuł</string>
+    <string name="total">Razem:</string>
+    <string name="translate_summary">Umożliwia przetłumaczenie aplikacji na dany język</string>
+    <string name="translate_title">Przetłumacz</string>
+    <string name="translators">Tłumacze</string>
+    <string name="turkish_translation_title">Turecki</string>
+    <string name="type">Typ</string>
+    <string name="ui">Interfejs</string>
+    <string name="ukrainian_translation_title">Ukraiński</string>
+    <string name="unin_system_apk">To jest aplikacja systemowa, usunięcie jej może spowodować niestabilność systemu.\nKontynuować?</string>
+    <string name="uninstall">Odinstaluj</string>
+    <string name="unknown_error">Ups, coś poszło nie tak!</string>
+    <string name="unsaved_changes">Niezapisane zmiany</string>
+    <string name="unsaved_changes_description">Nie zapisano zmian. Czy zapisać je przed zakończeniem?</string>
+    <string name="use_custom_ip">Własne IP</string>
+    <string name="username">Nazwa użytkownika</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"WYŁ."</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"WŁ."</string>
+    <string name="version">Wersja</string>
+    <string name="video">Wideo</string>
+    <string name="videos">Filmy</string>
+    <string name="vietnamese_translation_title">Wietnamski</string>
+    <string name="view">Podgląd</string>
+    <string name="waiting_content">Oczekiwanie na zakończenie operacji</string>
+    <string name="waiting_title">Oczekiwanie</string>
+    <string name="want_help"><u>Czy potrzebujesz pomocy?</u></string>
+    <string name="warning">Ostrzeżenie</string>
+    <string name="width">Szerokość</string>
+    <string name="written">Zapisano</string>
+    <string name="xda_summary">Pytania, pomoc i odpowiedzi</string>
+    <string name="xda_title">Wątek na Forum XDA</string>
+    <string name="year">Rok</string>
+    <string name="yes">Tak</string>
+    <string name="zip_viewer">Przeglądarka archiwum</string>
+</resources>

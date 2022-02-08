@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">ရောင်စုံ</string>
+    <string name="donate">လှူဒါန်းရန်</string>
+    <string name="done">ရပြီ</string>
+    <string name="edit">တည်းဖြတ်မည်</string>
+    <string name="exit">ထွက်မည်</string>
+    <string name="exposure_time">အလင်းဝင်ချိန်</string>
+    <string name="focal_length">ဖိုကယ်အရှည်</string>
+    <string name="history">မှတ်တမ်း</string>
+    <string name="information">အချက်အလက်</string>
+    <string name="size_capitalized">အရွယ်အစား</string>
+    <string name="skip">ကျော်မည်</string>
+    <string name="sort_size">အရွယ်အစား</string>
+    <string name="start_ftp">စမည်</string>
+    <string name="version">ဗားရှင်း</string>
+</resources>

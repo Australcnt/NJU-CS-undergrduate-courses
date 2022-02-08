@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">Rang</string>
+    <string name="donate">Ehson</string>
+    <string name="exposure_time">Tutib turish vaqti</string>
+    <string name="focal_length">Fokus masofasi</string>
+    <string name="history">Tarixi</string>
+    <string name="information">Ma’lumot</string>
+    <string name="size_capitalized">Hajmi</string>
+    <string name="sort_size">Hajmi</string>
+    <string name="version">Qo‘shish</string>
+</resources>

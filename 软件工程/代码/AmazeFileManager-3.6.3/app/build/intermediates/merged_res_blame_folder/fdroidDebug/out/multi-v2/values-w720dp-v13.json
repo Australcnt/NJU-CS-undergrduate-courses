@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\values-w720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4,5,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "179,236,55",
+                        "endColumns": "56,69,44",
+                        "endOffsets": "231,301,95"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,112,182",
+                        "endColumns": "56,69,44",
+                        "endOffsets": "107,177,222"
+                    }
+                }
+            ]
+        }
+    ]
+}

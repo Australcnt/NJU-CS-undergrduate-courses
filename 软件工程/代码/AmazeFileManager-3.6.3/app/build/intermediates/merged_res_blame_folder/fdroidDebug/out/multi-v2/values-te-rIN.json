@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-te-rIN\\values-te-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\values-te-rIN\\strings.xml",
+                    "from": {
+                        "startLines": "34,40,41,36,35,21,29,33,32",
+                        "startColumns": "2,2,2,2,4,2,2,2,4",
+                        "startOffsets": "1318,1582,1639,1409,1363,987,1160,1282,1240",
+                        "endColumns": "42,56,51,45,47,50,43,35,43",
+                        "endOffsets": "1358,1636,1688,1452,1406,1035,1201,1315,1279"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,159,213,261,309,362,408,446",
+                        "endColumns": "44,58,53,47,47,52,45,37,43",
+                        "endOffsets": "95,154,208,256,304,357,403,441,485"
+                    }
+                }
+            ]
+        }
+    ]
+}

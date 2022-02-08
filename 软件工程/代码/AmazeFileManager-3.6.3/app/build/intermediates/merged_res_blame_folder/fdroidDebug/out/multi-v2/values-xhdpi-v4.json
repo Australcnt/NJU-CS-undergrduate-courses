@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "4,7,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "179,249,55",
+                        "endColumns": "52,65,44",
+                        "endOffsets": "227,310,95"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,174",
+                        "endColumns": "52,65,44",
+                        "endOffsets": "103,169,214"
+                    }
+                }
+            ]
+        }
+    ]
+}

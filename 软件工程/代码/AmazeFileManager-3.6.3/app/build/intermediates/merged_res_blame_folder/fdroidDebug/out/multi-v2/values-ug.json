@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-ug\\values-ug.xml",
+            "map": [
+                {
+                    "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\values-ug\\strings.xml",
+                    "from": {
+                        "startLines": "31,35,32,34,21,33",
+                        "startColumns": "2,2,2,2,2,2",
+                        "startOffsets": "1182,1335,1219,1296,987,1258",
+                        "endColumns": "36,40,38,38,40,37",
+                        "endOffsets": "1216,1373,1255,1332,1025,1293"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,94,137,178,219,262",
+                        "endColumns": "38,42,40,40,42,39",
+                        "endOffsets": "89,132,173,214,257,297"
+                    }
+                }
+            ]
+        }
+    ]
+}

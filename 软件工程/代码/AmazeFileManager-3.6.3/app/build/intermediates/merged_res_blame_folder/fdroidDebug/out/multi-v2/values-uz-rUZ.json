@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-uz-rUZ\\values-uz-rUZ.xml",
+            "map": [
+                {
+                    "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\values-uz-rUZ\\strings.xml",
+                    "from": {
+                        "startLines": "35,34,40,41,22,36,21,30,33",
+                        "startColumns": "2,2,2,2,2,4,2,2,4",
+                        "startOffsets": "1361,1322,1580,1639,1036,1406,987,1201,1279",
+                        "endColumns": "42,38,58,53,40,48,48,41,44",
+                        "endOffsets": "1401,1358,1636,1690,1074,1450,1033,1240,1319"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,141,202,258,301,350,401,445",
+                        "endColumns": "44,40,60,55,42,48,50,43,44",
+                        "endOffsets": "95,136,197,253,296,345,396,440,485"
+                    }
+                }
+            ]
+        }
+    ]
+}

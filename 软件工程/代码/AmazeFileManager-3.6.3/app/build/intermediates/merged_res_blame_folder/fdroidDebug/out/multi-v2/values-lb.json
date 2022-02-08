@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-lb\\values-lb.xml",
+            "map": [
+                {
+                    "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\values-lb\\strings.xml",
+                    "from": {
+                        "startLines": "36,23,22,34,35,45,33,37,21",
+                        "startColumns": "2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "1372,1053,1020,1290,1327,1836,1245,1422,987",
+                        "endColumns": "49,37,32,36,44,47,44,41,32",
+                        "endOffsets": "1419,1088,1050,1324,1369,1881,1287,1461,1017"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,147,182,221,268,318,365,409",
+                        "endColumns": "51,39,34,38,46,49,46,43,34",
+                        "endOffsets": "102,142,177,216,263,313,360,404,439"
+                    }
+                }
+            ]
+        }
+    ]
+}

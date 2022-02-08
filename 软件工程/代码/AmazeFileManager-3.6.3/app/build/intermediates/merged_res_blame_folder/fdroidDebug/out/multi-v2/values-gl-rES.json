@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-gl-rES\\values-gl-rES.xml",
+            "map": [
+                {
+                    "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\values-gl-rES\\strings.xml",
+                    "from": {
+                        "startLines": "35,41,42,37,36,21,29,34,32,33",
+                        "startColumns": "2,2,2,2,4,4,2,2,4,2",
+                        "startOffsets": "1359,1627,1687,1450,1403,989,1161,1322,1240,1282",
+                        "endColumns": "41,59,54,49,48,51,42,36,43,39",
+                        "endOffsets": "1398,1684,1739,1497,1447,1036,1201,1356,1279,1319"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,161,218,270,319,371,416,455,499",
+                        "endColumns": "43,61,56,51,48,51,44,38,43,41",
+                        "endOffsets": "94,156,213,265,314,366,411,450,494,536"
+                    }
+                }
+            ]
+        }
+    ]
+}

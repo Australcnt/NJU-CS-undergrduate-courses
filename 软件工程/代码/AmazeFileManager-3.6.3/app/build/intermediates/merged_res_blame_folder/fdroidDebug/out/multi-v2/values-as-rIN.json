@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-as-rIN\\values-as-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\values-as-rIN\\strings.xml",
+                    "from": {
+                        "startLines": "31,30",
+                        "startColumns": "2,2",
+                        "startOffsets": "1179,1141",
+                        "endColumns": "42,37",
+                        "endOffsets": "1219,1176"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endColumns": "44,39",
+                        "endOffsets": "95,135"
+                    }
+                }
+            ]
+        }
+    ]
+}

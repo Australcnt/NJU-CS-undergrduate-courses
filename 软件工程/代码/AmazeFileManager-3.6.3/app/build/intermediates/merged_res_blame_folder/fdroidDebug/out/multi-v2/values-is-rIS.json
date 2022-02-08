@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-is-rIS\\values-is-rIS.xml",
+            "map": [
+                {
+                    "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\values-is-rIS\\strings.xml",
+                    "from": {
+                        "startLines": "33,38,39,34,21,29,32",
+                        "startColumns": "2,2,2,4,2,2,4",
+                        "startOffsets": "1277,1500,1553,1323,987,1158,1236",
+                        "endColumns": "43,52,49,51,48,41,42",
+                        "endOffsets": "1318,1550,1600,1370,1033,1197,1274"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,156,208,260,311,355",
+                        "endColumns": "45,54,51,51,50,43,42",
+                        "endOffsets": "96,151,203,255,306,350,393"
+                    }
+                }
+            ]
+        }
+    ]
+}

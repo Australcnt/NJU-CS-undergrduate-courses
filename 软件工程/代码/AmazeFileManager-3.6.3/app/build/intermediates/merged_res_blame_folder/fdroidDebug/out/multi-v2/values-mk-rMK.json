@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-mk-rMK\\values-mk-rMK.xml",
+            "map": [
+                {
+                    "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\values-mk-rMK\\strings.xml",
+                    "from": {
+                        "startLines": "33,38,39,34,21,29,32",
+                        "startColumns": "2,2,2,4,2,2,4",
+                        "startOffsets": "1284,1505,1566,1329,987,1161,1242",
+                        "endColumns": "42,60,57,50,51,44,43",
+                        "endOffsets": "1324,1563,1621,1375,1036,1203,1281"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,163,223,274,328,375",
+                        "endColumns": "44,62,59,50,53,46,43",
+                        "endOffsets": "95,158,218,269,323,370,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-mdpi-v4\\values-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "4,5,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "179,232,55",
+                        "endColumns": "52,65,44",
+                        "endOffsets": "227,293,95"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,174",
+                        "endColumns": "52,65,44",
+                        "endOffsets": "103,169,214"
+                    }
+                }
+            ]
+        }
+    ]
+}

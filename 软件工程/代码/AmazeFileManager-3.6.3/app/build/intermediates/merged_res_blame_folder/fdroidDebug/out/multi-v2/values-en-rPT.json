@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-en-rPT\\values-en-rPT.xml",
+            "map": [
+                {
+                    "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\values-en-rPT\\strings.xml",
+                    "from": {
+                        "startLines": "31,30",
+                        "startColumns": "2,2",
+                        "startOffsets": "1177,1141",
+                        "endColumns": "48,35",
+                        "endOffsets": "1223,1174"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,106",
+                        "endColumns": "50,37",
+                        "endOffsets": "101,139"
+                    }
+                }
+            ]
+        }
+    ]
+}

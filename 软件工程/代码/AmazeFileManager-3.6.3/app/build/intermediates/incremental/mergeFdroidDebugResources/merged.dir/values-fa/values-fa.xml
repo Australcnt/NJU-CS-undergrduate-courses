@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d اعلان جدید</item>
+    <item quantity="other">%d اعلان جدید</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"پیمایش به صفحه اصلی"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"رفتن به بالا"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"گزینه‌های بیشتر"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"تمام"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"دیدن همه"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"انتخاب برنامه"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"خاموش"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"روشن"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"‎Alt+‎"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"‎Ctrl+‎"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"‎Function+‎"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"‎Meta+‎"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"‎Shift+‎"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"فاصله"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"‎Sym+‎"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"منو+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"جستجو…‏"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"پاک کردن پُرسمان"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"درخواست جستجو"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"جستجو"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ارسال پُرسمان"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"جستجوی گفتاری"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"هم‌رسانی با"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"هم‌رسانی با <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"کوچک کردن"</string>
+    <string name="about">درباره</string>
+    <string name="about_amaze_file_manager_label">درباره فایل منیجر حیرت انگیز</string>
+    <string name="accent_color_summary">تنظیم رنگ به دکمه ی شناور و دیگر رابط های کاربری کوچک</string>
+    <string name="accent_color_title">تاکید رنگ</string>
+    <string name="add_shortcut">اضافه کردن میانبر</string>
+    <string name="add_to_bookmarks">به نشانه گذاری ها اضافه کنید</string>
+    <string name="advanced_search">جستجوی پیشرفته</string>
+    <string name="anonymous">نامشخص</string>
+    <string name="apks">برنامه ها</string>
+    <string name="app_name">فایل منیجر حیرت انگیز</string>
+    <string name="apps">مدیر برنامه</string>
+    <string name="archive">آرشیو</string>
+    <string name="archive_extract_folder">آرشیو پوشه استخراجی</string>
+    <string name="archive_summary">فایل آرشیو به این پوشه استخراج خواهد شد.پوشه ی پیشفرض پوشه ای است که این فایل در آن قرار دارد </string>
+    <string name="archive_text">این یک آرشیو می باشد. چه عملیاتی را می خواهید انجام دهید؟</string>
+    <string name="ascending">صعودی</string>
+    <string name="audio">صوت</string>
+    <string name="authors">نویسندگان</string>
+    <string name="back_summary">نمایش دکمه ی برگشت در بالای لیست</string>
+    <string name="back_title">برگشت</string>
+    <string name="backup">پشتیبان</string>
+    <string name="basque_translation_title">باسکو</string>
+    <string name="bluetooth">بلوث</string>
+    <string name="bookmarks_added">نشانه ها اضاف شدند</string>
+    <string name="bottomsheet_action_expand_halfway">گسترده کردن تا نیمه</string>
+    <string name="calculating"> در حال برآورد کردن </string>
+    <string name="cancel">لغو</string>
+    <string name="cant_be_empty">%s نمیتواند خال باشد</string>
+    <string name="changelog">تغییر گزارش</string>
+    <string name="character_counter_content_description">نویسه‌های واردشده %1$d از %2$d</string>
+    <string name="character_counter_overflowed_content_description">محدودیت نویسه از حد مجاز %1$d از %2$d بیشتر شده است</string>
+    <string name="chinese_translation_title">چینی</string>
+    <string name="choose_color">انتخاب رنگ</string>
+    <string name="circular_icons">استفاده از آیکن های گِرد</string>
+    <string name="circular_images">از آیکن های گِرد برای نمایش عکس و ویدیو استفاده کنید</string>
+    <string name="clear">پاک کردن</string>
+    <string name="clear_text_end_icon_content_description">پاک کردن نوشتار</string>
+    <string name="clipboard_path_copy">مسیر به کلیپبورد کپی شد</string>
+    <string name="color_summary">تنظیم کردن رنگ به رابط کاربری مختلف</string>
+    <string name="color_title">رنگ</string>
+    <string name="colored_navigation">منوی رنگی</string>
+    <string name="colored_navigvation_sum">آیا سیستم منوی کشویی با پوشته رنگی شود یا نه</string>
+    <string name="colorize">رنگبندی آیکن ها</string>
+    <string name="compress">فشرده کردن</string>
+    <string name="connection_name">نام اتصال</string>
+    <string name="contributors">شرکاء</string>
+    <string name="contributors_6_summary">FTP سرور </string>
+    <string name="copy">کپی</string>
+    <string name="copying">در حال کپی کردن</string>
+    <string name="copyingapk">به apk کپی</string>
+    <string name="create">ساخت</string>
+    <string name="creatingfile">ساختن فایل</string>
+    <string name="creatingfolder">ساختن پوشه</string>
+    <string name="cut">برش</string>
+    <string name="dark">متریال تاریک</string>
+    <string name="database">پایگاه داده</string>
+    <string name="databasereader">خواننده پایگاه داده</string>
+    <string name="date">تاریخ:</string>
+    <string name="daytime">زمان روز</string>
+    <string name="default_string">پیشفرض</string>
+    <string name="delete">حذف</string>
+    <string name="deleting">حذف</string>
+    <string name="descending">نزولی</string>
+    <string name="details">جزئیات</string>
+    <string name="dialog_delete_category_directories">پوشه ها</string>
+    <string name="dialog_delete_disclaimer">واقعا میخواهید این فایل ها را حذف کنید</string>
+    <string name="dialog_delete_title">تایید</string>
+    <string name="directorysort">حالت مرتب کردن پوشه</string>
+    <string name="documents">اسناد</string>
+    <string name="doforall">برای همه آیتم ها انجام دهید</string>
+    <string name="doit">انجام دادن</string>
+    <string name="domain">دامنه</string>
+    <string name="donate">اهدا</string>
+    <string name="done">انجام گردید</string>
+    <string name="drawer_close">بستن کشو</string>
+    <string name="drawer_open">باز کردن کشو</string>
+    <string name="duration">مدت</string>
+    <string name="dutch_translation_title">هلندی</string>
+    <string name="edit">ویرایش</string>
+    <string name="enablerootmde">فعال کردن حالت روت</string>
+    <string name="entername">نام را وارد کنید</string>
+    <string name="enterpath">مسیر را وارد کنید</string>
+    <string name="enterzipname">نام فایل زیپ را وارد کنید</string>
+    <string name="error">مشکل</string>
+    <string name="error_icon_content_description">خطا</string>
+    <string name="exit">خروج</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"پیشرفته"</string>
+    <string name="exposed_dropdown_menu_content_description">نمایش منوی کرکره‌ای</string>
+    <string name="exposure_time">زمان نوردهی</string>
+    <string name="extract">استخراج</string>
+    <string name="extracting">در حال بیرون آمدن از فشرده</string>
+    <string name="feedback">ارسال نظر</string>
+    <string name="file">فایل</string>
+    <string name="file_empty">فایل خالی است</string>
+    <string name="fileexist">فایلی با همین نام وجود دارد </string>
+    <string name="files">فایلها</string>
+    <string name="filesOnTop">فابل ها در بالا</string>
+    <string name="find">پیدا کردن در صفحه</string>
+    <string name="focal_length">فاصله کانونی</string>
+    <string name="folder">پوشه</string>
+    <string name="folders">پوشه ها</string>
+    <string name="foldersOnTop">پوشه ها در بالا</string>
+    <string name="french_translation_title">فرانسوی</string>
+    <string name="ftp">FTP سرور </string>
+    <string name="ftp_no_wifi">مطمئن شوید که به وای فای متصل هستید</string>
+    <string name="ftp_notif_starting">سرور اف تی بی در حال شروع میباشد</string>
+    <string name="ftp_notif_stop_server">توقف</string>
+    <string name="ftp_notif_text">در %s</string>
+    <string name="ftp_notif_title">سرور اف تی پی حیرت انگیز درحال راه اندازی میباشد</string>
+    <string name="ftp_status_not_running">درحال راه اندازی نیست</string>
+    <string name="ftp_status_running">درحال راه اندازی</string>
+    <string name="general">کلی</string>
+    <string name="german_translation_title">آلمانی</string>
+    <string name="goback">برگشت به عقب</string>
+    <string name="grant">اجازه دادن</string>
+    <string name="grant_storage_permission">برنامه نیازمند اجازه برای دسترسی به منبع حافظه میباشد. لغو کردن این دایالوگ منجربه بستع شدن برنامه میباشد</string>
+    <string name="grantfailed">مجوز داده نشد</string>
+    <string name="grantper">اجازه دادن مجوز</string>
+    <string name="greek_translation_title">یونان</string>
+    <string name="gridcolumnno">تعداد ستون ها در نمای کاشی</string>
+    <string name="gridview">نمای کاشی</string>
+    <string name="height">ارتفاع</string>
+    <string name="hidden">نمایش فایل ها و پوشه های مخفی</string>
+    <string name="hiddenfiles">فایل های مخفی</string>
+    <string name="hide">پنهان</string>
+    <string name="history">تاریخچه</string>
+    <string name="home">خانه</string>
+    <string name="icon">آیکن</string>
+    <string name="icon_color_summary">تنظیم رنگ برای آیکنها</string>
+    <string name="icon_color_title">رنگ آیکن</string>
+    <string name="icon_content_description">نماد کادر گفتگو</string>
+    <string name="image">عکس</string>
+    <string name="images">تصاویر</string>
+    <string name="in_safe">فضای ناکافی</string>
+    <string name="information">اطلاعات</string>
+    <string name="install">نصب</string>
+    <string name="invalid">تایید نشده %s</string>
+    <string name="invalid_name">نام غیر قابل قبول</string>
+    <string name="ip">آدرس</string>
+    <string name="italian_translation_title">ایتالیایی</string>
+    <string name="item">آیتم</string>
+    <string name="item_view_role_description">برگه</string>
+    <string name="items">آیتم ها</string>
+    <string name="korean_translation_title">کره ای</string>
+    <string name="lastModified">آخرین ویرایش</string>
+    <string name="lastModifiedPref">نمایش آخرین ویرایش</string>
+    <string name="lastModifiedSummary">نمایش تاریخ و ساعت موقه ای که فایلی ویرایش می شود</string>
+    <string name="light">متریال روشن</string>
+    <string name="listview">نمای لیست</string>
+    <string name="loading">در حال بارگذاری...</string>
+    <string name="location">مکان:</string>
+    <string name="match_content">هماهنگ کردن محتوا</string>
+    <string name="match_content_summary">اگه تنظیم شود شرح ساده با کل نام فایل هماهنگ میشود.وگرنه برای رخداد نمایش خواهد داد</string>
+    <string name="material_clock_toggle_content_description">انتخاب .ق.ظ. یا ب.ظ.</string>
+    <string name="material_hour_selection">انتخاب ساعت</string>
+    <string name="material_hour_suffix">ساعت %1$s</string>
+    <string name="material_minute_selection">انتخاب دقیقه</string>
+    <string name="material_minute_suffix">%1$s دقیقه</string>
+    <string name="material_timepicker_am">ق.ظ</string>
+    <string name="material_timepicker_clock_mode_description">برای وارد کردن زمان، به حالت ساعت تغییر وضعیت دهید.</string>
+    <string name="material_timepicker_hour">ساعت</string>
+    <string name="material_timepicker_minute">دقیقه</string>
+    <string name="material_timepicker_pm">ب.ظ</string>
+    <string name="material_timepicker_select_time">انتخاب زمان</string>
+    <string name="material_timepicker_text_input_mode_description">برای وارد کردن زمان، به حالت ورودی نوشتاری تغییر وضعیت دهید.</string>
+    <string name="miscellaneous">متفرقه</string>
+    <string name="moving">در حال جابجایی کردن</string>
+    <string name="mtrl_badge_numberless_content_description">اعلان جدید</string>
+    <string name="mtrl_chip_close_icon_content_description">برداشتن %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">بیش از %1$d اعلان جدید</string>
+    <string name="mtrl_picker_a11y_next_month">تغییر به ماه بعدی</string>
+    <string name="mtrl_picker_a11y_prev_month">تغییر به ماه قبلی</string>
+    <string name="mtrl_picker_announce_current_selection">انتخاب کنونی: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">انتخاب تاریخ</string>
+    <string name="mtrl_picker_date_header_unselected">تاریخ انتخابی</string>
+    <string name="mtrl_picker_day_of_week_column_header">ستون روز: %1$s</string>
+    <string name="mtrl_picker_invalid_format">قالب نامعتبر است.</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">قالب: %1$s</string>
+    <string name="mtrl_picker_invalid_range">محدوده نامعتبر است.</string>
+    <string name="mtrl_picker_navigate_to_year_description">رفتن به سال %1$s</string>
+    <string name="mtrl_picker_out_of_range">خارج از محدوده: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاریخ شروع – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاریخ پایان</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">انتخاب محدوده</string>
+    <string name="mtrl_picker_range_header_unselected">تاریخ شروع – تاریخ پایان</string>
+    <string name="mtrl_picker_save">ذخیره</string>
+    <string name="mtrl_picker_text_input_date_hint">تاریخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاریخ پایان</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاریخ شروع</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">رفتن به روش ورودی تقویم</string>
+    <string name="mtrl_picker_toggle_to_day_selection">رفتن به رفتن به حالت انتخاب روز ضربه بزنید</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">رفتن به حالت ورودی نوشتاری</string>
+    <string name="mtrl_picker_toggle_to_year_selection">برای رفتن به حالت انتخاب سال ضربه بزنید</string>
+    <string name="name">نام:</string>
+    <string name="needs_access">نیازمند دسترسی به نوشتن</string>
+    <string name="needs_access_summary">لطفا پوشه ی روت را انتخاب کنید \t</string>
+    <string name="needs_access_summary1">\t اجازه دادن رایت برای دسترسی به عملکرد</string>
+    <string name="newfile">فایل جدید</string>
+    <string name="newfolder">پوشه جدید</string>
+    <string name="no">خیر</string>
+    <string name="no_app_found">هیچ برنامه ای برای باز کردن این فایل پیدا نشد</string>
+    <string name="no_device_found">هیچ دستگاهی پیدا نشد</string>
+    <string name="no_file_overwrite">هیچ فایلی جایگذاری نشده</string>
+    <string name="no_files">هیچ فایلی</string>
+    <string name="none_on_top">هیچ کدام در بالا</string>
+    <string name="not_allowed">بدون اجازه</string>
+    <string msgid="478774118347071097" name="not_set">"تنظیم نشده است"</string>
+    <string name="ok">تایید</string>
+    <string name="open">باز کردن</string>
+    <string name="open_as">باز کردن بر اساس</string>
+    <string name="open_parent">پوشه بالایی را باز کنید</string>
+    <string name="open_with">باز کردن با</string>
+    <string name="operation_unsuccesful">عملیات ناموفق</string>
+    <string name="other">دیگر</string>
+    <string name="overwrite">جای گذاری</string>
+    <string name="package_installer">نصب کننده پکیج</string>
+    <string name="package_installer_text">این یک نصب کننده پکیج می باشد. چه عملیاتی را می خواهید انجام دهید؟</string>
+    <string name="password">رمز عبور</string>
+    <string name="password_toggle_content_description">نمایش گذرواژه</string>
+    <string name="paste">جای گذاری</string>
+    <string name="path">مسیر</string>
+    <string name="permission">مجوز ها</string>
+    <string name="pick_a_file">یک فایل را انتخاب کنید</string>
+    <string name="play">پلی استور</string>
+    <string name="polish_translation_title">لهستانى‌</string>
+    <string name="portuguese_translation_title">پرتقال</string>
+    <string msgid="7961817945132860002" name="preference_copied">"«<ns1:g id="SUMMARY">%1$s</ns1:g>» در بریده‌دان کپی شد."</string>
+    <string name="press_again">برای خروج دوباره دکمه را فشار دهید</string>
+    <string name="primary_color_summary">تنظیم کردن رنگ به رابط کاربری بزرگ</string>
+    <string name="primary_color_title">رنگ اولیه</string>
+    <string name="primary_two_summary"> تنظیم رنگ اولیه برای دومین تاب</string>
+    <string name="primary_two_title">رنگ اولیه برای دومین تاب</string>
+    <string name="process_viewer">پردازش نمایشگر</string>
+    <string name="properties">مشخصات</string>
+    <string name="question_set_path_as_home">آیا می خواهید این مسیر را به عنوان مسیر خانه برای این تب تنظیم کنید</string>
+    <string name="quick">دسترسی سریع</string>
+    <string name="random">پوسته راندم</string>
+    <string name="random_summary">رنگ اولیه راندم را در بالا آمدن ست کنید</string>
+    <string name="rate">امتیاز دادن به برنامه</string>
+    <string name="recent">آخرین فایلها</string>
+    <string name="regular_expression">شرح معمولی</string>
+    <string name="regular_expression_summary">جستجوی با شرح ساده</string>
+    <string name="rename">تغییر نام</string>
+    <string name="rename_bookmark">ویرایش نشانه گذاریها</string>
+    <string name="renaming">تغییر نام</string>
+    <string name="romanian_translation_title">رومانی</string>
+    <string name="root_directory">روت</string>
+    <string name="root_failure">دسترسی به روت داده نشده است</string>
+    <string name="root_mode">جستجوگر روت</string>
+    <string name="root_mode_summary">تنها برای گوشی های روت شده. اگر مطمئن هستید که گوشی تان روت است آن را امتحان کنید</string>
+    <string name="root_pref">نمایش مجوز ها</string>
+    <string name="root_pref_summary">نمایش مجوز ها برای فایل ها و فولدر ها</string>
+    <string name="russian_translation_title">روسی</string>
+    <string name="save">ذخیره</string>
+    <string name="save_path_summary">نمایش آخرین پوشه باز شده بعداز باز کردن برنامه</string>
+    <string name="save_paths">یادآوری مسیر</string>
+    <string name="saving">در حال ذخیره</string>
+    <string name="search">جستجو</string>
+    <string name="search_hint">برای جستجو تایپ کنید…</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"جستجو"</string>
+    <string name="searching_devices">جستجو برای دستگاه ها</string>
+    <string name="select">انتخاب آیتم</string>
+    <string name="select_all">انتخاب همه</string>
+    <string name="select_intent">انتخاب</string>
+    <string name="serbian_translation_title">صربستان</string>
+    <string name="set">تنظیم</string>
+    <string name="set_as_home">تنظیم بعنوان خانه</string>
+    <string name="set_random">تغییرات بعد از رستارت کردن برنامه اعمال خواهند شد</string>
+    <string name="setting">تنظیمات</string>
+    <string name="share">اشتراک گذاری</string>
+    <string name="show_dividers">نمایش درایور</string>
+    <string name="size_capitalized">اندازه</string>
+    <string name="size_pref">نمایش سایز</string>
+    <string name="size_pref_summary">نمایش سایز فایل ها و تعداد فایل ها در پوشه</string>
+    <string name="skip">صرف نظر</string>
+    <string name="smb_connection">اتصال SMB</string>
+    <string name="smb_server">آدرس  ای پی سرور</string>
+    <string name="sort">مرتب کردن</string>
+    <string name="sort_by">مرتب کردن بر اساس</string>
+    <string name="sort_name">نام</string>
+    <string name="sort_size">سایز</string>
+    <string name="spanish_translation_title">اسپانیایی</string>
+    <string name="start_ftp">شروع</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_ftp">توقف</string>
+    <string name="stopping">در حال توقف کردن</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>، <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="text">متنt</string>
+    <string name="textreader">خواننده متن</string>
+    <string name="theme">تم</string>
+    <string name="thumb">نمایش بند انگشتی</string>
+    <string name="thumb_summary">نمای انگشتی را برای برنامه ها و عکس ها نمایش بده</string>
+    <string name="translators">مترجمها</string>
+    <string name="turkish_translation_title">ترکیه</string>
+    <string name="type">نوع</string>
+    <string name="ui">رابط</string>
+    <string name="ukrainian_translation_title">اکراین</string>
+    <string name="unin_system_apk">این یک برنامه ی سیستمی میباشد.حذف آن ممکن است در برنامه های سیستمی مشکل ایجاد شود.ادامه میدهید؟</string>
+    <string name="uninstall">حذف</string>
+    <string name="unsaved_changes">تغییرات ذخیره نشدند</string>
+    <string name="unsaved_changes_description">شما تغییرات ذخیره نشده دارید میخواهید آنها را ذخیره کنید</string>
+    <string name="username">نام کاربری</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"خاموش"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"روشن"</string>
+    <string name="version">ورژن</string>
+    <string name="video">تصویری</string>
+    <string name="videos">ویدئوها</string>
+    <string name="view">نمایش</string>
+    <string name="want_help"><u>به کمک نیازمندید؟</u></string>
+    <string name="warning">اختار</string>
+    <string name="width">عرض</string>
+    <string name="xda_summary">کمک و رفع مشکل</string>
+    <string name="xda_title">XDA</string>
+    <string name="yes">بله</string>
+    <string name="zip_viewer">نمایش دهنده فایل فشرده</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">ຍົກເລີກ</string>
+    <string name="color_title">ສີ</string>
+    <string name="delete">ລຶບ</string>
+    <string name="details">ລາຍລະອຽດ</string>
+    <string name="dialog_delete_title">ຢືນຢັນ</string>
+    <string name="duration">ໄລຍະເວລາ</string>
+    <string name="exposure_time">ເວລາຮັບແສງ</string>
+    <string name="focal_length">ທາງຍາວໂຟກັສ</string>
+    <string name="height">ລວງສູງ</string>
+    <string name="information">ຂໍ້​ມູນ​ຂ່າວ​ສານ</string>
+    <string name="path">ເສັ້ນທາງ</string>
+    <string name="save">ບັນທຶກ</string>
+    <string name="share">ແບ່ງປັນ</string>
+    <string name="size_capitalized">ຂະໜາດ</string>
+    <string name="sort_size">ຂະໜາດ</string>
+    <string name="version">ເວີຊັນ</string>
+    <string name="width">ກວ້າງ</string>
+</resources>

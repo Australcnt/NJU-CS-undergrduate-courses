@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">ಬಣ್ಣ</string>
+    <string name="exposure_time">ಎಕ್ಸ್‌ಪೋಸರ್‌‌ ಸಮಯ</string>
+    <string name="focal_length">ಕೇಂದ್ರೀಕರಣದ ದೂರ</string>
+    <string name="information">ಮಾಹಿತಿ</string>
+    <string name="password">ಪ್ರವೇಶಪದ</string>
+    <string name="size_capitalized">ಗಾತ್ರ</string>
+    <string name="sort_size">ಗಾತ್ರ</string>
+    <string name="text">ಪಠ್ಯ</string>
+    <string name="version">ಆವೃತ್ತಿ</string>
+</resources>

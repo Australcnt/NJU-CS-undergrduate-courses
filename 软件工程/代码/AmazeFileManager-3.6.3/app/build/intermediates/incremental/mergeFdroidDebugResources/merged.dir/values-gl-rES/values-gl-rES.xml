@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">Cor</string>
+    <string name="exposure_time">Tempo de exposición</string>
+    <string name="focal_length">Distancia focal</string>
+    <string name="information">Información</string>
+    <string name="password">Contrasinal</string>
+    <string name="size_capitalized">Tamaño</string>
+    <string name="sort_size">Tamaño</string>
+    <string name="text">Texto</string>
+    <string name="version">Versión</string>
+    <string name="warning">Aviso</string>
+</resources>

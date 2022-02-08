@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%dটি নতুন বিজ্ঞপ্তি</item>
+    <item quantity="other">%dটি নতুন বিজ্ঞপ্তি</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"হোমে নেভিগেট করুন"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"উপরে নেভিগেট করুন"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"আরও বিকল্প"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"হয়ে গেছে"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"সবগুলি দেখুন"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"একটি অ্যাপ বেছে নিন"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"বন্ধ আছে"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"চালু করুন"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"মুছুন"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"সার্চ করুন…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"কোয়েরি মুছে ফেলুন"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"সার্চ কোয়েরি"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"সার্চ করুন"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"কোয়েরি জমা দিন"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"ভয়েস সার্চ করুন"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"শেয়ার করুন"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>-এর সাথে শেয়ার করুন"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"সঙ্কুচিত করুন"</string>
+    <string name="about">অ্যাপটি সম্বন্ধে</string>
+    <string name="about_amaze_file_manager_label">About Amaze File Manager</string>
+    <string name="accent_color_summary">Set color to FAB and other small UI elements</string>
+    <string name="accent_color_title">Accent Color</string>
+    <string name="add_shortcut">Add Shortcut</string>
+    <string name="add_to_bookmarks">বুকমার্কে সংযুক্ত করুন</string>
+    <string name="advanced_search">Advanced Search</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="apks">Apks</string>
+    <string name="app_name">এ্যামেজ ফাইল ম্যানেজার</string>
+    <string name="apps">এ্যাপ ম্যানেজার</string>
+    <string name="archive">Archive</string>
+    <string name="archive_extract_folder">Archive Extract Folder</string>
+    <string name="archive_summary">Archive files will be extracted to this folder. Default value is the directory in which archive is present</string>
+    <string name="archive_text">This is an archive. What action would you like to perform?</string>
+    <string name="ascending">Ascending</string>
+    <string name="audio">Audio</string>
+    <string name="authors">Authors</string>
+    <string name="back_summary">Enables custom back navigation at top of the list</string>
+    <string name="back_title">Back navigation</string>
+    <string name="backup">ব্যাকআপ করুন</string>
+    <string name="basque_translation_title">Basque</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bookmarks_added">বুকমার্ক সংযুক্ত হয়েছে</string>
+    <string name="bottomsheet_action_expand_halfway">অর্ধেক প্রসারিত করুন</string>
+    <string name="calculating"> calculating </string>
+    <string name="cancel">বাতিল</string>
+    <string name="cant_be_empty">%s cannot be empty</string>
+    <string name="changelog">Changelog</string>
+    <string name="character_counter_content_description">%2$dটির মধ্যে %1$dটি অক্ষর লেখা হয়েছে</string>
+    <string name="character_counter_overflowed_content_description">অক্ষরের সীমা %1$d এর %2$d অতিক্রম করেছে</string>
+    <string name="chinese_translation_title">Chinese</string>
+    <string name="choose_color">Choose color</string>
+    <string name="circular_icons">Use circular icons</string>
+    <string name="circular_images">Use circular icons for images and videos</string>
+    <string name="clear">Clear</string>
+    <string name="clear_text_end_icon_content_description">টেক্সট মুছুন</string>
+    <string name="color_summary">Set color to various UI components</string>
+    <string name="color_title">Color</string>
+    <string name="colored_navigation">Colored Navigation bar</string>
+    <string name="colored_navigvation_sum">Whether or not the system navigation bar is colored with the skin</string>
+    <string name="colorize">Colorize Icons</string>
+    <string name="colorize_summary">Sets static icon color. Doesn\'t override directory icon color preference.</string>
+    <string name="compress">কম্প্রেস</string>
+    <string name="connection_name">Connection name</string>
+    <string name="contributors">Contributors</string>
+    <string name="copy">কপি</string>
+    <string name="copying">কপি হচ্ছে</string>
+    <string name="copyingapk">এপিকে কপি করা হচ্ছে এ</string>
+    <string name="create">তৈরি করুন</string>
+    <string name="creatingfile">Creating File</string>
+    <string name="creatingfolder">Creating Folder</string>
+    <string name="cut">Cut</string>
+    <string name="dark">ম্যাটেরিয়াল ডার্ক</string>
+    <string name="database">Database</string>
+    <string name="databasereader">Database Reader</string>
+    <string name="date">তারিখ: </string>
+    <string name="daytime">ডেটাইম</string>
+    <string name="default_string">Default</string>
+    <string name="delete">বাতিল</string>
+    <string name="deleting">মুছে ফেলা হচ্ছে</string>
+    <string name="descending">Descending</string>
+    <string name="details">Details</string>
+    <string name="dialog_delete_disclaimer">অাপনি কি নির্ধারিত ফাইলগুলো মুছে ফেলার ব্যাপারে নিশ্চিত?</string>
+    <string name="dialog_delete_title">নিশ্চিত</string>
+    <string name="directorysort">Directory Sort Mode</string>
+    <string name="documents">Documents</string>
+    <string name="doforall">Do for all items</string>
+    <string name="doit">Do it</string>
+    <string name="domain">Domain</string>
+    <string name="donate">Donate</string>
+    <string name="done">সম্পন্ন হয়েছে</string>
+    <string name="drawer_close">নেভিগেশান ড্রয়ার বন্ধ করুন</string>
+    <string name="drawer_open">নেভিগেশান ড্রয়ার খুলুন</string>
+    <string name="dutch_translation_title">Dutch</string>
+    <string name="edit">Edit</string>
+    <string name="enablerootmde">Enable Root Mode</string>
+    <string name="entername">নাম দিন</string>
+    <string name="enterpath">পাথটি লিখুন</string>
+    <string name="enterzipname">জিপের নামটি দিন</string>
+    <string name="error">ইরোর</string>
+    <string name="error_icon_content_description">সমস্যা</string>
+    <string name="exit">Exit</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"উন্নত"</string>
+    <string name="exposed_dropdown_menu_content_description">ড্রপ-ডাউন মেনু দেখুন</string>
+    <string name="extract">এ্যাক্সট্যাক্ট</string>
+    <string name="extracting">এ্যাক্সট্যাক্ট করা হচ্ছে</string>
+    <string name="feedback">Send Feedback</string>
+    <string name="file">ফাইল</string>
+    <string name="file_empty">ফাইলটি খালি</string>
+    <string name="fileexist">একই নামে আরেকটি ফাইল আছে</string>
+    <string name="files">Files</string>
+    <string name="filesOnTop">ফাইলগুলো সবার উপরে</string>
+    <string name="find">Find in page</string>
+    <string name="folder">ফোল্ডার</string>
+    <string name="folders">Folders</string>
+    <string name="foldersOnTop">ফোল্ডারগুলো সবার উপরে</string>
+    <string name="french_translation_title">French</string>
+    <string name="ftp">এফটিপি সার্ভার</string>
+    <string name="ftp_no_wifi">Make sure you\'re connected to Wi-Fi</string>
+    <string name="ftp_notif_starting">FTP Server is starting</string>
+    <string name="ftp_notif_stop_server">STOP</string>
+    <string name="ftp_notif_text">at %s</string>
+    <string name="ftp_notif_title">Amaze FTP Server running</string>
+    <string name="ftp_status_not_running">Not Running</string>
+    <string name="ftp_status_running">Running</string>
+    <string name="general">General</string>
+    <string name="german_translation_title">German</string>
+    <string name="goback">Go Back</string>
+    <string name="grant">Grant</string>
+    <string name="grant_storage_permission">App needs storage permission to continue. Canceling this dialog will exit the app.</string>
+    <string name="grantfailed">Permission not granted</string>
+    <string name="grantper">Grant permission</string>
+    <string name="greek_translation_title">Греческий</string>
+    <string name="gridcolumnno">Number of columns in grid view</string>
+    <string name="gridview">Grid View</string>
+    <string name="hidden">Show Hidden Files and Folders</string>
+    <string name="hiddenfiles">Hidden Files</string>
+    <string name="hide">Hide</string>
+    <string name="history">ইতিহাস</string>
+    <string name="home">হোম</string>
+    <string name="icon">আইকন</string>
+    <string name="icon_color_summary">Set color to icons</string>
+    <string name="icon_color_title">Icon Color</string>
+    <string name="icon_content_description">ডায়ালগ আইকন</string>
+    <string name="image">Image</string>
+    <string name="images">Images</string>
+    <string name="in_safe">অপর্যাপ্ত জায়গা</string>
+    <string name="install">Install</string>
+    <string name="invalid">Invalid %s</string>
+    <string name="invalid_name">Invalid Name</string>
+    <string name="ip">Address</string>
+    <string name="italian_translation_title">Italian</string>
+    <string name="item">Item</string>
+    <string name="item_view_role_description">ট্যাব</string>
+    <string name="items">Items</string>
+    <string name="korean_translation_title">Korean</string>
+    <string name="lastModified">সর্বশেষ পরিবর্তিত হয়েছে</string>
+    <string name="lastModifiedPref">Show Last Modified</string>
+    <string name="lastModifiedSummary">Show the date and time when the file was modified last time</string>
+    <string name="light">ম্যাটেরিয়াল লাইট</string>
+    <string name="listview">List View</string>
+    <string name="loading">লোড হচ্ছে...</string>
+    <string name="location">সংরক্ষণস্হল: </string>
+    <string name="match_content">Match content</string>
+    <string name="match_content_summary">If set, regular expression will be matched with entire file name,
+
+        will look for occurrence otherwise.</string>
+    <string name="material_clock_toggle_content_description">AM অথবা PM বেছে নিন</string>
+    <string name="material_hour_selection">ঘণ্টা বেছে নিন</string>
+    <string name="material_hour_suffix">%1$sটা বাজে</string>
+    <string name="material_minute_selection">মিনিট বেছে নিন</string>
+    <string name="material_minute_suffix">%1$s মিনিট</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">সময় ইনপুট দেওয়ার জন্য ঘড়ি মোডে যান।</string>
+    <string name="material_timepicker_hour">ঘণ্টা</string>
+    <string name="material_timepicker_minute">মিনিট</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">সময় বেছে নিন</string>
+    <string name="material_timepicker_text_input_mode_description">সময় ইনপুট দেওয়ার জন্য পাঠ্য ইনপুট মোডে যান।</string>
+    <string name="md5">md5: </string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="moving">সরানো হচ্ছে</string>
+    <string name="mtrl_badge_numberless_content_description">নতুন বিজ্ঞপ্তি</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s সরিয়ে দিন</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$dটির বেশি নতুন বিজ্ঞপ্তি</string>
+    <string name="mtrl_picker_a11y_next_month">আগামী মাসে যান</string>
+    <string name="mtrl_picker_a11y_prev_month">আগের মাসে যান</string>
+    <string name="mtrl_picker_announce_current_selection">বর্তমান বাছাই: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">তারিখ বেছে নিন</string>
+    <string name="mtrl_picker_date_header_unselected">বেছে নেওয়া তারিখ</string>
+    <string name="mtrl_picker_day_of_week_column_header">সপ্তাহের দিনগুলির কলাম: %1$s</string>
+    <string name="mtrl_picker_invalid_format">ভুল ফর্ম্যাট।</string>
+    <string name="mtrl_picker_invalid_format_example">উদাহরণ: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">%1$s ফর্ম্যাটে লিখুন</string>
+    <string name="mtrl_picker_invalid_range">তারিখ সঠিক নয়।</string>
+    <string name="mtrl_picker_navigate_to_year_description">নেভিগেট করে %1$s সালে যান</string>
+    <string name="mtrl_picker_out_of_range">নির্দিষ্ট তারিখের বাইরে: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">শুরুর তারিখ – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – সমাপ্তির তারিখ</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">রেঞ্জ বেছে নিন</string>
+    <string name="mtrl_picker_range_header_unselected">শুরুর তারিখ - সমাপ্তির তারিখ</string>
+    <string name="mtrl_picker_save">সেভ করুন</string>
+    <string name="mtrl_picker_text_input_date_hint">তারিখ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">সমাপ্তির তারিখ</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">শুরুর তারিখ</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">ক্যালেন্ডার ইনপুট মোডে বদল করুন</string>
+    <string name="mtrl_picker_toggle_to_day_selection">দিন বেছে নেওয়ার মোডে বদল করতে ট্যাপ করুন</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">টেক্সট ইনপুট মোডে বদল করুন</string>
+    <string name="mtrl_picker_toggle_to_year_selection">বছর বেছে নেওয়ার মোডে বদল করতে ট্যাপ করুন</string>
+    <string name="name">নাম: </string>
+    <string name="needs_access">Write Access Required</string>
+    <string name="needs_access_summary">Please choose the root directory of \t</string>
+    <string name="needs_access_summary1">\tto grant write access to operate </string>
+    <string name="newfile">New File</string>
+    <string name="newfolder">নতুন ফোল্ডার</string>
+    <string name="no">না</string>
+    <string name="no_app_found">কোন অ্যাপ পাওয়া যায়নি ফাইলটি খোলার জন্য</string>
+    <string name="no_device_found">No device found</string>
+    <string name="no_file_overwrite">No File Overwritten</string>
+    <string name="no_files">No Files</string>
+    <string name="none_on_top">কোনো কিছুই সবার উপরে না</string>
+    <string name="not_allowed">Not Allowed</string>
+    <string msgid="478774118347071097" name="not_set">"সেট করা হয়নি"</string>
+    <string name="ok">OK</string>
+    <string name="open">খুলুন</string>
+    <string name="open_as">Open As</string>
+    <string name="open_parent">প্যারেন্ট ডাইরেক্টরিটি খুলুন</string>
+    <string name="open_with">ওপেন করুন</string>
+    <string name="operation_unsuccesful">Operation Unsuccessful</string>
+    <string name="other">Other</string>
+    <string name="overwrite">Overwrite</string>
+    <string name="package_installer">Package Installer</string>
+    <string name="package_installer_text">This is a package installer. What action would you like to perform?</string>
+    <string name="password">Password</string>
+    <string name="password_toggle_content_description">পাসওয়ার্ড দেখান</string>
+    <string name="paste">পেস্ট</string>
+    <string name="path">Path</string>
+    <string name="permission">Permissions</string>
+    <string name="pick_a_file">একটি ফাইল নির্বাচন করুন</string>
+    <string name="play">প্লে স্টোর</string>
+    <string name="polish_translation_title">Polish</string>
+    <string name="portuguese_translation_title">Portuguese</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" ক্লিপবোর্ডে লিঙ্কটি কপি করা হয়েছে।"</string>
+    <string name="press_again">বের হওয়ার জন্য আবার চাপুন</string>
+    <string name="primary_color_summary">Set color to large UI elements for the left tab</string>
+    <string name="primary_color_title">Primary Color (Left Tab)</string>
+    <string name="primary_two_summary">Set color to large UI elements for the right tab</string>
+    <string name="primary_two_title">Primary Color (Right Tab)</string>
+    <string name="process_viewer">Process Viewer</string>
+    <string name="properties">বিস্তারিত</string>
+    <string name="question_set_path_as_home">Do you want to set current path as home for this tab?</string>
+    <string name="quick">Quick Access</string>
+    <string name="random">Random Skin</string>
+    <string name="random_summary">Sets random primary color at startup</string>
+    <string name="rate">Rate the app</string>
+    <string name="recent">Recent Files</string>
+    <string name="regular_expression">Regular Expression</string>
+    <string name="regular_expression_summary">Search using a BASH style regular expression</string>
+    <string name="rename">পুনরায় নামকরণ</string>
+    <string name="rename_bookmark">Modify Bookmark</string>
+    <string name="renaming">Renaming</string>
+    <string name="romanian_translation_title">Romanian</string>
+    <string name="root_directory">Root</string>
+    <string name="root_failure">রুট প্রবেশ গ্রহণযোগ্য নয়</string>
+    <string name="root_mode">রুট এক্সপ্লোরার</string>
+    <string name="root_mode_summary">For rooted device only. Check it only if you are sure about it.</string>
+    <string name="root_pref">Show Permissions</string>
+    <string name="root_pref_summary">Show Permissions of Files and Folders</string>
+    <string name="russian_translation_title">Russian</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    <string name="save_path_summary">When starting up,the most recently viewed folder for each tab will be displayed</string>
+    <string name="save_paths">Remember paths</string>
+    <string name="saving">Saving</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Type to search…</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"সার্চ করুন"</string>
+    <string name="searching_devices">Searching for devices</string>
+    <string name="select">আইটেম সিলেক্ট করুন</string>
+    <string name="select_all">সবগুলো নির্বাচন করুন</string>
+    <string name="select_intent">Select</string>
+    <string name="serbian_translation_title">Serbian</string>
+    <string name="set">Set</string>
+    <string name="set_as_home">হোম হিসাবে নির্ধারণ করুন</string>
+    <string name="set_random">Changes will take place after you restart the app</string>
+    <string name="setting">সেটিংস</string>
+    <string name="share">শেয়ার</string>
+    <string name="show_dividers">Show Dividers</string>
+    <string name="size_pref">Show Sizes</string>
+    <string name="size_pref_summary">Show size of files and number of items in folders</string>
+    <string name="skip">Skip</string>
+    <string name="smb_connection">SMB Connection</string>
+    <string name="smb_server">Server IP Address</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by">Sort By</string>
+    <string name="sort_name">নাম</string>
+    <string name="sort_size">আকার</string>
+    <string name="spanish_translation_title">Spanish</string>
+    <string name="start_ftp">Start</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"৯৯৯+"</string>
+    <string name="stop_ftp">Stop</string>
+    <string name="stopping">থামানো হচ্ছে</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="text">Text</string>
+    <string name="textreader">Text Reader</string>
+    <string name="theme">থিম</string>
+    <string name="thumb">Show Thumbnails</string>
+    <string name="thumb_summary">Show Thumbnails of apps and images</string>
+    <string name="total">Total: </string>
+    <string name="translators">Translators</string>
+    <string name="turkish_translation_title">Turkish</string>
+    <string name="type">Type</string>
+    <string name="ui">Interface</string>
+    <string name="ukrainian_translation_title">Ukrainian</string>
+    <string name="unin_system_apk">This is a system app, deleting it might lead to system un-stability.\nProceed?</string>
+    <string name="uninstall">আনইন্সটল</string>
+    <string name="unsaved_changes">Unsaved Changes</string>
+    <string name="unsaved_changes_description">You have unsaved changes, do you want to save them before exiting?</string>
+    <string name="username">Username</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"বন্ধ"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"চালু"</string>
+    <string name="version">Version</string>
+    <string name="video">Video</string>
+    <string name="videos">Videos</string>
+    <string name="view">View</string>
+    <string name="want_help"><u>Need help?</u></string>
+    <string name="warning">Warning</string>
+    <string name="xda_summary">Q&amp;A, Help &amp; Troubleshooting</string>
+    <string name="xda_title">XDA</string>
+    <string name="yes">হ্যাঁ</string>
+    <string name="zip_viewer">Zip Viewer</string>
+</resources>

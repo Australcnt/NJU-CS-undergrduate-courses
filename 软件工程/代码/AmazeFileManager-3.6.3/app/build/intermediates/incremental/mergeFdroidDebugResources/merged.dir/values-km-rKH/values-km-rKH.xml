@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">បោះ​បង់</string>
+    <string name="color_title">ពណ៌</string>
+    <string name="delete">លុប</string>
+    <string name="details">សេចក្ដី​លម្អិត</string>
+    <string name="dialog_delete_title">បញ្ជាក់</string>
+    <string name="duration">រយៈពេល</string>
+    <string name="exposure_time">ពេលវេលា​បង្ហាញ</string>
+    <string name="focal_length">ប្រវែង​ប្រសព្វ</string>
+    <string name="height">កម្ពស់</string>
+    <string name="information">ព័ត៌មាន</string>
+    <string name="path">ផ្លូវ</string>
+    <string name="save">រក្សាទុក</string>
+    <string name="share">ចែក​រំលែក</string>
+    <string name="size_capitalized">ទំហំ</string>
+    <string name="sort_size">ទំហំ</string>
+    <string name="version">កំណែ</string>
+    <string name="width">ទទឹង</string>
+</resources>

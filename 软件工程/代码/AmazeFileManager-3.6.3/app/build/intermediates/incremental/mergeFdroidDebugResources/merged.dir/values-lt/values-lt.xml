@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d naujas pranešimas</item>
+    <item quantity="few">%d nauji pranešimai</item>
+    <item quantity="many">%d naujo pranešimo</item>
+    <item quantity="other">%d naujų pranešimų</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Eiti į pagrindinį puslapį"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Naršyti aukštyn"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Daugiau parinkčių"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Atlikta"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Žr. viską"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pasirinkite programą"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IŠJUNGTI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ĮJUNGTI"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"„Alt“ +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"„Ctrl“ +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"„delete“"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"„enter“"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"„Function“ +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"„Meta“ +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"„Shift“ +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"„space“"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"„Sym“ +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"„Menu“ +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Ieškoti…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Išvalyti užklausą"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Paieškos užklausa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Ieškoti"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Pateikti užklausą"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Paieška balsu"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Bendrinti su"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Bendrinti naudojant programą „<ns1:g id="APPLICATION_NAME">%s</ns1:g>“"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sutraukti"</string>
+    <string name="about">Apie</string>
+    <string name="add_to_bookmarks">Pridėti į žymą</string>
+    <string name="app_name">Amaze bylų tvarkyklė</string>
+    <string name="apps">Programėlių tvarkyklė</string>
+    <string name="archive">Archyvas</string>
+    <string name="authors">Autoriai</string>
+    <string name="backup">Atsarginė kopija</string>
+    <string name="bookmarks_added">Žymos pridėtos</string>
+    <string name="bottomsheet_action_expand_halfway">Išskleisti iki pusės</string>
+    <string name="cancel">ATŠAUKTI</string>
+    <string name="changelog">Pakeitimų žurnalas</string>
+    <string name="character_counter_content_description">Įvesta simbolių: %1$d iš %2$d</string>
+    <string name="character_counter_overflowed_content_description">Viršytas simbolių skaičius: %1$d iš %2$d</string>
+    <string name="clear_text_end_icon_content_description">Išvalyti tekstą</string>
+    <string name="clipboard_path_copy">Kelias nukopijuotas į iškarpinę</string>
+    <string name="color_title">Spalva</string>
+    <string name="colorize">Nuspalvinti ikonėles</string>
+    <string name="colorize_summary">Nustato pastovią įkonėlės spalvą. Neperstato direktorijos ikonėlės spalvos nustatymų.</string>
+    <string name="compress">Suspausti</string>
+    <string name="contributors_6_summary">FTP Serveris</string>
+    <string name="copy">Kopijuoti</string>
+    <string name="copying">Kopijuojama</string>
+    <string name="copyingapk">Kopijuoja apk į </string>
+    <string name="create">SUKURTI</string>
+    <string name="dark">Tamsi</string>
+    <string name="date">Data: </string>
+    <string name="daytime">Dienos</string>
+    <string name="default_string">Numatytas</string>
+    <string name="delete">Ištrinti</string>
+    <string name="deleting">Ištrinama</string>
+    <string name="details">Išsami informacija</string>
+    <string name="dialog_delete_disclaimer">Ar Jūs tikrai norite ištrinti šias bylas?</string>
+    <string name="dialog_delete_title">Patvirtinti</string>
+    <string name="directorysort">Direktorijos rūšiavimo rėžimas</string>
+    <string name="doforall">Daryti visiems elementams</string>
+    <string name="donate">Paaukoti</string>
+    <string name="done">Atlikta</string>
+    <string name="drawer_close">Uždaryti navigacijos stalčių</string>
+    <string name="drawer_open">Atidaryti navigacijos stalčių</string>
+    <string name="duration">Trukmė</string>
+    <string name="enablerootmde">Įgalinti root rėžimą</string>
+    <string name="entername">Įvesti pavadinimą</string>
+    <string name="enterpath">Įvesti kelią</string>
+    <string name="enterzipname">Įvesti Zip Pavadinimą</string>
+    <string name="error">Klaida</string>
+    <string name="error_icon_content_description">Klaida</string>
+    <string name="exit">Išeiti</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Išplėstinė"</string>
+    <string name="exposed_dropdown_menu_content_description">Rodyti išskleidžiamąjį meniu</string>
+    <string name="exposure_time">Išlaikymo laikas</string>
+    <string name="extract">Išskleisti</string>
+    <string name="extracting">Išskleidžiama</string>
+    <string name="file">Byla</string>
+    <string name="file_empty">Byla yra tuščia</string>
+    <string name="fileexist">Byla tokiu pačiu pavadinimu jau yra </string>
+    <string name="filesOnTop">Bylos viršuje</string>
+    <string name="focal_length">Židinio nuotolis</string>
+    <string name="folder">Aplankalas</string>
+    <string name="foldersOnTop">Aplankalai viršuje</string>
+    <string name="ftp">FTP Serveris</string>
+    <string name="goback">Eiti atgal</string>
+    <string name="gridcolumnno">Stulpelių skaičius tinklelio peržiūroje</string>
+    <string name="gridview">Tinklelio peržiūra</string>
+    <string name="height">Aukštis</string>
+    <string name="hide">Paslėpti</string>
+    <string name="history">Istorija</string>
+    <string name="home">Namai</string>
+    <string name="icon">Ikonėlė</string>
+    <string name="icon_content_description">Dialogo lango piktograma</string>
+    <string name="in_safe">Neužtenka vietos</string>
+    <string name="information">Informacija</string>
+    <string name="install">Įrašyti</string>
+    <string name="item">Elementas</string>
+    <string name="item_view_role_description">Skirtukas</string>
+    <string name="items">Elementai</string>
+    <string name="lastModified">Paskiausiai pakeista</string>
+    <string name="light">Šviesi</string>
+    <string name="listview">Sąrašo peržiūra</string>
+    <string name="loading">Kraunama…</string>
+    <string name="location">Vieta: </string>
+    <string name="material_clock_toggle_content_description">Pasirinkite „iki pietų“ arba „po pietų“</string>
+    <string name="material_hour_selection">Pasirinkite valandą</string>
+    <string name="material_hour_suffix">%1$s val.</string>
+    <string name="material_minute_selection">Pasirinkite minutes</string>
+    <string name="material_minute_suffix">%1$s min.</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Laiko įvestį pateikti perjungus į laikrodžio režimą.</string>
+    <string name="material_timepicker_hour">Valanda</string>
+    <string name="material_timepicker_minute">Minutė</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Pasirinkite laiką</string>
+    <string name="material_timepicker_text_input_mode_description">Laiko įvestį pateikti perjungus į teksto įvesties režimą.</string>
+    <string name="moving">Perkeliama</string>
+    <string name="mtrl_badge_numberless_content_description">Naujas pranešimas</string>
+    <string name="mtrl_chip_close_icon_content_description">Pašalinti %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Naujų pranešimų: daugiau nei %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Pakeisti į kitą mėnesį</string>
+    <string name="mtrl_picker_a11y_prev_month">Pakeisti į ankstesnį mėnesį</string>
+    <string name="mtrl_picker_announce_current_selection">Dabartinis pasirinkimas: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Pasirinkite datą</string>
+    <string name="mtrl_picker_date_header_unselected">Pasirinkta data</string>
+    <string name="mtrl_picker_day_of_week_column_header">Dienų stulpelis: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Netinkamas formatas.</string>
+    <string name="mtrl_picker_invalid_format_example">Pavyzdys: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Naudoti: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Netinkamas diapazonas.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Eiti į %1$s metus</string>
+    <string name="mtrl_picker_out_of_range">Nepatenka į diapazoną: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Pradžios data–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–pabaigos data</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Pasirinkite diapazoną</string>
+    <string name="mtrl_picker_range_header_unselected">Pradžios data–pabaigos data</string>
+    <string name="mtrl_picker_save">Išsaugoti</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Pabaigos data</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Pradžios data</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Perjungti į kalendoriaus įvesties režimą</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Palieskite, kad perjungtumėte į dienos pasirinkimą</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Perjungti į teksto įvesties režimą</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Palieskite, kad perjungtumėte į metų pasirinkimą</string>
+    <string name="name">Pavadinimas: </string>
+    <string name="newfile">Nauja byla</string>
+    <string name="newfolder">Naujas aplankalas</string>
+    <string name="no">Ne</string>
+    <string name="no_app_found">Nerasta programėlė, kuri atidarytų šią bylą</string>
+    <string name="no_file_overwrite">Nėra perrašytų bylų</string>
+    <string name="no_files">Nėra bylų</string>
+    <string name="none_on_top">Nieko viršuje</string>
+    <string name="not_allowed">Neleidžiama</string>
+    <string msgid="478774118347071097" name="not_set">"Nenustatyta"</string>
+    <string name="ok">Gerai</string>
+    <string name="open">Atidaryti</string>
+    <string name="open_parent">Atidaryti tėvinę direktoriją</string>
+    <string name="open_with">Atidaryti naudojant</string>
+    <string name="other">Kita</string>
+    <string name="overwrite">Perrašyti</string>
+    <string name="password">Slaptažodis</string>
+    <string name="password_toggle_content_description">Rodyti slaptažodį</string>
+    <string name="paste">Įklijuoti</string>
+    <string name="path">Kelias</string>
+    <string name="permission">Leidimai</string>
+    <string name="permission_other">Kita</string>
+    <string name="pick_a_file">Pasirinti bylą</string>
+    <string name="play">Play parduotuvė</string>
+    <string msgid="7961817945132860002" name="preference_copied">"Suvestinė „<ns1:g id="SUMMARY">%1$s</ns1:g>“ nukopijuota į iškarpinę."</string>
+    <string name="press_again">Paspauskite dar kart, kad išeitumėte</string>
+    <string name="process_viewer">Procesų žiūryklė</string>
+    <string name="properties">Ypatybės</string>
+    <string name="question_set_path_as_home">Ar Jūs norite nustatyti dabartinį kelią kaip namų šiai kortelei?</string>
+    <string name="random">Atsitiktinis apvalkalas</string>
+    <string name="random_summary">Nustato atsitiktinę pirminę spalvą paleidžiant</string>
+    <string name="rename">Pervardinti</string>
+    <string name="root_failure">Root priėjimas nepatvirtintas</string>
+    <string name="root_mode">Root aplankalų naršyklė</string>
+    <string name="root_mode_summary">Tik įrenginiui su root teisėmis. Pažymėti tai, jei esate ištikrųjų tikri dėl to.</string>
+    <string name="save">Išsaugoti</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Ieškoti"</string>
+    <string name="select">Pasirinkti elementą</string>
+    <string name="select_all">Pasirinkti viską</string>
+    <string name="set">Nustayti</string>
+    <string name="set_as_home">Nustatyti kaip namų</string>
+    <string name="set_random">Pakeitimai įsigalios paleidus programėlę iš naujo</string>
+    <string name="setting">Nustatymai</string>
+    <string name="share">Pasidalinti</string>
+    <string name="size_capitalized">Dydis</string>
+    <string name="skip">Praleisti</string>
+    <string name="sort_by">Rūšiuoti pagal</string>
+    <string name="sort_name">Pavadinimas</string>
+    <string name="sort_size">Dydis</string>
+    <string name="start_ftp">Pradžia</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stopping">Stabdoma</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="theme">Tema</string>
+    <string name="uninstall">Išinstaliuoti</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"IŠJUNGTA"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ĮJUNGTA"</string>
+    <string name="version">Versija</string>
+    <string name="width">Plotis</string>
+    <string name="yes">Taip</string>
+</resources>

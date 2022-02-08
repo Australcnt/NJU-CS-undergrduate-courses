@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_string">Standard</string>
+    <string name="home">Doheem</string>
+    <string name="no">Nee</string>
+    <string name="other">Aner</string>
+    <string name="password">Passwuert</string>
+    <string name="permission_other">Aner</string>
+    <string name="skip">Iwwersprangen</string>
+    <string name="start_ftp">Start</string>
+    <string name="yes">Jo</string>
+</resources>

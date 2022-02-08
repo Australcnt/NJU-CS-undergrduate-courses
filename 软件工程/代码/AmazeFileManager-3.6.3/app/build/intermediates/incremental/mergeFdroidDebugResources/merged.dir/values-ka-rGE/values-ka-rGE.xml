@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">გაუქმება</string>
+    <string name="color_title">ფერი</string>
+    <string name="delete">წაშლა</string>
+    <string name="details">დეტალები</string>
+    <string name="dialog_delete_title">დადასტურება</string>
+    <string name="duration">ხანგრძლივობა:</string>
+    <string name="exposure_time">ექსპოზიციის დრო</string>
+    <string name="focal_length">ფოკუსური მანძილი</string>
+    <string name="height">სიმაღლე</string>
+    <string name="information">ინფორმაცია</string>
+    <string name="path">მდებარეობა</string>
+    <string name="save">შენახვა</string>
+    <string name="share">გაზიარება</string>
+    <string name="size_capitalized">ზომა</string>
+    <string name="sort_size">ზომა</string>
+    <string name="version">ვერსია</string>
+    <string name="width">სიგანე</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About</string>
+    <string name="archive">Archive</string>
+    <string name="changelog">Changelog</string>
+    <string name="color_title">রঙ</string>
+    <string name="default_string">Default</string>
+    <string name="dialog_delete_title">নিশ্চিত করুন</string>
+    <string name="donate">দান করুন</string>
+    <string name="done">সম্পন্ন হয়েছে</string>
+    <string name="edit">Edit</string>
+    <string name="exit">প্রস্থান</string>
+    <string name="exposure_time">এক্সপোজার সময়</string>
+    <string name="focal_length">ফোকাল দৈর্ঘ্য</string>
+    <string name="history">ইতিহাস</string>
+    <string name="information">তথ্য</string>
+    <string name="no">না</string>
+    <string name="other">অন্যান্য</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="permission_other">অন্যান্য</string>
+    <string name="setting">Settings</string>
+    <string name="size_capitalized">আকার</string>
+    <string name="skip">Skip</string>
+    <string name="sort_size">আকার</string>
+    <string name="start_ftp">Start</string>
+    <string name="version">সংস্করণ</string>
+    <string name="warning">সতর্কতা</string>
+    <string name="yes">হ্যাঁ</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">Түс</string>
+    <string name="exposure_time">Экспозиция убактысы</string>
+    <string name="focal_length">Фокус аралыгы</string>
+    <string name="information">Маалымат</string>
+    <string name="size_capitalized">Өлчөмү</string>
+    <string name="sort_size">Өлчөмү</string>
+    <string name="version">Версиясы</string>
+</resources>

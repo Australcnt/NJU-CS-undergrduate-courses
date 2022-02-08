@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">Litur</string>
+    <string name="exposure_time">Lýsingartími</string>
+    <string name="focal_length">Brennivídd</string>
+    <string name="information">Upplýsingar</string>
+    <string name="size_capitalized">Stærð</string>
+    <string name="sort_size">Stærð</string>
+    <string name="version">Útgáfa</string>
+</resources>

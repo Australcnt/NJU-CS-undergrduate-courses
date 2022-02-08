@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Չեղարկել</string>
+    <string name="color_title">Գույն</string>
+    <string name="delete">Ջնջել</string>
+    <string name="details">Մանրամասներ</string>
+    <string name="dialog_delete_title">Հաստատել</string>
+    <string name="duration">Տևողությունը</string>
+    <string name="exposure_time">Լուսավորման ժամանակը</string>
+    <string name="focal_length">Ֆոկուսի չափը</string>
+    <string name="height">Հասակ</string>
+    <string name="information">Տեղեկություններ</string>
+    <string name="path">Ուղի</string>
+    <string name="save">Պահել</string>
+    <string name="share">Կիսվել</string>
+    <string name="size_capitalized">Չափը</string>
+    <string name="sort_size">Չափը</string>
+    <string name="version">Տարբերակը</string>
+    <string name="width">Լայնությունը</string>
+</resources>

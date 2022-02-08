@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_title">રંગ</string>
+    <string name="exposure_time">પ્રદર્શન સમય</string>
+    <string name="focal_length">ફોકલ લેન્થ</string>
+    <string name="information">માહિતી</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="size_capitalized">કદ</string>
+    <string name="sort_size">કદ</string>
+    <string name="text">લખાણ</string>
+    <string name="version">સંસ્કરણ</string>
+</resources>

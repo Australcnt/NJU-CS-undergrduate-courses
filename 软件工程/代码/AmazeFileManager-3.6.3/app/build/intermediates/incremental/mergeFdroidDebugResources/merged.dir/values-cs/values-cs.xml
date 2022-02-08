@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nové oznámení</item>
+    <item quantity="few">%d nová oznámení</item>
+    <item quantity="many">%d nového oznámení</item>
+    <item quantity="other">%d nových oznámení</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"VYP"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ZAP"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"mezerník"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Vyhledat…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Dotaz pro vyhledávání"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Sdílet s"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Sdílet s aplikací <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string name="about">O</string>
+    <string name="about_amaze_file_manager_label">O správci souborů Amaze</string>
+    <string name="accent_color_summary">Nastavte barvu pro FAB a další malé prvky uživatelského rozhraní</string>
+    <string name="accent_color_title">Barva zvýraznění</string>
+    <string name="accessed">Poslední přístup</string>
+    <string name="add_item">Přidat položku</string>
+    <string name="add_shortcut">Přidat zástupce</string>
+    <string name="add_to_bookmarks">Přidat do záložek</string>
+    <string name="advanced_search">Rozšířené vyhledávání</string>
+    <string name="album">Album</string>
+    <string name="anonymous">Anonymní</string>
+    <string name="aperture_value">Hodnota clony</string>
+    <string name="apks">Aplikace</string>
+    <string name="app_name">Amaze</string>
+    <string name="apps">Správce Aplikací</string>
+    <string name="archive">Archivovat</string>
+    <string name="archive_extract_folder">Složka pro extrahování archivu</string>
+    <string name="archive_summary">Archivované soubory budou extrahované do této složky. Výchozí hodnota je složka, ve které je archiv uložen</string>
+    <string name="archive_text">Toto je archiv. Jakou akci chcete provést?</string>
+    <string name="artist">Interpret</string>
+    <string name="ascending">Vzestupně</string>
+    <string name="audio">Zvuk</string>
+    <string name="authenticate_password">Zadejte heslo</string>
+    <string name="author">Autor</string>
+    <string name="authors">Autoři</string>
+    <string name="back_summary">Tlačítko Zpět na začátku seznamu</string>
+    <string name="back_title">Tlačítko Zpět</string>
+    <string name="backup">Záloha</string>
+    <string name="basque_translation_title">Baskičtina</string>
+    <string name="bitrate">Datový tok</string>
+    <string name="blue">Modrá</string>
+    <string name="bluetooth">Zařízení Bluetooth</string>
+    <string name="bookmark_lost">Záložka nebyla nalezena, obnovování…</string>
+    <string name="bookmarks_added">Založka přidána</string>
+    <string name="bottomsheet_action_expand_halfway">Rozbalit napůl</string>
+    <string name="byte_singular">bajtů</string>
+    <string name="bytes">bajtů</string>
+    <string name="calculating"> měřím </string>
+    <string name="camera_brand">Značka fotoaparátu</string>
+    <string name="camera_model">Model fotoaparátu</string>
+    <string name="cancel">ZRUŠIT</string>
+    <string name="cancelled">Zrušeno</string>
+    <string name="cant_be_empty">%s nemůže být prázdné</string>
+    <string name="change">Změnit</string>
+    <string name="changelog">Changelog</string>
+    <string name="channels">Kanály</string>
+    <string name="character_counter_content_description">Zadané znaky: %1$d z %2$d</string>
+    <string name="character_counter_overflowed_content_description">Byl překročen povolený počet znaků (%1$d z %2$d)</string>
+    <string name="chinese_translation_title">Čínština</string>
+    <string name="choose_color">Vybrat barvu</string>
+    <string name="circular_icons">Používat kruhové ikony</string>
+    <string name="circular_images">Používat kruhové ikony pro obrázky a videa</string>
+    <string name="clear">Smazat vše</string>
+    <string name="clear_text_end_icon_content_description">Vymazat text</string>
+    <string name="clipboard_path_copy">Cesta byla zkopírována do schránky</string>
+    <string name="close">Zavřít</string>
+    <string name="cloud_box">Box</string>
+    <string name="cloud_connection">Připojení ke cloudu</string>
+    <string name="cloud_connection_new">Nové připojení ke cloudu</string>
+    <string name="cloud_drive">Disk Google™</string>
+    <string name="cloud_dropbox">Dropbox</string>
+    <string name="cloud_error_failed_restart">Nepodařilo se načíst připojení.         Prosím, otevřete jednou Amaze Cloud.</string>
+    <string name="cloud_error_plugin">Amaze Cloud plugin nebyl nalezen. Stáhněte si ho z Obchodu Play.</string>
+    <string name="cloud_fail_authenticate">Ověření se nezdařilo</string>
+    <string name="cloud_get">Získat Cloud plugin</string>
+    <string name="cloud_onedrive">OneDrive</string>
+    <string name="cloud_remove">Chcete odstranit připojení ke cloudu?</string>
+    <string name="cloud_share_copied">Sdílení odkazu bylo zkopírováno do schránky</string>
+    <string name="cloud_token_lost">Token byl ztracen, prosím znovu se přihlaste</string>
+    <string name="codec">Kodek</string>
+    <string name="color_summary">Nastavit barvu pro různé části uživatelského rozhraní</string>
+    <string name="color_title">Barva</string>
+    <string name="colored_navigation">Barevný navigační panel</string>
+    <string name="colored_navigvation_sum">Zbarvení navigačního panelu v souladu se skinem</string>
+    <string name="colorize">Zbarvit ikony</string>
+    <string name="colorize_summary">Nastaví barvu statických ikon. Nepřepíše preferovanou barvu ikony složek.</string>
+    <string name="comment">Komentář</string>
+    <string name="compress">Komprimovat</string>
+    <string name="compressing">Komprimace</string>
+    <string name="compression_complete">Komprese byla dokončena</string>
+    <string name="connection_exists">Připojení již existuje</string>
+    <string name="connection_name">Název připojení</string>
+    <string name="container">Složka</string>
+    <string name="contributors">Přispěvatelé</string>
+    <string name="contributors_1_summary">Překlady</string>
+    <string name="contributors_2_summary">Ikony a bannery</string>
+    <string name="contributors_3_summary">Pohon motivu</string>
+    <string name="contributors_4_summary">Stín za plovoucím FAB tlačítkem</string>
+    <string name="contributors_5_summary">Barevný přechod při potáhnutí karty</string>
+    <string name="contributors_6_summary">Server FTP</string>
+    <string name="contributors_7_summary">Spustit interaktivní shell</string>
+    <string name="copied">zkopírováno</string>
+    <string name="copy">Kopírovat</string>
+    <string name="copy_complete">Kopírování dokončeno</string>
+    <string name="copy_error">Některé soubory nebyly úspěšné %s</string>
+    <string name="copy_low_memory">Nedostatek paměti, prosím vyčistěte RAM</string>
+    <string name="copying">Kopírování</string>
+    <string name="copyingapk">Kopírování aplikace do </string>
+    <string name="create">VYTVOŘIT</string>
+    <string name="created">Vytvořeno</string>
+    <string name="creatingfile">Vytvoření souboru</string>
+    <string name="creatingfolder">Vytváření složky</string>
+    <string name="creator">Autor</string>
+    <string name="crypt_decrypt">Dešifrovat</string>
+    <string name="crypt_decrypted">Dešifrováno</string>
+    <string name="crypt_decrypting">Dešifrování</string>
+    <string name="crypt_decryption_fail">Dešifrování se nezdařilo</string>
+    <string name="crypt_decryption_fail_password">Špatné heslo!</string>
+    <string name="crypt_encrypt">Šifrovat</string>
+    <string name="crypt_encrypted">Šifrováno</string>
+    <string name="crypt_encrypting">Šifrování</string>
+    <string name="crypt_encryption_fail">Šifrování se nezdařilo</string>
+    <string name="crypt_fingerprint_authenticate">Stiskněte senzor pro pokračování</string>
+    <string name="crypt_fingerprint_no_permission">Oprávnění otisků prstů chybí</string>
+    <string name="crypt_fingerprint_no_security">Nalezeno žádné zabezpečení zamykací obrazovky</string>
+    <string name="crypt_fingerprint_not_enrolled">Není zapsán žádný otisk prstu</string>
+    <string name="crypt_pref_fingerprint_summary">Použijte otisk prstu k ověření šifrování</string>
+    <string name="crypt_pref_fingerprint_title">Otisk prstu</string>
+    <string name="crypt_pref_master_password_summary">Nastavte hlavní heslo pro šifrování.         Ponechte prázdné pro odstranění.</string>
+    <string name="crypt_pref_master_password_title">Hlavní heslo</string>
+    <string name="crypt_warning_key">Upozornit, když změníte svůj bezpečnostní vzor v nastavení systému, potom nebude možné dešifrovat tento obsah.</string>
+    <string name="current_speed">Aktuální rychlost</string>
+    <string name="cut">Vyjmout</string>
+    <string name="dark">Material Dark</string>
+    <string name="database">Databáze</string>
+    <string name="databasereader">Prohlížeč databáze</string>
+    <string name="date">Datum</string>
+    <string name="date_modified">Datum změny</string>
+    <string name="date_taken">Datum pořízení</string>
+    <string name="daytime">Daytime</string>
+    <string name="default_string">Výchozí</string>
+    <string name="delbook">Odstranit záložku</string>
+    <string name="delete">Smazat</string>
+    <string name="deleting">Odstraňování</string>
+    <string name="descending">Sestupně</string>
+    <string name="details">Podrobnosti</string>
+    <string name="dialog_delete_category_directories">Adresáře</string>
+    <string name="dialog_delete_category_files">Soubory</string>
+    <string name="dialog_delete_disclaimer">Vymazání níže uvedených položek je natrvalo odstraní ze zařízení a nebude je možné obnovit.</string>
+    <string name="dialog_delete_title">Odstranit položky natrvalo?</string>
+    <string name="dimensions">Rozměry</string>
+    <string name="directory">Adresář</string>
+    <string name="directorysort">Režim řazení adresářů</string>
+    <string name="documents">Dokumenty</string>
+    <string name="doforall">U všech položek</string>
+    <string name="doit">Vykonat</string>
+    <string name="domain">Doména</string>
+    <string name="donate">Přispět</string>
+    <string name="done">Hotovo</string>
+    <string name="drawer_close">Zavřít navigační lištu</string>
+    <string name="drawer_open">Otevřít navigační lištu</string>
+    <string name="duration">Délka</string>
+    <string name="dutch_translation_title">Holandština</string>
+    <string name="easter_egg_title">Studiový mód</string>
+    <string name="edit">Editace</string>
+    <string name="enablerootmde">Povolit režim s rootem</string>
+    <string name="entername">Zadejte název</string>
+    <string name="enterpath">Zadejte cestu</string>
+    <string name="enterzipname">Zadejte název ZIP souboru</string>
+    <string name="error">Chyba</string>
+    <string name="error_file_not_found">Chyba: Soubor nebyl nalezen</string>
+    <string name="error_icon_content_description">Chyba</string>
+    <string name="error_io">Chyba I/O</string>
+    <string name="exit">Konec</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Rozšířená nastavení"</string>
+    <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>
+    <string name="exposure_time">Expoziční čas</string>
+    <string name="extract">Extrahovat</string>
+    <string name="extract_complete">Extrakce byla dokončena</string>
+    <string name="extracting">Probíhá extrahování</string>
+    <string name="failed_cloud_api_key">Autentizace cloudového pluginu se nezdařila</string>
+    <string name="failed_cloud_new_connection">Nepodařilo se přidat cloudové připojení</string>
+    <string name="failed_smb_decrypt_path">Pokus o otevření spojení selhal</string>
+    <string name="feedback">Odeslat zpětnou vazbu</string>
+    <string name="field_empty">Pole nemůže být prázdné</string>
+    <string name="file">Soubor</string>
+    <string name="file_empty">Soubor je prázdny</string>
+    <string name="fileexist">Již existuje soubor se stejným názvem </string>
+    <string name="files">Soubory</string>
+    <string name="filesOnTop">Soubory na vrcholu</string>
+    <string name="find">Najít na stránce</string>
+    <string name="flash_fired">S bleskem</string>
+    <string name="focal_length">Ohnisková vzdálenost</string>
+    <string name="folder">Složka</string>
+    <string name="folders">Složky</string>
+    <string name="foldersOnTop">Složky na vrcholu</string>
+    <string name="format">Formát</string>
+    <string name="frame_rate">Snímkovací frekvence</string>
+    <string name="free">volné místo</string>
+    <string name="french_translation_title">Francouzština</string>
+    <string name="ftp">Server FTP</string>
+    <string name="ftp_login">Přihlášení</string>
+    <string name="ftp_no_wifi">Ujistěte se, zda jste připojeni k Wi-Fi</string>
+    <string name="ftp_notif_starting">Spouštění serveru FTP</string>
+    <string name="ftp_notif_starting_title">FTP Server</string>
+    <string name="ftp_notif_stop_server">STOP</string>
+    <string name="ftp_notif_text">na %s</string>
+    <string name="ftp_notif_title">FTP Server Amaze je spuštěn</string>
+    <string name="ftp_path">Cesta sdílení</string>
+    <string name="ftp_path_change_error_invalid">Neplatná cesta</string>
+    <string name="ftp_path_change_success">FTP cesta byla úspěšně změněna</string>
+    <string name="ftp_path_hint">Cesta ke kořenovému adresáře sdílení</string>
+    <string name="ftp_port">Port</string>
+    <string name="ftp_port_change_error_invalid">Vybráno neplatné číslo portu</string>
+    <string name="ftp_port_change_success">FTP port byl úspěšně změněn</string>
+    <string name="ftp_port_edit_menu_title">FTP Port</string>
+    <string name="ftp_seconds">Sekundy</string>
+    <string name="ftp_status_no_connection">Žádné připojení</string>
+    <string name="ftp_status_not_running">Není spuštěno</string>
+    <string name="ftp_status_running">Spuštěno</string>
+    <string name="ftp_status_secure_connection">Zabezpečené připojení</string>
+    <string name="ftp_status_title">Stav</string>
+    <string name="ftp_timeout">Časový limit nečinnosti</string>
+    <string name="general">Obecné</string>
+    <string name="german_translation_title">Němčina</string>
+    <string name="goback">Zpět</string>
+    <string name="got_it">Jasně!</string>
+    <string name="grant">Povolit</string>
+    <string name="grant_storage_permission">Aplikace potřebuje pro pokračování udělit přístup k úložišti. Zavřením dialogového okna bude aplikace ukončena.</string>
+    <string name="grantfailed">Oprávnění není uděleno</string>
+    <string name="grantper">Udělit oprávnění</string>
+    <string name="greek_translation_title">Řečtina</string>
+    <string name="green">Zelená</string>
+    <string name="gridcolumnno">Počet sloupců v zobrazení mřížky</string>
+    <string name="gridview">Zobrazení mřížky</string>
+    <string name="hash_sha256">SHA-256</string>
+    <string name="height">Výška</string>
+    <string name="hidden">Zobrazovat skryté soubory a složky</string>
+    <string name="hiddenfiles">Skryté soubory</string>
+    <string name="hide">Skrýt</string>
+    <string name="history">History</string>
+    <string name="home">Doma</string>
+    <string name="icon">ikona</string>
+    <string name="icon_color_summary">Nastavit barvu ikony</string>
+    <string name="icon_color_title">Barva ikony</string>
+    <string name="icon_content_description">Ikona dialogového okna</string>
+    <string name="image">Obraz</string>
+    <string name="image_iso">Hodnoty ISO</string>
+    <string name="image_type">Typ obrázku</string>
+    <string name="images">Obrázky</string>
+    <string name="in_safe">Nedostatek místa</string>
+    <string name="information">Informace</string>
+    <string name="install">Instalovat</string>
+    <string name="intellihide_toolbar_summary">Automaticky schovat nástrojovou lištu během scrollování</string>
+    <string name="intellihide_toolbar_title">Inteligentně schovat nástrojovou lištu</string>
+    <string name="invalid">Neplatné %s</string>
+    <string name="invalid_name">Neplatný název</string>
+    <string name="ip">Adresa</string>
+    <string name="italian_translation_title">Italština</string>
+    <string name="item">položka</string>
+    <string name="item_view_role_description">Karta</string>
+    <string name="items">položky</string>
+    <string name="japanese_translation_title">Japonština</string>
+    <string name="keywords">Klíčová slova</string>
+    <string name="korean_translation_title">Korejština</string>
+    <string name="lastModified">Naposledy upraveno</string>
+    <string name="lastModifiedPref">Zobrazit poslední změny</string>
+    <string name="lastModifiedSummary">Zobrazit datum a čas poslední změny</string>
+    <string name="light">Material Light</string>
+    <string name="listview">Zobrazení seznamu</string>
+    <string name="loading">Načítání…</string>
+    <string name="location">Místo</string>
+    <string name="match_content">Porovnat obsah</string>
+    <string name="match_content_summary">Jakmile nastavíte, regulární výraz bude porovnán s celým názvem souboru, jinak se zaměří na počet výskytů.</string>
+    <string name="material_clock_toggle_content_description">Vyberte AM nebo PM</string>
+    <string name="material_hour_selection">Vyberte hodinu</string>
+    <string name="material_hour_suffix">%1$s</string>
+    <string name="material_minute_selection">Zvolte minuty</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Chcete-li zadat čas, přepněte na režim hodin.</string>
+    <string name="material_timepicker_hour">Hodina</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Vyberte čas</string>
+    <string name="material_timepicker_text_input_mode_description">Chcete-li zadat čas, přepněte na režim textu.</string>
+    <string name="md5">md5: </string>
+    <string name="medium_text">Střední Text</string>
+    <string name="miscellaneous">Různé</string>
+    <string name="modified">Upraveno</string>
+    <string name="monofont">Monospace Font</string>
+    <string name="moved">přesunuto</string>
+    <string name="moving">Přesun</string>
+    <string name="mtrl_badge_numberless_content_description">Nové oznámení</string>
+    <string name="mtrl_chip_close_icon_content_description">Odstranit položku %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Více než %1$d nových oznámení</string>
+    <string name="mtrl_picker_a11y_next_month">Přejít na další měsíc</string>
+    <string name="mtrl_picker_a11y_prev_month">Přejít na předchozí měsíc</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuální výběr: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Vyberte datum</string>
+    <string name="mtrl_picker_date_header_unselected">Vybrané datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Sloupec dnů: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Neplatný formát.</string>
+    <string name="mtrl_picker_invalid_format_example">Příklad: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Použijte: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Neplatný rozsah.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Přejít na rok %1$s</string>
+    <string name="mtrl_picker_out_of_range">Mimo rozsah: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Datum zahájení – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – datum ukončení</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Vyberte rozsah</string>
+    <string name="mtrl_picker_range_header_unselected">Datum zahájení – datum ukončení</string>
+    <string name="mtrl_picker_save">Uložit</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Datum ukončení</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Datum zahájení</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">r</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Přepnout na režim zadávání do kalendáře</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Klepnutím přepnete na výběr dne</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Přepnout na režim zadávání textu</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Klepnutím přepnete na výběr roku</string>
+    <string name="name">Název</string>
+    <string name="needs_access">Je potřeba oprávnění pro zápis</string>
+    <string name="needs_access_summary">Prosím, vyberte kořenový adresář \t</string>
+    <string name="needs_access_summary1">\tto udělit oprávnění pro zápis </string>
+    <string name="newfile">Nový soubor</string>
+    <string name="newfolder">Nová složka</string>
+    <string name="no">Ne</string>
+    <string name="no_app_found">K otevření toho souboru nebyla nalezena žádná aplikace</string>
+    <string name="no_applications">Žádné aplikace</string>
+    <string name="no_device_found">Žádná zařízení nenalezena</string>
+    <string name="no_file_overwrite">Žádný soubor nebyl přepsaný</string>
+    <string name="no_files">Žádné soubory</string>
+    <string name="no_items">Žádné položky</string>
+    <string name="no_name">Soubor by měl mít název</string>
+    <string name="none_on_top">Nic na vrcholu</string>
+    <string name="not_allowed">Toto není dovoleno</string>
+    <string msgid="478774118347071097" name="not_set">"Nenastaveno"</string>
+    <string name="of">z</string>
+    <string name="ok">OK</string>
+    <string name="open">Otevřít</string>
+    <string name="open_as">Otevřít jako</string>
+    <string name="open_parent">Otevřít nadřazený adresář</string>
+    <string name="open_with">Otevřít pomocí</string>
+    <string name="opening">Otevírání..</string>
+    <string name="operation_fail_following">Operace se nezdařila pro následující soubory</string>
+    <string name="operation_unsuccesful">Operace se nezdařila</string>
+    <string name="optimized">Optimalizováno</string>
+    <string name="orange">Oranžová</string>
+    <string name="otg_access">Vyberte kořenovou složku OTG zařízení</string>
+    <string name="other">Ostatní</string>
+    <string name="out_of">z</string>
+    <string name="overwrite">Přepsat</string>
+    <string name="package_installer">Instalátor balíčků</string>
+    <string name="package_installer_text">Toto je instalační balíček. Jakou akci chcete provést?</string>
+    <string name="pages">Počet stránek</string>
+    <string name="paper_size">Velikost papíru</string>
+    <string name="password">Heslo</string>
+    <string name="password_toggle_content_description">Zobrazit heslo</string>
+    <string name="paste">Vložit</string>
+    <string name="path">Cesta</string>
+    <string name="paypal_copy_message">Paypal ID bylo zkopírováno do schránky</string>
+    <string name="permission">Oprávnění</string>
+    <string name="permission_execute">Vykonat</string>
+    <string name="permission_group">Skupina</string>
+    <string name="permission_other">Ostatní</string>
+    <string name="permission_owner">Majitel</string>
+    <string name="permission_read">Načíst</string>
+    <string name="permission_write">Napsat</string>
+    <string name="pick_a_file">Vybrat soubor</string>
+    <string name="play">Obchod Play</string>
+    <string name="please_wait">Čekejte prosím</string>
+    <string name="polish_translation_title">Polština</string>
+    <string name="portuguese_translation_title">Portugalština</string>
+    <string msgid="7961817945132860002" name="preference_copied">"Položka <ns1:g id="SUMMARY">%1$s</ns1:g> byla zkopírována do schránky."</string>
+    <string name="press_again">Pro ukončení stiskněte znovu</string>
+    <string name="primary_color_summary">Nastavte barvu pro velké prvky uživatelského rozhraní levé katy</string>
+    <string name="primary_color_title">Primární barva (levá karta)</string>
+    <string name="primary_two_summary">Nastavte barvu pro velké prvky uživatelského rozhraní pravé katy</string>
+    <string name="primary_two_title">Primární barva (pravá karta)</string>
+    <string name="process_viewer">Prohlížeč procesů</string>
+    <string name="processing_file">Zpracování souboru</string>
+    <string name="producer">Producent</string>
+    <string name="properties">Předvolby</string>
+    <string name="properties_copied_clipboard">zkopírováno do schránky</string>
+    <string name="question_set_path_as_home">Chcete nastavit aktuální cestu jako domovskou pro tuto kartu?</string>
+    <string name="quick">Rychlý přístup</string>
+    <string name="random">Náhodný skin</string>
+    <string name="random_summary">Nastavit náhodnou základní barvu při spuštění</string>
+    <string name="rate">Ohodnotit aplikaci</string>
+    <string name="recent">Nedávné soubory</string>
+    <string name="regular_expression">Regulární výraz</string>
+    <string name="regular_expression_summary">Vyhledávání pomocí regulárních výrazů ve stylu BASH</string>
+    <string name="rename">Přejmenovat</string>
+    <string name="rename_bookmark">Upravit záložku</string>
+    <string name="renaming">Přejmenování</string>
+    <string name="report_bugs_summary">Nahlásit chybu nebo požádat o nové funkce</string>
+    <string name="report_bugs_title">Ohlásit chybu</string>
+    <string name="romanian_translation_title">Rumunština</string>
+    <string name="root_directory">Kořenový adresář</string>
+    <string name="root_failure">Root přístup nebyl udělen</string>
+    <string name="root_mode">Root Explorer</string>
+    <string name="root_mode_summary">Pouze pro zařízení s rootem. Použijte pouze v případě, že jste si o tom jistí.</string>
+    <string name="root_pref">Zobrazit oprávnění</string>
+    <string name="root_pref_summary">Zobrazit oprávnění souborů a složek</string>
+    <string name="russian_translation_title">Ruština</string>
+    <string name="sample_rate">Vzorkovací frekvence</string>
+    <string name="save">Uložit</string>
+    <string name="save_path_summary">Při spuštění se zobrazí naposledy zobrazená složka pro každou kartu</string>
+    <string name="save_paths">Zapamatovat cesty</string>
+    <string name="saving">Ukládání</string>
+    <string name="scp_port">Port</string>
+    <string name="search">Hledat</string>
+    <string name="search_hint">Zadejte hledaný výraz…</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Hledat"</string>
+    <string name="searching_devices">Vyhledávání zařízení</string>
+    <string name="security">Zabezpečení</string>
+    <string name="select">Vybrat položku</string>
+    <string name="select_all">Vybrat Vše</string>
+    <string name="select_intent">Vybrat</string>
+    <string name="serbian_translation_title">Srbsština</string>
+    <string name="service_timer">Uplynulý čas</string>
+    <string name="set">Nastavit</string>
+    <string name="set_as_home">Nastavit jako domácí</string>
+    <string name="set_random">Změny se provedou po restartování aplikace</string>
+    <string name="setting">Nastavení</string>
+    <string name="share">Sdílet</string>
+    <string name="share_limit">Nelze sdílet více než 100 souborů</string>
+    <string name="showHeaders">Zobrazit záhlaví</string>
+    <string name="show_dividers">Zobrazit oddělovače</string>
+    <string name="show_quick_access_pref">Rychlý přístup</string>
+    <string name="show_quick_access_pref_title">Zobrazit Rychlý přístup</string>
+    <string name="sidebar_quick_access_title">Rychlý přístup k postrannímu panelu</string>
+    <string name="size">velikost složky</string>
+    <string name="size_capitalized">Velikost</string>
+    <string name="size_pref">Zobrazit velikost</string>
+    <string name="size_pref_summary">Zobrazit velikost souborů a počet položek ve složkách</string>
+    <string name="skip">Přeskočit</string>
+    <string name="smb_connection">Připojení SMB</string>
+    <string name="smb_instructions">
+<html>
+            <body>
+                <h1>Jak můžu získat přístup ke sdílené složce Windows na platforme Android</h1>\n\n
+                <ul>
+                    <li>
+                        <b>Povolit sdílení souborů</b>\n
+                    </li>
+                    <p style="margin-left: 40px">
+                        Otevřete Ovládací panel, klikněte na tlačítko \"Vybrat domácí skupinu a možnosti sdílení\", klikněte na tlačítko \"Změnit rozšířené nastavení sdílení\" a prejděte na sdílení složek a tiskáren.\n\n
+                    </p>
+
+                    <li>
+                        <b>Rozšířené nastavení sdílení</b>\n
+                    </li>
+                    <p style="margin-left: 40px">
+                        Můžete nastavit i další pokročilé možnosti sdílení.\nNapříklad, můžete povolit přístup k souborům bez hesla pokud důvěřujete všem zařízením v síti. Jakmile je sdílení souborů a tiskáren zapnuto, otevřete Průzkumník Windows nebo jiného správce souborů, klikněte pravým tlačítkem myši na složku, ktorou chcete sdílet  a vyberte možnost \"Vlastnosti\".\nKliknutím na tlačítko Sdílet  bude složka dostupná v síti.\n\n
+                        </p>
+
+                    <li>
+                        <b>Uistěte se, že zařízení jsou ve stejné Wi-Fi síti</b>\n
+                    </li>
+                    <p style="margin-left: 40px">
+                       Vaše zařízení Windows a Android musí být na stejné síti. Například, že nemůžete mít přístup ke složce systému Windows na systém Android, když je vaše zařízení Android připojené na mobilní internet!\n\n
+                    </p>
+
+                    <li>
+                        <b>Vyhledávání IP adresy</b>\n
+                    </li>
+                    <p style="margin-left: 40px">
+                        Otevřete příkazový řádek. Zadejte \'ipconfig\' a stiskněte Enter. Najděte \"IPv4 adresu\" adaptéru, kterým jsou Windows a Android zařízení připojené ke stejné síti.\n\n
+                    </p>
+
+                    <b>Enter details in SMB dialog box</b>\n
+                </ul>
+            </body>
+        </html>    </string>
+    <string name="smb_launch_error">Budete muset zkopírovat tento soubor na úložiště a otevřít ho</string>
+    <string name="smb_server">IP adresa serveru</string>
+    <string name="software">Software</string>
+    <string name="sort">Řazení</string>
+    <string name="sort_by">Seřadit podle</string>
+    <string name="sort_name">Jméno</string>
+    <string name="sort_size">Rozměry</string>
+    <string name="spanish_translation_title">Španělština</string>
+    <string name="start_ftp">Start</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_ftp">Konec</string>
+    <string name="stopping">Zastavování</string>
+    <string name="subject">Předmět</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_development">Podpořte vývoj</string>
+    <string name="tamil_translation_title">Tamilština</string>
+    <string name="text">Text</string>
+    <string name="textreader">Textový prohlížeč</string>
+    <string name="theme">Motiv vzhledu</string>
+    <string name="thumb">Zobrazit náhledy</string>
+    <string name="thumb_summary">Zobrazovat miniatury aplikací a obrázků</string>
+    <string name="title">Název</string>
+    <string name="total">Celkem:</string>
+    <string name="translate_summary">Přeložte Amaze do vašeho jazyka</string>
+    <string name="translate_title">Přeložit</string>
+    <string name="translators">Překladatelé</string>
+    <string name="turkish_translation_title">Turečtina</string>
+    <string name="type">Typ</string>
+    <string name="ui">Prostředí</string>
+    <string name="ukrainian_translation_title">Ukrajinština</string>
+    <string name="unin_system_apk">Toto je systémová aplikace, její odstranění může narušit stabilitu systému. \nChcete pokračovat?</string>
+    <string name="uninstall">Odinstalovat</string>
+    <string name="unknown_error">Oops, něco se pokazilo!</string>
+    <string name="unsaved_changes">Neuložené změny</string>
+    <string name="unsaved_changes_description">Máte neuložené změny, chcete je před ukončením uložit?</string>
+    <string name="use_custom_ip">Použít vlastní IP</string>
+    <string name="used">využité místo</string>
+    <string name="used_by_others">používají ostatní</string>
+    <string name="username">Uživatelské jméno</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"Vypnutí"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ZAP"</string>
+    <string name="version">Verze</string>
+    <string name="video">Video</string>
+    <string name="videos">Videa</string>
+    <string name="vietnamese_translation_title">Vietnamština</string>
+    <string name="view">Náhled</string>
+    <string name="waiting_content">Čekání na dokončení operace</string>
+    <string name="waiting_title">Čekám</string>
+    <string name="want_help"><u>Potřebujete pomoc?</u></string>
+    <string name="warning">Varování</string>
+    <string name="warning_confirm">Jasně!</string>
+    <string name="warning_never_show">Příště neinformovat</string>
+    <string name="width">Šířka</string>
+    <string name="written">Zapsáno</string>
+    <string name="xda_summary">Q&amp;A, pomoc &amp; řešení problémů</string>
+    <string name="xda_title">Vlákno XDA</string>
+    <string name="year">Rok</string>
+    <string name="yes">Ano</string>
+    <string name="zip_viewer">Zip prohlížeč</string>
+</resources>

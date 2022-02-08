@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">TÜHISTA</string>
+    <string name="color_title">Värv</string>
+    <string name="default_string">Vaikimisi</string>
+    <string name="delete">Kustuta</string>
+    <string name="details">Üksikasjad</string>
+    <string name="dialog_delete_title">Kinnitamine</string>
+    <string name="duration">Kestus</string>
+    <string name="exposure_time">Säriaeg</string>
+    <string name="focal_length">Fookuskaugus</string>
+    <string name="height">Kõrgus</string>
+    <string name="home">Kodu</string>
+    <string name="information">Teave</string>
+    <string name="other">Muud</string>
+    <string name="password">Parool</string>
+    <string name="path">Tee</string>
+    <string name="permission_other">Muud</string>
+    <string name="save">Salvesta</string>
+    <string name="share">Jaga</string>
+    <string name="size_capitalized">Suurus</string>
+    <string name="sort_size">Suurus</string>
+    <string name="version">Versioon</string>
+    <string name="width">Laius</string>
+</resources>

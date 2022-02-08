@@ -1,0 +1,631 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3    Copyright (C) 2014 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>, Luca D'Amico (Luca91)
+4
+5    This file is part of Amaze File Manager.
+6
+7    Amaze File Manager is free software: you can redistribute it and/or modify
+8    it under the terms of the GNU General Public License as published by
+9    the Free Software Foundation, either version 3 of the License, or
+10    (at your option) any later version.
+11
+12    This program is distributed in the hope that it will be useful,
+13    but WITHOUT ANY WARRANTY; without even the implied warranty of
+14    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+15    GNU General Public License for more details.
+16
+17    You should have received a copy of the GNU General Public License
+18    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+19-->
+20<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+21    package="com.amaze.filemanager.debug"
+22    android:versionCode="97"
+23    android:versionName="3.6.3" >
+24
+25    <uses-sdk
+26        android:minSdkVersion="14"
+26-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml
+27        android:targetSdkVersion="29" />
+27-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml
+28
+29    <permission
+30        android:name="com.amaze.filemanager.debug.permission.CONTROL_FTP_SERVER"
+30-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:26:17-78
+31        android:protectionLevel="dangerous" />
+31-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:27:9-44
+32
+33    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+33-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:29:5-76
+33-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:29:22-73
+34    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+34-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:30:5-79
+34-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:30:22-76
+35    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+35-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:31:5-80
+35-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:31:22-78
+36    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+36-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:32:5-88
+36-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:32:22-85
+37    <uses-permission android:name="android.permission.INTERNET" />
+37-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:33:5-67
+37-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:33:22-64
+38    <uses-permission android:name="com.amaze.cloud.permission.ACCESS_PROVIDER" />
+38-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:34:5-82
+38-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:34:22-79
+39    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+39-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:35:5-74
+39-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:35:22-71
+40    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+40-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:36:5-83
+40-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:36:22-80
+41    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+41-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:37:5-77
+41-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:37:22-74
+42    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+42-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:38:5-82
+42-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:38:22-79
+43
+44    <uses-feature
+44-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:40:5-42:36
+45        android:name="android.hardware.touchscreen"
+45-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:41:9-52
+46        android:required="false" />
+46-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:42:9-33
+47    <uses-feature
+47-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:44:5-45:36
+48        android:name="android.software.leanback"
+48-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:44:19-59
+49        android:required="false" />
+49-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:45:9-33
+50
+51    <uses-permission android:name="com.android.vending.BILLING" /> <!-- To store the heap dumps and leak analysis results. -->
+51-->[com.android.billingclient:billing:2.1.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\0a7e693f0c38ac74ed51bd41922c4735\jetified-billing-2.1.0\AndroidManifest.xml:10:5-67
+51-->[com.android.billingclient:billing:2.1.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\0a7e693f0c38ac74ed51bd41922c4735\jetified-billing-2.1.0\AndroidManifest.xml:10:22-64
+52    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+52-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:23:5-80
+52-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:23:22-77
+53
+54    <application
+54-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:47:5-234:19
+55        android:name="com.amaze.filemanager.application.AppConfig"
+55-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:48:9-46
+56        android:allowBackup="true"
+56-->[com.cloudrail:cloudrail-si-android:2.22.4] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\2fd45466955da685983f464283ecb686\jetified-cloudrail-si-android-2.22.4\AndroidManifest.xml:14:9-35
+57        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+57-->[androidx.core:core:1.5.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\22c56001c46ca88836c4891d1855ccc8\core-1.5.0\AndroidManifest.xml:24:18-86
+58        android:banner="@drawable/about_header"
+58-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:54:9-48
+59        android:debuggable="true"
+60        android:icon="@mipmap/ic_launcher"
+60-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:49:9-43
+61        android:label="@string/appbar_name"
+61-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:52:9-44
+62        android:requestLegacyExternalStorage="true"
+62-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:53:9-52
+63        android:roundIcon="@mipmap/ic_launcher_round" >
+63-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:50:9-54
+64        <activity
+64-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:56:9-120:20
+65            android:name="com.amaze.filemanager.ui.activities.MainActivity"
+65-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:59:13-55
+66            android:label="@string/appbar_name"
+66-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:57:13-48
+67            android:launchMode="singleInstance"
+67-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:58:13-48
+68            android:theme="@style/appCompatBlack" >
+68-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:60:13-50
+69            <intent-filter android:label="@string/appbar_name" >
+69-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:62:13-66:29
+69-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:62:28-63
+70                <action android:name="android.intent.action.MAIN" />
+70-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:63:17-69
+70-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:63:25-66
+71
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:64:17-77
+72-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:64:27-74
+73                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+73-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:65:17-86
+73-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:65:27-83
+74            </intent-filter>
+75            <intent-filter>
+75-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:68:13-73:29
+76                <action android:name="android.intent.action.GET_CONTENT" />
+76-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:69:17-76
+76-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:69:25-73
+77
+78                <data android:mimeType="*/*" />
+78-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+78-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+79
+80                <category android:name="android.intent.category.OPENABLE" />
+80-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:71:17-77
+80-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:71:27-74
+81                <category android:name="android.intent.category.DEFAULT" />
+81-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:17-76
+81-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:27-73
+82            </intent-filter>
+83            <intent-filter>
+83-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:75:13-78:29
+84                <action android:name="android.intent.action.RINGTONE_PICKER" />
+84-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:76:17-80
+84-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:76:25-77
+85
+86                <category android:name="android.intent.category.DEFAULT" />
+86-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:17-76
+86-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:27-73
+87            </intent-filter>
+88            <intent-filter>
+88-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:80:13-91:29
+89                <action android:name="android.intent.action.VIEW" />
+89-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:81:17-69
+89-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:81:25-66
+90
+91                <data android:mimeType="application/zip" />
+91-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+91-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+92                <data android:mimeType="application/rar" />
+92-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+92-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+93                <data android:mimeType="application/x-gzip" />
+93-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+93-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+94                <data android:mimeType="application/x-rar-compressed" />
+94-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+94-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+95                <data android:mimeType="application/x-bzip2" />
+95-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+95-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+96                <data android:mimeType="application/x-xz" />
+96-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+96-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+97                <data android:mimeType="application/x-7z-compressed" />
+97-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+97-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+98                <!-- <category android:name="android.intent.category.OPENABLE" /> -->
+99                <category android:name="android.intent.category.DEFAULT" />
+99-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:17-76
+99-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:27-73
+100            </intent-filter>
+101            <intent-filter>
+101-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:93:13-95:29
+102                <action android:name="android.service.quicksettings.action.QS_TILE_PREFERENCES" />
+102-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:94:17-99
+102-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:94:25-96
+103            </intent-filter>
+104            <intent-filter>
+104-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:97:13-102:29
+105                <action android:name="android.intent.action.VIEW" />
+105-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:81:17-69
+105-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:81:25-66
+106
+107                <category android:name="android.intent.category.DEFAULT" />
+107-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:17-76
+107-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:27-73
+108                <category android:name="android.intent.category.BROWSABLE" />
+108-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:100:17-78
+108-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:100:27-75
+109
+110                <data android:scheme="com.amaze.filemanager" />
+110-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+110-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:101:23-61
+111            </intent-filter>
+112            <intent-filter>
+112-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:104:13-109:29
+113                <action android:name="android.intent.action.VIEW" />
+113-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:81:17-69
+113-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:81:25-66
+114
+115                <data android:mimeType="resource/folder" />
+115-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+115-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+116
+117                <category android:name="android.intent.category.DEFAULT" />
+117-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:17-76
+117-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:27-73
+118
+119                <data android:scheme="com.amaze.filemanager" />
+119-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+119-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:101:23-61
+120            </intent-filter>
+121            <intent-filter android:label="@string/intent_save_as" >
+121-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:111:13-116:29
+121-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:111:28-66
+122                <action android:name="android.intent.action.SEND" />
+122-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:112:17-69
+122-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:112:25-66
+123                <action android:name="android.intent.action.SEND_MULTIPLE" />
+123-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:113:17-78
+123-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:113:25-75
+124
+125                <category android:name="android.intent.category.DEFAULT" />
+125-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:17-76
+125-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:27-73
+126
+127                <data android:mimeType="*/*" />
+127-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+127-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+128            </intent-filter>
+129
+130            <meta-data
+130-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:118:13-119:53
+131                android:name="android.app.shortcuts"
+131-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:118:24-60
+132                android:resource="@xml/shortcuts" />
+132-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:119:17-50
+133        </activity>
+134        <activity
+134-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:122:9-133:20
+135            android:name="com.amaze.filemanager.ui.activities.PreferencesActivity"
+135-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:126:13-62
+136            android:configChanges="orientation|screenSize"
+136-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:124:13-59
+137            android:label="@string/setting"
+137-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:125:13-44
+138            android:theme="@style/appCompatBlack"
+138-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:127:13-50
+139            android:uiOptions="splitActionBarWhenNarrow" >
+139-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:123:13-57
+140            <intent-filter>
+140-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:128:13-131:29
+141                <action android:name="android.intent.action.APPLICATION_PREFERENCES" />
+141-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:129:17-88
+141-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:129:25-85
+142
+143                <category android:name="android.intent.category.DEFAULT" />
+143-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:17-76
+143-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:27-73
+144            </intent-filter>
+145        </activity>
+146        <activity
+146-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:134:9-149:20
+147            android:name="com.amaze.filemanager.ui.activities.TextEditorActivity"
+147-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:136:13-61
+148            android:label="@string/textreader"
+148-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:135:13-47
+149            android:theme="@style/appCompatBlack" >
+149-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:137:13-50
+150            <intent-filter android:label="Amaze Text Editor" >
+150-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:138:13-147:29
+150-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:140:17-50
+151                <action android:name="android.intent.action.VIEW" />
+151-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:81:17-69
+151-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:81:25-66
+152
+153                <category android:name="android.intent.category.DEFAULT" />
+153-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:17-76
+153-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:27-73
+154
+155                <data android:mimeType="text/*" />
+155-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+155-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+156                <data android:mimeType="application/javascript" />
+156-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+156-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+157                <data android:mimeType="application/json" />
+157-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+157-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+158                <data android:mimeType="application/xml" />
+158-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+158-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+159            </intent-filter>
+160        </activity>
+161        <activity
+161-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:150:9-163:20
+162            android:name="com.amaze.filemanager.ui.activities.DatabaseViewerActivity"
+162-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:152:13-65
+163            android:label="@string/databasereader"
+163-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:151:13-51
+164            android:screenOrientation="locked"
+164-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:154:13-47
+165            android:theme="@style/appCompatBlack" >
+165-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:153:13-50
+166            <intent-filter android:label="Amaze Database Reader" >
+166-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:155:13-161:29
+166-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:157:17-54
+167                <action android:name="android.intent.action.VIEW" />
+167-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:81:17-69
+167-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:81:25-66
+168
+169                <category android:name="android.intent.category.DEFAULT" />
+169-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:17-76
+169-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:72:27-73
+170
+171                <data android:mimeType="db/*" />
+171-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:17-48
+171-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:70:23-45
+172            </intent-filter>
+173        </activity>
+174        <activity
+174-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:165:9-168:15
+175            android:name="com.amaze.filemanager.ui.activities.AboutActivity"
+175-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:165:19-62
+176            android:label="About"
+176-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:167:13-34
+177            android:theme="@style/aboutBlack" />
+177-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:166:13-46
+178        <activity
+178-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:170:9-173:15
+179            android:name="com.amaze.filemanager.crashreport.ErrorActivity"
+179-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:170:19-60
+180            android:label="Error"
+180-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:172:13-34
+181            android:theme="@style/appCompatBlack" />
+181-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:171:13-50
+182
+183        <service
+183-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:175:9-179:19
+184            android:name="com.amaze.filemanager.asynchronous.services.ExtractService"
+184-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:176:13-67
+185            android:label="Extracting" >
+185-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:177:13-41
+186        </service>
+187        <service
+187-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:180:9-184:19
+188            android:name="com.amaze.filemanager.asynchronous.services.ZipService"
+188-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:181:13-63
+189            android:label="Compressing" >
+189-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:182:13-42
+190        </service>
+191        <service
+191-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:185:9-189:19
+192            android:name="com.amaze.filemanager.asynchronous.services.CopyService"
+192-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:186:13-64
+193            android:label="Copying" >
+193-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:187:13-38
+194        </service>
+195        <service
+195-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:191:9-193:15
+196            android:name="com.amaze.filemanager.asynchronous.services.EncryptService"
+196-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:191:18-70
+197            android:label="@string/crypt_encrypting" />
+197-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:192:13-53
+198        <service
+198-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:195:9-197:15
+199            android:name="com.amaze.filemanager.asynchronous.services.DecryptService"
+199-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:195:18-70
+200            android:label="@string/crypt_decrypting" />
+200-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:196:13-53
+201        <service
+202            android:name="com.amaze.filemanager.asynchronous.services.ftp.FtpService"
+202-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:200:13-65
+203            android:enabled="true"
+203-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:201:13-35
+204            android:exported="true"
+204-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:202:13-36
+205            android:permission="com.amaze.filemanager.debug.permission.CONTROL_FTP_SERVER" />
+205-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:203:13-80
+206        <service
+206-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:205:9-213:19
+207            android:name="com.amaze.filemanager.asynchronous.services.ftp.FtpTileService"
+207-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:205:18-74
+208            android:icon="@drawable/ic_ftp_dark"
+208-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:206:13-49
+209            android:label="@string/ftp"
+209-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:207:13-40
+210            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+210-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:208:13-77
+211            <intent-filter>
+211-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:209:13-212:29
+212                <action android:name="android.service.quicksettings.action.QS_TILE" />
+212-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:210:17-211:83
+212-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:211:21-80
+213            </intent-filter>
+214        </service>
+215
+216        <receiver
+217            android:name="com.amaze.filemanager.asynchronous.services.ftp.FtpReceiver"
+217-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:216:13-66
+218            android:exported="true"
+218-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:217:13-36
+219            android:permission="com.amaze.filemanager.debug.permission.CONTROL_FTP_SERVER" >
+219-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:218:13-80
+220            <intent-filter>
+220-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:219:13-222:29
+221                <action android:name="com.amaze.filemanager.services.ftpservice.FTPReceiver.ACTION_START_FTPSERVER" />
+221-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:220:17-119
+221-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:220:25-116
+222                <action android:name="com.amaze.filemanager.services.ftpservice.FTPReceiver.ACTION_STOP_FTPSERVER" />
+222-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:221:17-118
+222-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:221:25-115
+223            </intent-filter>
+224        </receiver>
+225
+226        <provider
+227            android:name="androidx.core.content.FileProvider"
+227-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:226:13-62
+228            android:authorities="com.amaze.filemanager.debug"
+228-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:227:13-51
+229            android:exported="false"
+229-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:228:13-37
+230            android:grantUriPermissions="true" >
+230-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:229:13-47
+231            <meta-data
+231-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:230:13-232:58
+232                android:name="android.support.FILE_PROVIDER_PATHS"
+232-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:231:17-67
+233                android:resource="@xml/provider_paths" />
+233-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:232:17-55
+234        </provider>
+235
+236        <service
+236-->[com.squareup.leakcanary:leakcanary-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\34a806ca2a2929e70aaead48a173f24c\jetified-leakcanary-android-2.6\AndroidManifest.xml:23:9-25:40
+237            android:name="leakcanary.internal.HeapAnalyzerService"
+237-->[com.squareup.leakcanary:leakcanary-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\34a806ca2a2929e70aaead48a173f24c\jetified-leakcanary-android-2.6\AndroidManifest.xml:24:13-67
+238            android:exported="false" />
+238-->[com.squareup.leakcanary:leakcanary-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\34a806ca2a2929e70aaead48a173f24c\jetified-leakcanary-android-2.6\AndroidManifest.xml:25:13-37
+239
+240        <activity android:name="com.mikepenz.aboutlibraries.ui.LibsActivity" />
+240-->[com.mikepenz:aboutlibraries:6.1.1] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\4902e089201a4a48470121858d91072a\jetified-aboutlibraries-6.1.1\AndroidManifest.xml:12:9-80
+240-->[com.mikepenz:aboutlibraries:6.1.1] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\4902e089201a4a48470121858d91072a\jetified-aboutlibraries-6.1.1\AndroidManifest.xml:12:19-77
+241
+242        <service
+242-->[androidx.room:room-runtime:2.2.5] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\c20ac2675855327f1d7d923c7c17b771\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+243            android:name="androidx.room.MultiInstanceInvalidationService"
+243-->[androidx.room:room-runtime:2.2.5] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\c20ac2675855327f1d7d923c7c17b771\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+244            android:directBootAware="true"
+244-->[androidx.room:room-runtime:2.2.5] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\c20ac2675855327f1d7d923c7c17b771\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+245            android:exported="false" />
+245-->[androidx.room:room-runtime:2.2.5] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\c20ac2675855327f1d7d923c7c17b771\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+246
+247        <meta-data
+247-->[com.android.billingclient:billing:2.1.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\0a7e693f0c38ac74ed51bd41922c4735\jetified-billing-2.1.0\AndroidManifest.xml:13:9-15:37
+248            android:name="com.google.android.play.billingclient.version"
+248-->[com.android.billingclient:billing:2.1.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\0a7e693f0c38ac74ed51bd41922c4735\jetified-billing-2.1.0\AndroidManifest.xml:14:13-73
+249            android:value="2.1.0" />
+249-->[com.android.billingclient:billing:2.1.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\0a7e693f0c38ac74ed51bd41922c4735\jetified-billing-2.1.0\AndroidManifest.xml:15:13-34
+250
+251        <activity
+251-->[com.android.billingclient:billing:2.1.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\0a7e693f0c38ac74ed51bd41922c4735\jetified-billing-2.1.0\AndroidManifest.xml:17:9-20:75
+252            android:name="com.android.billingclient.api.ProxyBillingActivity"
+252-->[com.android.billingclient:billing:2.1.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\0a7e693f0c38ac74ed51bd41922c4735\jetified-billing-2.1.0\AndroidManifest.xml:18:13-78
+253            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+253-->[com.android.billingclient:billing:2.1.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\0a7e693f0c38ac74ed51bd41922c4735\jetified-billing-2.1.0\AndroidManifest.xml:19:13-96
+254            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+254-->[com.android.billingclient:billing:2.1.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\0a7e693f0c38ac74ed51bd41922c4735\jetified-billing-2.1.0\AndroidManifest.xml:20:13-72
+255        <activity android:name="com.cloudrail.si.servicecode.commands.awaitCodeRedirect.AuthenticationActivity" />
+255-->[com.cloudrail:cloudrail-si-android:2.22.4] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\2fd45466955da685983f464283ecb686\jetified-cloudrail-si-android-2.22.4\AndroidManifest.xml:16:9-115
+255-->[com.cloudrail:cloudrail-si-android:2.22.4] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\2fd45466955da685983f464283ecb686\jetified-cloudrail-si-android-2.22.4\AndroidManifest.xml:16:19-112
+256
+257        <service
+257-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:27:9-31:39
+258            android:name="org.acra.sender.LegacySenderService"
+258-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:28:13-63
+259            android:enabled="@bool/acra_enable_legacy_service"
+259-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:29:13-63
+260            android:exported="false"
+260-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:30:13-37
+261            android:process=":acra" />
+261-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:31:13-36
+262        <service
+262-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:32:9-37:39
+263            android:name="org.acra.sender.JobSenderService"
+263-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:33:13-60
+264            android:enabled="@bool/acra_enable_job_service"
+264-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:34:13-60
+265            android:exported="false"
+265-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:35:13-37
+266            android:permission="android.permission.BIND_JOB_SERVICE"
+266-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:36:13-69
+267            android:process=":acra" />
+267-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:37:13-36
+268
+269        <provider
+269-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:39:9-45:51
+270            android:name="org.acra.attachment.AcraContentProvider"
+270-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:40:13-67
+271            android:authorities="com.amaze.filemanager.debug.acra"
+271-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:41:13-56
+272            android:exported="false"
+272-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:42:13-37
+273            android:grantUriPermissions="true"
+273-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:43:13-47
+274            android:process=":acra" />
+274-->[ch.acra:acra-core:5.7.0] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\ad4e79bb54f7e081a462a84b59b92325\jetified-acra-core-5.7.0\AndroidManifest.xml:44:13-36
+275        <provider
+275-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:29:9-37:20
+276            android:name="leakcanary.internal.LeakCanaryFileProvider"
+276-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:30:13-70
+277            android:authorities="com.squareup.leakcanary.fileprovider.com.amaze.filemanager.debug"
+277-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:31:13-88
+278            android:exported="false"
+278-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:32:13-37
+279            android:grantUriPermissions="true" >
+279-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:33:13-47
+280            <meta-data
+280-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:230:13-232:58
+281                android:name="android.support.FILE_PROVIDER_PATHS"
+281-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:231:17-67
+282                android:resource="@xml/leak_canary_file_paths" />
+282-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:232:17-55
+283        </provider>
+284
+285        <activity
+285-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:39:9-44:66
+286            android:name="leakcanary.internal.activity.LeakActivity"
+286-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:40:13-69
+287            android:icon="@mipmap/leak_canary_icon"
+287-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:41:13-52
+288            android:label="@string/leak_canary_display_activity_label"
+288-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:42:13-71
+289            android:taskAffinity="com.squareup.leakcanary.com.amaze.filemanager.debug"
+289-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:43:13-76
+290            android:theme="@style/leak_canary_LeakCanary.Base" />
+290-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:44:13-63
+291
+292        <activity-alias
+292-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:46:9-62:26
+293            android:name="leakcanary.internal.activity.LeakLauncherActivity"
+293-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:47:13-77
+294            android:banner="@drawable/leak_canary_tv_icon"
+294-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:48:13-59
+295            android:enabled="@bool/leak_canary_add_launcher_icon"
+295-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:49:13-66
+296            android:icon="@mipmap/leak_canary_icon"
+296-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:50:13-52
+297            android:label="@string/leak_canary_display_activity_label"
+297-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:51:13-71
+298            android:targetActivity="leakcanary.internal.activity.LeakActivity"
+298-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:52:13-79
+299            android:taskAffinity="com.squareup.leakcanary.com.amaze.filemanager.debug"
+299-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:53:13-76
+300            android:theme="@style/leak_canary_LeakCanary.Base" >
+300-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:54:13-63
+301            <intent-filter>
+301-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:62:13-66:29
+302                <action android:name="android.intent.action.MAIN" />
+302-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:63:17-69
+302-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:63:25-66
+303
+304                <category android:name="android.intent.category.LAUNCHER" />
+304-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:64:17-77
+304-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:64:27-74
+305                <!-- Android TV launcher intent -->
+306                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+306-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:65:17-86
+306-->C:\AmazeFileManager-3.6.3\app\src\main\AndroidManifest.xml:65:27-83
+307            </intent-filter>
+308        </activity-alias>
+309
+310        <activity
+310-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:64:9-70:68
+311            android:name="leakcanary.internal.RequestStoragePermissionActivity"
+311-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:65:13-80
+312            android:excludeFromRecents="true"
+312-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:66:13-46
+313            android:icon="@mipmap/leak_canary_icon"
+313-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:67:13-52
+314            android:label="@string/leak_canary_storage_permission_activity_label"
+314-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:68:13-82
+315            android:taskAffinity="com.squareup.leakcanary.com.amaze.filemanager.debug"
+315-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:69:13-76
+316            android:theme="@style/leak_canary_Theme.Transparent" />
+316-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:70:13-65
+317
+318        <receiver android:name="leakcanary.internal.NotificationReceiver" />
+318-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:72:9-77
+318-->[com.squareup.leakcanary:leakcanary-android-core:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\b1c8f79cc0bbfa9214401989ee299db2\jetified-leakcanary-android-core-2.6\AndroidManifest.xml:72:19-74
+319
+320        <provider
+320-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\186fb1f86c31016fd9a5e3a56a57db85\jetified-leakcanary-object-watcher-android-2.6\AndroidManifest.xml:8:9-12:40
+321            android:name="leakcanary.internal.AppWatcherInstaller$MainProcess"
+321-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\186fb1f86c31016fd9a5e3a56a57db85\jetified-leakcanary-object-watcher-android-2.6\AndroidManifest.xml:9:13-79
+322            android:authorities="com.amaze.filemanager.debug.leakcanary-installer"
+322-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\186fb1f86c31016fd9a5e3a56a57db85\jetified-leakcanary-object-watcher-android-2.6\AndroidManifest.xml:10:13-72
+323            android:enabled="@bool/leak_canary_watcher_auto_install"
+323-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\186fb1f86c31016fd9a5e3a56a57db85\jetified-leakcanary-object-watcher-android-2.6\AndroidManifest.xml:11:13-69
+324            android:exported="false" />
+324-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\186fb1f86c31016fd9a5e3a56a57db85\jetified-leakcanary-object-watcher-android-2.6\AndroidManifest.xml:12:13-37
+325        <provider
+325-->[com.squareup.leakcanary:plumber-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\bb19d89f525100faeb93454d6f1fdc69\jetified-plumber-android-2.6\AndroidManifest.xml:8:9-12:40
+326            android:name="leakcanary.internal.PlumberInstaller"
+326-->[com.squareup.leakcanary:plumber-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\bb19d89f525100faeb93454d6f1fdc69\jetified-plumber-android-2.6\AndroidManifest.xml:9:13-64
+327            android:authorities="com.amaze.filemanager.debug.plumber-installer"
+327-->[com.squareup.leakcanary:plumber-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\bb19d89f525100faeb93454d6f1fdc69\jetified-plumber-android-2.6\AndroidManifest.xml:10:13-69
+328            android:enabled="@bool/leak_canary_plumber_auto_install"
+328-->[com.squareup.leakcanary:plumber-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\bb19d89f525100faeb93454d6f1fdc69\jetified-plumber-android-2.6\AndroidManifest.xml:11:13-69
+329            android:exported="false" />
+329-->[com.squareup.leakcanary:plumber-android:2.6] C:\Users\92469\.gradle\caches\transforms-2\files-2.1\bb19d89f525100faeb93454d6f1fdc69\jetified-plumber-android-2.6\AndroidManifest.xml:12:13-37
+330    </application>
+331
+332</manifest>

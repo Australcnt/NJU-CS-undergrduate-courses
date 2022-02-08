@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout-v16\\list_header.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-v16\\list_header.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout-v16\\grid_header.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-v16\\grid_header.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout-v16\\dialog_delete.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-v16\\dialog_delete.xml"
+    }
+]

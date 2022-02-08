@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\activity_about.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\fragment_ftp.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\fragment_ftp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\properties_information.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_information.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\tabfragment.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\tabfragment.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\notification_service_big.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\notification_service_big.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\rowlayout.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\rowlayout.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\item_colorpicker.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\item_colorpicker.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\main_frag.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\main_frag.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\layout_search.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\layout_search.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\simplerow.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\simplerow.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\activity_error.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\activity_error.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\open_source_licenses.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\open_source_licenses.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\lexadrawer.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\lexadrawer.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\adapter_donation.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\adapter_donation.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\properties_hash.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_hash.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_grid.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_grid.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\toolbar.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\properties_video.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_video.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\fragment_open_file_dialog.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\fragment_open_file_dialog.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_drag_drop.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_drag_drop.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\fragment_db_viewer.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\fragment_db_viewer.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\copy_dialog.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\copy_dialog.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\properties_dialog.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_dialog.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\prefsfrag.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\prefsfrag.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\search.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\layout_appbar.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\layout_appbar.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_delete.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_delete.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\properties_image.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_image.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\actionmode_textviewer.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\actionmode_textviewer.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\bookmarkrow.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\bookmarkrow.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\fastscroller.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\fastscroller.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\properties_permissions.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_permissions.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\fragment_app_list.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\fragment_app_list.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\properties_general.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_general.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\grid_header.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\grid_header.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\namepathswitch_preference.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\namepathswitch_preference.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\activity_db_viewer.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\activity_db_viewer.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_ftp_login.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_ftp_login.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_encrypt_authenticate.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_encrypt_authenticate.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\fragment_sheet_cloud.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\fragment_sheet_cloud.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\actionmode.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\actionmode.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\processparent.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\processparent.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_singleedittext.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_singleedittext.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\sftp_dialog.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\sftp_dialog.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_twoedittexts.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_twoedittexts.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\layout_draweractionview.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\layout_draweractionview.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\smb_computers_row.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\smb_computers_row.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\notification_service_small.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\notification_service_small.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\drawerheader.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\drawerheader.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\smb_progress_row.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\smb_progress_row.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_grid_item.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_grid_item.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\smb_dialog.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\smb_dialog.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\permissiontable.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\permissiontable.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\rename.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\rename.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\drag_placeholder.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\drag_placeholder.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\properties_audio.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_audio.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\selectedcolors_preference.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\selectedcolors_preference.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\griditem.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\griditem.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_signin_with_google.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_signin_with_google.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_colorpicker.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_colorpicker.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\properties_document.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_document.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\list_header.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\list_header.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\dialog_decrypt_fingerprint_authentication.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_decrypt_fingerprint_authentication.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout\\snackbar_view.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\snackbar_view.xml"
+    }
+]

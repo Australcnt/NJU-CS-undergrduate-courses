@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout-w720dp-v13\\layout_search.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-w720dp\\layout_search.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\stripped.dir\\layout-w720dp-v13\\layout_appbar.xml",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-w720dp\\layout_appbar.xml"
+    }
+]

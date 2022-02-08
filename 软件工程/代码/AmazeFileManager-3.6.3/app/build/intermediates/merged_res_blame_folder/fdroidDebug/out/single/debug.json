@@ -1,0 +1,1430 @@
+[
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_doc_video_am.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_doc_video_am.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_folder_lock_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_lock_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_content_paste_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_content_paste_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_folder_lock_open_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_folder_lock_open_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_shape_dialog_bottomsheet_black.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\shape_dialog_bottomsheet_black.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_all_inclusive_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_all_inclusive_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_star_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_star_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_file_lock_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_lock_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_fingerprint_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_fingerprint_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_eye_off_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_eye_off_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_open_source_licenses.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\open_source_licenses.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_properties_information.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_information.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_phone_android_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_phone_android_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_popup_black.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\popup_black.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_slide_out.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_history_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_history_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_settings_white_48dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_white_48dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_sign_in_with_google_roboto_text.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_sign_in_with_google_roboto_text.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_baseline_content_cut_24.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_baseline_content_cut_24.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout-v16_dialog_delete.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-v16\\dialog_delete.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_font.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_font.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_eye_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_eye_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_file_lock_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_file_lock_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_folder_lock_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_folder_lock_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_baseline_input_24.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_baseline_input_24.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_doc_am.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_doc_am.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_amaze_header.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\amaze_header.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_slide_in.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\build\\generated\\easylauncher\\res\\fdroidDebug\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_shortcut_history.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_shortcut_history.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_dropbox_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_dropbox_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_broken_image_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_broken_image_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_actionmode.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\actionmode.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_shape_dialog_bottomsheet_dark.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\shape_dialog_bottomsheet_dark.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_content_copy_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_content_copy_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_content_copy_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_content_copy_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_file_lock_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_file_lock_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_processparent.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\processparent.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_fab_label_background.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\fab_label_background.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_home_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_home_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_sort_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_sort_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_eye_off_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_eye_off_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_edit_24dp_disabled.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_edit_24dp_disabled.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_cloud_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_cloud_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_content_copy_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_content_copy_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_xda_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_xda_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_cloud_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cloud_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_doc_video_am.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_doc_video_am.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_zip_box_grey.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_zip_box_grey.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_layout_search.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\layout_search.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_disableable_ic_edit_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\disableable_ic_edit_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_content_copy_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_content_copy_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_event_am.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_event_am.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_ftp_dark.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_ftp_dark.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fastscroller.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\fastscroller.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_delete_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_safr_ripple_black.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\safr_ripple_black.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_activity_db_viewer.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\activity_db_viewer.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_app_list.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\fragment_app_list.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_activity_error.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\activity_error.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_about_header.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\about_header.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_close_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_close_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_star_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_star_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_onedrive_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_onedrive_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_apk.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_apk.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_folder_lock_open_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_folder_lock_open_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_ftp_server_menu.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\menu\\ftp_server_menu.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_keyboard_arrow_up_white.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_keyboard_arrow_up_white.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_slide_in_bottom.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_ftp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\fragment_ftp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_keyboard_arrow_down_white.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_keyboard_arrow_down_white.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_griditem.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\griditem.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ripple.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ripple.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_singleedittext.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_singleedittext.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_permissiontable.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\permissiontable.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout-v21_layout_appbar.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-v21\\layout_appbar.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_keyboard_arrow_up_white.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_keyboard_arrow_up_white.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_audio_am.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_audio_am.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_cloud_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_cloud_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_properties_general.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_general.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_dropbox_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_dropbox_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_namepathswitch_preference.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\namepathswitch_preference.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_layout_draweractionview.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\layout_draweractionview.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_settings_bluetooth_black_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_bluetooth_black_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_eye_off_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_eye_off_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout-v21_main_toolbar.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-v21\\main_toolbar.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_google_drive_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_google_drive_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_file_lock_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_file_lock_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_save.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_content_copy_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_content_copy_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_folder_lock_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_folder_lock_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_check_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_check_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_rowlayout.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\rowlayout.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_slide_in_top.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\anim\\slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_video_am.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_video_am.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_settings_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_settings_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\build\\generated\\easylauncher\\res\\fdroidDebug\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_arrow_left_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_apk_white.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_apk_white.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout-v22_dialog_colorpicker.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-v22\\dialog_colorpicker.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_text_am.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_text_am.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_shortcut_star.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_shortcut_star.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_folder_lock_open_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_folder_lock_open_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_item_focusable.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\item_focusable.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_search.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_smb_dialog.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\smb_dialog.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_bug_report_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_bug_report_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_folder_lock_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_folder_lock_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\xml_fastaccess_prefs.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\xml\\fastaccess_prefs.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_arrow_left_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_show_chart_black_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_show_chart_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_adapter_donation.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\adapter_donation.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_list_header.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\list_header.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_keyboard_arrow_up_white.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_up_white.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_onedrive_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_onedrive_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_fingerprint_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_fingerprint_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_remote_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_remote_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_sd_operate_step.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\sd_operate_step.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_drawer_root_white.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer_root_white.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_arrow_left_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_close_black_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_video_dark.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_video_dark.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_error_menu.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\menu\\error_menu.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_check_in.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\anim\\check_in.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-v21_safr_ripple_white.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-v21\\safr_ripple_white.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_settings_grey600_48dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\xml_color_prefs.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\xml\\color_prefs.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_box_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_box_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_content_copy_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_content_copy_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_shortcut_ftp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_shortcut_ftp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_eye_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_eye_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_eye_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_eye_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_sheet_cloud.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\fragment_sheet_cloud.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_history_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_history_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_drawerheader.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\drawerheader.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_grid_card_background_dark.9.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_grid_card_background_dark.9.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_insert_drive_file_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_insert_drive_file_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_fingerprint_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_fingerprint_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\build\\generated\\easylauncher\\res\\fdroidDebug\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_notification_service_small.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\notification_service_small.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_doc_video_am.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_doc_video_am.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_eye_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_eye_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_content_copy_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_content_copy_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_grid_header.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\grid_header.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\xml_folders_prefs.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\xml\\folders_prefs.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_baseline_content_copy_24.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_baseline_content_copy_24.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_xda_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_xda_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_prefsfrag.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\prefsfrag.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_folder_lock_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_folder_lock_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout-w720dp_layout_search.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-w720dp\\layout_search.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_pdf.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_pdf.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_cloud_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cloud_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout-w500dp_properties_dialog.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-w500dp\\properties_dialog.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_grid_card_pressed.9.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_grid_card_pressed.9.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout-v21_layout_search.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-v21\\layout_search.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_keyboard_arrow_right_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_right_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_arrow_left_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_main_frag.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\main_frag.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_item_colorpicker.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\item_colorpicker.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_fastscroller_handle_pressed.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\fastscroller_handle_pressed.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_grid_item.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_grid_item.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_fastscroller_handle_normal.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\fastscroller_handle_normal.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_search.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_properties_permissions.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_permissions.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_search_view_shape.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\search_view_shape.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_xda_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_xda_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_item_backgrund.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\item_backgrund.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\build\\generated\\easylauncher\\res\\fdroidDebug\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_content_cut_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_content_cut_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_twoedittexts.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_twoedittexts.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_ftp_light.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_ftp_light.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_linux_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_linux_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_sd_storage_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_sd_storage_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\build\\generated\\easylauncher\\res\\fdroidDebug\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_search_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_folder_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_folder_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_group_add_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_group_add_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_sftp_dialog.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\sftp_dialog.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_codes.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_codes.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_doc_video_dark.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_doc_video_dark.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_compressed_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_compressed_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_telegram_app_96.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\telegram_app_96.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_grid.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_grid.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-v21_ripple.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-v21\\ripple.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_add_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_add_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_content_copy_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_content_copy_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_colorpicker.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_colorpicker.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_fab_shadow_light.9.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\fab_shadow_light.9.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_apk_library_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_apk_library_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_root_white_24px.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_root_white_24px.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_settings_remote_white_48dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_remote_white_48dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_keyboard_arrow_up_white.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_keyboard_arrow_up_white.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\build\\generated\\easylauncher\\res\\fdroidDebug\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-anydpi-v21_ic_zip_box_grey.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-anydpi-v21\\ic_zip_box_grey.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\xml-v25_shortcuts.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\debug\\res\\xml-v25\\shortcuts.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_folder_lock_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_lock_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout-v16_list_header.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-v16\\list_header.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_folder_lock_open_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_lock_open_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_certificate.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_certificate.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_selectedcolors_preference.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\selectedcolors_preference.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_amaze_header.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\amaze_header.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_contact_am.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_contact_am.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_slide_out_bottom.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_settings_remote_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_settings_remote_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_image.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_image.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_key.bks.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\raw\\key.bks"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_doc_video_am.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_doc_video_am.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_content_copy_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_content_copy_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_properties_image.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_image.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_temptrack.mp3.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\raw\\temptrack.mp3"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_grid_selection_check.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_grid_selection_check.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_star_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_star_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-v21_ripple_focusable.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-v21\\ripple_focusable.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_keyboard_arrow_up_white.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_keyboard_arrow_up_white.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_folder_lock_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_folder_lock_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_rename.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\rename.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_grid_folder_new.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_grid_folder_new.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_all_inclusive_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_all_inclusive_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_item_doc_grid.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\item_doc_grid.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_bookmarkrow.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\bookmarkrow.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_grid_card_focused.9.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_grid_card_focused.9.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_generic_am.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_generic_am.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_item_extras.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\menu\\item_extras.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_folder_lock_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_folder_lock_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_settings_bluetooth_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_bluetooth_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_copy_dialog.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\copy_dialog.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_payment_black_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_payment_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_content_copy_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_content_copy_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_layout_appbar.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\layout_appbar.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_app_menu.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\menu\\app_menu.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_box_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_box_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_delete_forever_black_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_delete_forever_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\build\\generated\\easylauncher\\res\\fdroidDebug\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_rate_review_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_rate_review_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_doc_video_dark.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_doc_video_dark.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_delete_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_delete_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_drawer_l.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer_l.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\xml_advancedsearch_prefs.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\xml\\advancedsearch_prefs.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_check_out.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\anim\\check_out.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_amaze_header_2.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\amaze_header_2.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_safr_ripple_white.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\safr_ripple_white.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_circle_shape.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_drag_placeholder.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\drag_placeholder.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_all_inclusive_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_all_inclusive_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_account_circle_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_account_circle_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_notification_service_big.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\notification_service_big.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_checkmark_selected.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_checkmark_selected.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_ftp_login.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_ftp_login.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_db_viewer.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\fragment_db_viewer.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_fingerprint_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_fingerprint_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_album.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_album.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_actionmode_textviewer.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\actionmode_textviewer.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_folder_lock_open_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_folder_lock_open_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_file_lock_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_file_lock_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_contextual.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\menu\\contextual.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_folder_lock_open_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_folder_lock_open_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_cancel.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_cancel.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_signin_with_google.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_signin_with_google.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_content_copy_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_content_copy_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout-w720dp_main_toolbar.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-w720dp\\main_toolbar.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_twotone_credit_card_white_48dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\twotone_credit_card_white_48dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_folder_lock_open_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_folder_lock_open_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_fingerprint_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fingerprint_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_decrypt_fingerprint_authentication.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_decrypt_fingerprint_authentication.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout-w720dp_layout_appbar.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-w720dp\\layout_appbar.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_star_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_star_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\build\\generated\\easylauncher\\res\\fdroidDebug\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_star_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_video_library_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_video_library_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_fab_shadow_black.9.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\fab_shadow_black.9.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_main_toolbar.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\main_toolbar.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_star_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_star_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_amaze_header.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\amaze_header.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_library_music_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_library_music_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_tabfragment.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\tabfragment.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_fade_in_top.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\anim\\fade_in_top.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_snackbar_view.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\snackbar_view.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_xda_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_xda_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_grid_card_background.9.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_grid_card_background.9.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_keyboard_arrow_down_white.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_keyboard_arrow_down_white.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_doc_video_dark.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_doc_video_dark.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_keyboard_arrow_down_white.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_down_white.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_zip_box_white.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_zip_box_white.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_insert_drive_file_white_48dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_insert_drive_file_white_48dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout-v16_grid_header.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout-v16\\grid_header.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_eye_off_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_eye_off_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_delete.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_delete.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_simplerow.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\simplerow.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_doc_video_dark.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_doc_video_dark.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_arrow_back_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_edit_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_edit_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_ftp_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_ftp_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\build\\generated\\easylauncher\\res\\fdroidDebug\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_shortcut_android.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_shortcut_android.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_activity_extra.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\menu\\activity_extra.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_keyboard_arrow_down_white.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_keyboard_arrow_down_white.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_all_inclusive_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_all_inclusive_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_content_copy_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_content_copy_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_photo_library_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_photo_library_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_library_code_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_library_code_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_shape_dialog_bottomsheet_white.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\shape_dialog_bottomsheet_white.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\build\\generated\\easylauncher\\res\\fdroidDebug\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_open_file_dialog.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\fragment_open_file_dialog.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_xda_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_xda_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_google_logo.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_google_logo.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_error_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_error_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_amaze_header.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\amaze_header.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_cloud_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_cloud_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\xml_conficolor_prefs.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\xml\\conficolor_prefs.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_content_copy_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_content_copy_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_presentation.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_presentation.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_eye_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_eye_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_android_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_android_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_text.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\menu\\text.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_folder_fab.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\folder_fab.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_flag_grey_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_flag_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_content_copy_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_content_copy_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_warning_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_warning_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_arrow_left_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_google_drive_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_google_drive_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_info_outline_gray_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_info_outline_gray_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_properties_document.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_document.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_folder_lock_open_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_folder_lock_open_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_fab_shadow_dark.9.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\fab_shadow_dark.9.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_folder_lock_open_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_lock_open_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_smb_computers_row.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\smb_computers_row.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_eye_off_grey600_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_eye_off_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_properties_video.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_video.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_folder_lock_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_folder_lock_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_properties_hash.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_hash.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_file_download_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_file_download_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_folder_lock_open_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_folder_lock_open_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_library_books_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_library_books_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_encrypt_authenticate.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_encrypt_authenticate.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_google_blue_background.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\google_blue_background.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_smb_progress_row.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\smb_progress_row.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_more_vert_black_48dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_more_vert_black_48dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_drag_drop.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\dialog_drag_drop.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_doc_spreadsheet_am.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_doc_spreadsheet_am.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_all_inclusive_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_all_inclusive_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_cancel_light.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_cancel_light.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ripple_focusable.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ripple_focusable.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_folder_lock_grey600_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-mdpi\\ic_folder_lock_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_keyboard_arrow_down_white.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-hdpi\\ic_keyboard_arrow_down_white.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_properties_audio.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_audio.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_select_all_white_36dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_select_all_white_36dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_lexadrawer.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\lexadrawer.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_usb_white_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_usb_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_content_copy_white_24dp.png.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-xhdpi\\ic_content_copy_white_24dp.png"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_app_options.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\menu\\app_options.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-v21_safr_ripple_black.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable-v21\\safr_ripple_black.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\drawable\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\AmazeFileManager-3.6.3\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_properties_dialog.xml.flat",
+        "source": "C:\\AmazeFileManager-3.6.3\\app\\src\\main\\res\\layout\\properties_dialog.xml"
+    }
+]

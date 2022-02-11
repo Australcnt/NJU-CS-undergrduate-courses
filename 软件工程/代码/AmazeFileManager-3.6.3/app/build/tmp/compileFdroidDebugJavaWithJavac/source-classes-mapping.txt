@@ -1,0 +1,823 @@
+com/amaze/filemanager/asynchronous/asynctasks/ReadFileTask.java
+ com.amaze.filemanager.asynchronous.asynctasks.ReadFileTask
+ com.amaze.filemanager.asynchronous.asynctasks.ReadFileTask$1
+ com.amaze.filemanager.asynchronous.asynctasks.ReadFileTask$ReturnedValues
+com/amaze/filemanager/database/daos/SftpEntryDao_Impl.java
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$1
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$10
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$11
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$12
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$13
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$14
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$2
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$3
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$4
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$5
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$6
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$7
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$8
+ com.amaze.filemanager.database.daos.SftpEntryDao_Impl$9
+com/amaze/filemanager/utils/FingerprintHandler.java
+ com.amaze.filemanager.utils.FingerprintHandler
+com/amaze/filemanager/ui/icons/MimeTypes.java
+ com.amaze.filemanager.ui.icons.MimeTypes
+com/amaze/filemanager/database/SortHandler.java
+ com.amaze.filemanager.database.SortHandler
+ com.amaze.filemanager.database.SortHandler$1
+ com.amaze.filemanager.database.SortHandler$SortHandlerHolder
+com/amaze/filemanager/databinding/PropertiesDialogBinding.java
+ com.amaze.filemanager.databinding.PropertiesDialogBinding
+com/amaze/filemanager/asynchronous/services/ftp/FtpTileService.java
+ com.amaze.filemanager.asynchronous.services.ftp.FtpTileService
+com/amaze/filemanager/asynchronous/services/DecryptService.java
+ com.amaze.filemanager.asynchronous.services.DecryptService
+ com.amaze.filemanager.asynchronous.services.DecryptService$1
+ com.amaze.filemanager.asynchronous.services.DecryptService$BackgroundTask
+com/amaze/filemanager/ui/fragments/MainFragment.java
+ com.amaze.filemanager.ui.fragments.MainFragment
+ com.amaze.filemanager.ui.fragments.MainFragment$1
+ com.amaze.filemanager.ui.fragments.MainFragment$2
+ com.amaze.filemanager.ui.fragments.MainFragment$3
+ com.amaze.filemanager.ui.fragments.MainFragment$4
+ com.amaze.filemanager.ui.fragments.MainFragment$5
+ com.amaze.filemanager.ui.fragments.MainFragment$6
+ com.amaze.filemanager.ui.fragments.MainFragment$7
+com/amaze/filemanager/asynchronous/services/ExtractService.java
+ com.amaze.filemanager.asynchronous.services.ExtractService
+ com.amaze.filemanager.asynchronous.services.ExtractService$1
+ com.amaze.filemanager.asynchronous.services.ExtractService$DoWork
+ com.amaze.filemanager.asynchronous.services.ExtractService$DoWork$1
+com/amaze/filemanager/databinding/ItemColorpickerBinding.java
+ com.amaze.filemanager.databinding.ItemColorpickerBinding
+com/amaze/filemanager/adapters/glide/cloudicon/CloudIconModelFactory.java
+ com.amaze.filemanager.adapters.glide.cloudicon.CloudIconModelFactory
+com/amaze/filemanager/filesystem/files/GenericCopyUtil.java
+ com.amaze.filemanager.filesystem.files.GenericCopyUtil
+com/amaze/filemanager/asynchronous/services/EncryptService.java
+ com.amaze.filemanager.asynchronous.services.EncryptService
+ com.amaze.filemanager.asynchronous.services.EncryptService$1
+ com.amaze.filemanager.asynchronous.services.EncryptService$BackgroundTask
+com/amaze/filemanager/database/daos/TabDao.java
+ com.amaze.filemanager.database.daos.TabDao
+com/amaze/filemanager/asynchronous/asynctasks/CountItemsOrAndSizeTask.java
+ com.amaze.filemanager.asynchronous.asynctasks.CountItemsOrAndSizeTask
+com/amaze/filemanager/ui/dialogs/SmbSearchDialog.java
+ com.amaze.filemanager.ui.dialogs.SmbSearchDialog
+ com.amaze.filemanager.ui.dialogs.SmbSearchDialog$1
+ com.amaze.filemanager.ui.dialogs.SmbSearchDialog$ElementViewHolder
+ com.amaze.filemanager.ui.dialogs.SmbSearchDialog$ListViewAdapter
+com/amaze/filemanager/databinding/DialogColorpickerBinding.java
+ com.amaze.filemanager.databinding.DialogColorpickerBinding
+com/amaze/filemanager/databinding/PropertiesGeneralBinding.java
+ com.amaze.filemanager.databinding.PropertiesGeneralBinding
+com/amaze/filemanager/databinding/PropertiesHashBinding.java
+ com.amaze.filemanager.databinding.PropertiesHashBinding
+com/amaze/filemanager/ui/activities/MainActivity.java
+ com.amaze.filemanager.ui.activities.MainActivity
+ com.amaze.filemanager.ui.activities.MainActivity$1
+ com.amaze.filemanager.ui.activities.MainActivity$2
+ com.amaze.filemanager.ui.activities.MainActivity$3
+ com.amaze.filemanager.ui.activities.MainActivity$4
+ com.amaze.filemanager.ui.activities.MainActivity$FabActionListener
+com/amaze/filemanager/database/CloudContract.java
+ com.amaze.filemanager.database.CloudContract
+com/amaze/filemanager/database/daos/EncryptedEntryDao.java
+ com.amaze.filemanager.database.daos.EncryptedEntryDao
+com/amaze/filemanager/filesystem/compressed/CompressedHelper.java
+ com.amaze.filemanager.filesystem.compressed.CompressedHelper
+com/amaze/filemanager/ui/fragments/ProcessViewerFragment.java
+ com.amaze.filemanager.ui.fragments.ProcessViewerFragment
+ com.amaze.filemanager.ui.fragments.ProcessViewerFragment$CustomServiceConnection
+ com.amaze.filemanager.ui.fragments.ProcessViewerFragment$CustomServiceConnection$1
+com/amaze/filemanager/BuildConfig.java
+ com.amaze.filemanager.BuildConfig
+com/amaze/filemanager/utils/MainActivityHelper.java
+ com.amaze.filemanager.utils.MainActivityHelper
+ com.amaze.filemanager.utils.MainActivityHelper$1
+ com.amaze.filemanager.utils.MainActivityHelper$2
+ com.amaze.filemanager.utils.MainActivityHelper$3
+ com.amaze.filemanager.utils.MainActivityHelper$4
+ com.amaze.filemanager.utils.MainActivityHelper$5
+com/amaze/filemanager/database/TabHandler.java
+ com.amaze.filemanager.database.TabHandler
+ com.amaze.filemanager.database.TabHandler$1
+ com.amaze.filemanager.database.TabHandler$TabHandlerHolder
+com/amaze/filemanager/ui/fragments/AppsListFragment.java
+ com.amaze.filemanager.ui.fragments.AppsListFragment
+com/amaze/filemanager/ui/views/CustomZoomFocusChange.java
+ com.amaze.filemanager.ui.views.CustomZoomFocusChange
+com/amaze/filemanager/databinding/ProcessparentBinding.java
+ com.amaze.filemanager.databinding.ProcessparentBinding
+com/amaze/filemanager/databinding/FragmentFtpBinding.java
+ com.amaze.filemanager.databinding.FragmentFtpBinding
+com/amaze/filemanager/database/models/explorer/EncryptedEntry.java
+ com.amaze.filemanager.database.models.explorer.EncryptedEntry
+com/amaze/filemanager/databinding/CopyDialogBinding.java
+ com.amaze.filemanager.databinding.CopyDialogBinding
+com/amaze/filemanager/utils/MapEntry.java
+ com.amaze.filemanager.utils.MapEntry
+com/amaze/filemanager/databinding/AdapterDonationBinding.java
+ com.amaze.filemanager.databinding.AdapterDonationBinding
+com/amaze/filemanager/asynchronous/asynctasks/DbViewerTask.java
+ com.amaze.filemanager.asynchronous.asynctasks.DbViewerTask
+com/amaze/filemanager/TagsHelper.java
+ com.amaze.filemanager.TagsHelper
+com/amaze/filemanager/database/daos/EncryptedEntryDao_Impl.java
+ com.amaze.filemanager.database.daos.EncryptedEntryDao_Impl
+ com.amaze.filemanager.database.daos.EncryptedEntryDao_Impl$1
+ com.amaze.filemanager.database.daos.EncryptedEntryDao_Impl$2
+ com.amaze.filemanager.database.daos.EncryptedEntryDao_Impl$3
+ com.amaze.filemanager.database.daos.EncryptedEntryDao_Impl$4
+ com.amaze.filemanager.database.daos.EncryptedEntryDao_Impl$5
+ com.amaze.filemanager.database.daos.EncryptedEntryDao_Impl$6
+ com.amaze.filemanager.database.daos.EncryptedEntryDao_Impl$7
+ com.amaze.filemanager.database.daos.EncryptedEntryDao_Impl$8
+com/amaze/filemanager/ui/views/drawer/CustomNavigationView.java
+ com.amaze.filemanager.ui.views.drawer.CustomNavigationView
+ com.amaze.filemanager.ui.views.drawer.CustomNavigationView$1
+ com.amaze.filemanager.ui.views.drawer.CustomNavigationView$SavedState
+ com.amaze.filemanager.ui.views.drawer.CustomNavigationView$SavedState$1
+com/amaze/filemanager/filesystem/ssh/Statvfs.java
+ com.amaze.filemanager.filesystem.ssh.Statvfs
+ com.amaze.filemanager.filesystem.ssh.Statvfs$Response
+com/amaze/filemanager/database/daos/SmbEntryDao_Impl.java
+ com.amaze.filemanager.database.daos.SmbEntryDao_Impl
+ com.amaze.filemanager.database.daos.SmbEntryDao_Impl$1
+ com.amaze.filemanager.database.daos.SmbEntryDao_Impl$10
+ com.amaze.filemanager.database.daos.SmbEntryDao_Impl$2
+ com.amaze.filemanager.database.daos.SmbEntryDao_Impl$3
+ com.amaze.filemanager.database.daos.SmbEntryDao_Impl$4
+ com.amaze.filemanager.database.daos.SmbEntryDao_Impl$5
+ com.amaze.filemanager.database.daos.SmbEntryDao_Impl$6
+ com.amaze.filemanager.database.daos.SmbEntryDao_Impl$7
+ com.amaze.filemanager.database.daos.SmbEntryDao_Impl$8
+ com.amaze.filemanager.database.daos.SmbEntryDao_Impl$9
+com/amaze/filemanager/databinding/SmbDialogBinding.java
+ com.amaze.filemanager.databinding.SmbDialogBinding
+com/amaze/filemanager/utils/GlideConstants.java
+ com.amaze.filemanager.utils.GlideConstants
+com/amaze/filemanager/database/daos/ListEntryDao.java
+ com.amaze.filemanager.database.daos.ListEntryDao
+com/amaze/filemanager/databinding/TabfragmentBinding.java
+ com.amaze.filemanager.databinding.TabfragmentBinding
+com/amaze/filemanager/databinding/DialogSigninWithGoogleBinding.java
+ com.amaze.filemanager.databinding.DialogSigninWithGoogleBinding
+com/bumptech/glide/GeneratedRequestManagerFactory.java
+ com.bumptech.glide.GeneratedRequestManagerFactory
+com/amaze/filemanager/databinding/NamepathswitchPreferenceBinding.java
+ com.amaze.filemanager.databinding.NamepathswitchPreferenceBinding
+com/amaze/filemanager/ui/views/ThemedImageView.java
+ com.amaze.filemanager.ui.views.ThemedImageView
+com/amaze/filemanager/databinding/SmbProgressRowBinding.java
+ com.amaze.filemanager.databinding.SmbProgressRowBinding
+com/amaze/filemanager/databinding/DialogDeleteBinding.java
+ com.amaze.filemanager.databinding.DialogDeleteBinding
+com/amaze/filemanager/database/daos/GridEntryDao.java
+ com.amaze.filemanager.database.daos.GridEntryDao
+com/amaze/filemanager/database/typeconverters/OpenModeTypeConverter.java
+ com.amaze.filemanager.database.typeconverters.OpenModeTypeConverter
+com/amaze/filemanager/database/ExplorerDatabase.java
+ com.amaze.filemanager.database.ExplorerDatabase
+ com.amaze.filemanager.database.ExplorerDatabase$1
+ com.amaze.filemanager.database.ExplorerDatabase$2
+ com.amaze.filemanager.database.ExplorerDatabase$3
+ com.amaze.filemanager.database.ExplorerDatabase$4
+ com.amaze.filemanager.database.ExplorerDatabase$5
+ com.amaze.filemanager.database.ExplorerDatabase$6
+ com.amaze.filemanager.database.ExplorerDatabase$7
+com/amaze/filemanager/asynchronous/services/CopyService.java
+ com.amaze.filemanager.asynchronous.services.CopyService
+ com.amaze.filemanager.asynchronous.services.CopyService$1
+ com.amaze.filemanager.asynchronous.services.CopyService$DoInBackground
+ com.amaze.filemanager.asynchronous.services.CopyService$DoInBackground$Copy
+com/amaze/filemanager/GlideRequests.java
+ com.amaze.filemanager.GlideRequests
+com/amaze/filemanager/database/daos/BookmarkEntryDao.java
+ com.amaze.filemanager.database.daos.BookmarkEntryDao
+com/amaze/filemanager/databinding/RenameBinding.java
+ com.amaze.filemanager.databinding.RenameBinding
+com/amaze/filemanager/databinding/FragmentDbViewerBinding.java
+ com.amaze.filemanager.databinding.FragmentDbViewerBinding
+com/amaze/filemanager/database/CryptHandler.java
+ com.amaze.filemanager.database.CryptHandler
+ com.amaze.filemanager.database.CryptHandler$1
+ com.amaze.filemanager.database.CryptHandler$CryptHandlerHolder
+com/amaze/filemanager/ui/theme/AppTheme.java
+ com.amaze.filemanager.ui.theme.AppTheme
+com/amaze/filemanager/databinding/SftpDialogBinding.java
+ com.amaze.filemanager.databinding.SftpDialogBinding
+com/amaze/filemanager/databinding/DialogDragDropBinding.java
+ com.amaze.filemanager.databinding.DialogDragDropBinding
+com/amaze/filemanager/databinding/FastscrollerBinding.java
+ com.amaze.filemanager.databinding.FastscrollerBinding
+com/amaze/filemanager/databinding/LexadrawerBinding.java
+ com.amaze.filemanager.databinding.LexadrawerBinding
+com/amaze/filemanager/databinding/FragmentAppListBinding.java
+ com.amaze.filemanager.databinding.FragmentAppListBinding
+com/amaze/filemanager/ui/dialogs/RenameBookmark.java
+ com.amaze.filemanager.ui.dialogs.RenameBookmark
+ com.amaze.filemanager.ui.dialogs.RenameBookmark$1
+ com.amaze.filemanager.ui.dialogs.RenameBookmark$BookmarkCallback
+com/amaze/filemanager/ui/fragments/TabFragment.java
+ com.amaze.filemanager.ui.fragments.TabFragment
+ com.amaze.filemanager.ui.fragments.TabFragment$ScreenSlidePagerAdapter
+com/amaze/filemanager/ui/fragments/SearchWorkerFragment.java
+ com.amaze.filemanager.ui.fragments.SearchWorkerFragment
+ com.amaze.filemanager.ui.fragments.SearchWorkerFragment$HelperCallbacks
+com/amaze/filemanager/ui/dialogs/share/ShareTask.java
+ com.amaze.filemanager.ui.dialogs.share.ShareTask
+com/amaze/filemanager/database/models/utilities/Bookmark.java
+ com.amaze.filemanager.database.models.utilities.Bookmark
+com/amaze/filemanager/filesystem/files/CryptUtil.java
+ com.amaze.filemanager.filesystem.files.CryptUtil
+ com.amaze.filemanager.filesystem.files.CryptUtil$RSAKeygen
+com/amaze/filemanager/ui/icons/Icons.java
+ com.amaze.filemanager.ui.icons.Icons
+com/amaze/filemanager/ui/colors/ColorUtils.java
+ com.amaze.filemanager.ui.colors.ColorUtils
+com/amaze/filemanager/databinding/LayoutDraweractionviewBinding.java
+ com.amaze.filemanager.databinding.LayoutDraweractionviewBinding
+com/amaze/filemanager/databinding/ActivityDbViewerBinding.java
+ com.amaze.filemanager.databinding.ActivityDbViewerBinding
+com/amaze/filemanager/databinding/FragmentSheetCloudBinding.java
+ com.amaze.filemanager.databinding.FragmentSheetCloudBinding
+com/amaze/filemanager/database/UtilsHandler.java
+ com.amaze.filemanager.database.UtilsHandler
+ com.amaze.filemanager.database.UtilsHandler$1
+ com.amaze.filemanager.database.UtilsHandler$Operation
+com/amaze/filemanager/database/models/utilities/Grid.java
+ com.amaze.filemanager.database.models.utilities.Grid
+com/amaze/filemanager/utils/SmbUtil.java
+ com.amaze.filemanager.utils.SmbUtil
+com/amaze/filemanager/filesystem/HybridFile.java
+ com.amaze.filemanager.filesystem.HybridFile
+ com.amaze.filemanager.filesystem.HybridFile$1
+ com.amaze.filemanager.filesystem.HybridFile$10
+ com.amaze.filemanager.filesystem.HybridFile$10$1
+ com.amaze.filemanager.filesystem.HybridFile$11
+ com.amaze.filemanager.filesystem.HybridFile$12
+ com.amaze.filemanager.filesystem.HybridFile$13
+ com.amaze.filemanager.filesystem.HybridFile$14
+ com.amaze.filemanager.filesystem.HybridFile$2
+ com.amaze.filemanager.filesystem.HybridFile$3
+ com.amaze.filemanager.filesystem.HybridFile$4
+ com.amaze.filemanager.filesystem.HybridFile$5
+ com.amaze.filemanager.filesystem.HybridFile$6
+ com.amaze.filemanager.filesystem.HybridFile$7
+ com.amaze.filemanager.filesystem.HybridFile$8
+ com.amaze.filemanager.filesystem.HybridFile$8$1
+ com.amaze.filemanager.filesystem.HybridFile$9
+ com.amaze.filemanager.filesystem.HybridFile$9$1
+com/amaze/filemanager/asynchronous/SaveOnDataUtilsChange.java
+ com.amaze.filemanager.asynchronous.SaveOnDataUtilsChange
+com/amaze/filemanager/database/ExplorerDatabase_Impl.java
+ com.amaze.filemanager.database.ExplorerDatabase_Impl
+ com.amaze.filemanager.database.ExplorerDatabase_Impl$1
+com/amaze/filemanager/application/AppConfig.java
+ com.amaze.filemanager.application.AppConfig
+com/amaze/filemanager/database/UtilitiesDatabase.java
+ com.amaze.filemanager.database.UtilitiesDatabase
+ com.amaze.filemanager.database.UtilitiesDatabase$1
+ com.amaze.filemanager.database.UtilitiesDatabase$2
+ com.amaze.filemanager.database.UtilitiesDatabase$3
+ com.amaze.filemanager.database.UtilitiesDatabase$4
+com/amaze/filemanager/database/daos/GridEntryDao_Impl.java
+ com.amaze.filemanager.database.daos.GridEntryDao_Impl
+ com.amaze.filemanager.database.daos.GridEntryDao_Impl$1
+ com.amaze.filemanager.database.daos.GridEntryDao_Impl$2
+ com.amaze.filemanager.database.daos.GridEntryDao_Impl$3
+ com.amaze.filemanager.database.daos.GridEntryDao_Impl$4
+ com.amaze.filemanager.database.daos.GridEntryDao_Impl$5
+ com.amaze.filemanager.database.daos.GridEntryDao_Impl$6
+ com.amaze.filemanager.database.daos.GridEntryDao_Impl$7
+com/amaze/filemanager/adapters/HiddenAdapter.java
+ com.amaze.filemanager.adapters.HiddenAdapter
+com/amaze/filemanager/ui/colors/ColorPreferenceHelper.java
+ com.amaze.filemanager.ui.colors.ColorPreferenceHelper
+com/amaze/filemanager/database/daos/SmbEntryDao.java
+ com.amaze.filemanager.database.daos.SmbEntryDao
+com/amaze/filemanager/ui/views/ThemedTextView.java
+ com.amaze.filemanager.ui.views.ThemedTextView
+com/amaze/filemanager/databinding/DialogFtpLoginBinding.java
+ com.amaze.filemanager.databinding.DialogFtpLoginBinding
+com/amaze/filemanager/ui/views/WarnableTextInputLayout.java
+ com.amaze.filemanager.ui.views.WarnableTextInputLayout
+com/amaze/filemanager/adapters/data/StorageDirectoryParcelable.java
+ com.amaze.filemanager.adapters.data.StorageDirectoryParcelable
+ com.amaze.filemanager.adapters.data.StorageDirectoryParcelable$1
+com/amaze/filemanager/ui/fragments/CloudSheetFragment.java
+ com.amaze.filemanager.ui.fragments.CloudSheetFragment
+ com.amaze.filemanager.ui.fragments.CloudSheetFragment$CloudConnectionCallbacks
+com/amaze/filemanager/AmazeFileManagerModule.java
+ com.amaze.filemanager.AmazeFileManagerModule
+com/amaze/filemanager/utils/EditTextColorStateUtil.java
+ com.amaze.filemanager.utils.EditTextColorStateUtil
+com/amaze/filemanager/adapters/glide/apkimage/ApkImageModelLoaderFactory.java
+ com.amaze.filemanager.adapters.glide.apkimage.ApkImageModelLoaderFactory
+com/amaze/filemanager/adapters/glide/RecyclerPreloadModelProvider.java
+ com.amaze.filemanager.adapters.glide.RecyclerPreloadModelProvider
+com/amaze/filemanager/databinding/ActivityAboutBinding.java
+ com.amaze.filemanager.databinding.ActivityAboutBinding
+com/amaze/filemanager/filesystem/cloud/CloudUtil.java
+ com.amaze.filemanager.filesystem.cloud.CloudUtil
+ com.amaze.filemanager.filesystem.cloud.CloudUtil$1
+ com.amaze.filemanager.filesystem.cloud.CloudUtil$2
+ com.amaze.filemanager.filesystem.cloud.CloudUtil$2$1
+ com.amaze.filemanager.filesystem.cloud.CloudUtil$3
+com/amaze/filemanager/databinding/GriditemBinding.java
+ com.amaze.filemanager.databinding.GriditemBinding
+com/amaze/filemanager/ui/views/DisablableViewPager.java
+ com.amaze.filemanager.ui.views.DisablableViewPager
+com/amaze/filemanager/database/models/OperationData.java
+ com.amaze.filemanager.database.models.OperationData
+com/amaze/filemanager/ui/views/DividerItemDecoration.java
+ com.amaze.filemanager.ui.views.DividerItemDecoration
+com/amaze/filemanager/ui/ColorCircleDrawable.java
+ com.amaze.filemanager.ui.ColorCircleDrawable
+com/amaze/filemanager/ui/dialogs/share/ShareAdapter.java
+ com.amaze.filemanager.ui.dialogs.share.ShareAdapter
+ com.amaze.filemanager.ui.dialogs.share.ShareAdapter$ViewHolder
+com/amaze/filemanager/databinding/PropertiesPermissionsBinding.java
+ com.amaze.filemanager.databinding.PropertiesPermissionsBinding
+com/amaze/filemanager/adapters/data/IconDataParcelable.java
+ com.amaze.filemanager.adapters.data.IconDataParcelable
+ com.amaze.filemanager.adapters.data.IconDataParcelable$1
+com/amaze/filemanager/ui/views/drawer/MenuMetadata.java
+ com.amaze.filemanager.ui.views.drawer.MenuMetadata
+ com.amaze.filemanager.ui.views.drawer.MenuMetadata$OnClickListener
+com/amaze/filemanager/filesystem/MediaStoreHack.java
+ com.amaze.filemanager.filesystem.MediaStoreHack
+com/amaze/filemanager/asynchronous/AbstractRepeatingRunnable.java
+ com.amaze.filemanager.asynchronous.AbstractRepeatingRunnable
+com/amaze/filemanager/database/daos/HistoryEntryDao_Impl.java
+ com.amaze.filemanager.database.daos.HistoryEntryDao_Impl
+ com.amaze.filemanager.database.daos.HistoryEntryDao_Impl$1
+ com.amaze.filemanager.database.daos.HistoryEntryDao_Impl$2
+ com.amaze.filemanager.database.daos.HistoryEntryDao_Impl$3
+ com.amaze.filemanager.database.daos.HistoryEntryDao_Impl$4
+ com.amaze.filemanager.database.daos.HistoryEntryDao_Impl$5
+ com.amaze.filemanager.database.daos.HistoryEntryDao_Impl$6
+ com.amaze.filemanager.database.daos.HistoryEntryDao_Impl$7
+ com.amaze.filemanager.database.daos.HistoryEntryDao_Impl$8
+ com.amaze.filemanager.database.daos.HistoryEntryDao_Impl$9
+com/amaze/filemanager/databinding/MainFragBinding.java
+ com.amaze.filemanager.databinding.MainFragBinding
+com/amaze/filemanager/asynchronous/asynctasks/DeleteTask.java
+ com.amaze.filemanager.asynchronous.asynctasks.DeleteTask
+ com.amaze.filemanager.asynchronous.asynctasks.DeleteTask$1
+com/amaze/filemanager/asynchronous/asynctasks/GenerateHashesTask.java
+ com.amaze.filemanager.asynchronous.asynctasks.GenerateHashesTask
+ com.amaze.filemanager.asynchronous.asynctasks.GenerateHashesTask$1
+ com.amaze.filemanager.asynchronous.asynctasks.GenerateHashesTask$2
+com/amaze/filemanager/ui/activities/PreferencesActivity.java
+ com.amaze.filemanager.ui.activities.PreferencesActivity
+com/amaze/filemanager/database/typeconverters/EncryptedStringTypeConverter.java
+ com.amaze.filemanager.database.typeconverters.EncryptedStringTypeConverter
+com/amaze/filemanager/adapters/glide/cloudicon/CloudIconModelLoader.java
+ com.amaze.filemanager.adapters.glide.cloudicon.CloudIconModelLoader
+com/amaze/filemanager/database/daos/ListEntryDao_Impl.java
+ com.amaze.filemanager.database.daos.ListEntryDao_Impl
+ com.amaze.filemanager.database.daos.ListEntryDao_Impl$1
+ com.amaze.filemanager.database.daos.ListEntryDao_Impl$2
+ com.amaze.filemanager.database.daos.ListEntryDao_Impl$3
+ com.amaze.filemanager.database.daos.ListEntryDao_Impl$4
+ com.amaze.filemanager.database.daos.ListEntryDao_Impl$5
+ com.amaze.filemanager.database.daos.ListEntryDao_Impl$6
+ com.amaze.filemanager.database.daos.ListEntryDao_Impl$7
+com/amaze/filemanager/databinding/DialogDecryptFingerprintAuthenticationBinding.java
+ com.amaze.filemanager.databinding.DialogDecryptFingerprintAuthenticationBinding
+com/amaze/filemanager/asynchronous/asynctasks/SearchAsyncTask.java
+ com.amaze.filemanager.asynchronous.asynctasks.SearchAsyncTask
+ com.amaze.filemanager.asynchronous.asynctasks.SearchAsyncTask$SearchFilter
+com/amaze/filemanager/databinding/BookmarkrowBinding.java
+ com.amaze.filemanager.databinding.BookmarkrowBinding
+com/amaze/filemanager/filesystem/compressed/extractcontents/Extractor.java
+ com.amaze.filemanager.filesystem.compressed.extractcontents.Extractor
+ com.amaze.filemanager.filesystem.compressed.extractcontents.Extractor$EmptyArchiveNotice
+ com.amaze.filemanager.filesystem.compressed.extractcontents.Extractor$Filter
+ com.amaze.filemanager.filesystem.compressed.extractcontents.Extractor$OnUpdate
+com/amaze/filemanager/ui/views/appbar/AppBar.java
+ com.amaze.filemanager.ui.views.appbar.AppBar
+com/amaze/filemanager/database/models/utilities/SftpEntry.java
+ com.amaze.filemanager.database.models.utilities.SftpEntry
+com/amaze/filemanager/database/models/utilities/OperationData.java
+ com.amaze.filemanager.database.models.utilities.OperationData
+com/amaze/filemanager/ui/views/CircleGradientDrawable.java
+ com.amaze.filemanager.ui.views.CircleGradientDrawable
+com/amaze/filemanager/filesystem/ssh/SshClientUtils.java
+ com.amaze.filemanager.filesystem.ssh.SshClientUtils
+ com.amaze.filemanager.filesystem.ssh.SshClientUtils$1
+ com.amaze.filemanager.filesystem.ssh.SshClientUtils$2
+ com.amaze.filemanager.filesystem.ssh.SshClientUtils$3
+com/amaze/filemanager/databinding/OpenSourceLicensesBinding.java
+ com.amaze.filemanager.databinding.OpenSourceLicensesBinding
+com/amaze/filemanager/database/models/utilities/History.java
+ com.amaze.filemanager.database.models.utilities.History
+com/amaze/filemanager/ui/activities/superclasses/ThemedActivity.java
+ com.amaze.filemanager.ui.activities.superclasses.ThemedActivity
+com/amaze/filemanager/databinding/DialogEncryptAuthenticateBinding.java
+ com.amaze.filemanager.databinding.DialogEncryptAuthenticateBinding
+com/amaze/filemanager/databinding/PropertiesAudioBinding.java
+ com.amaze.filemanager.databinding.PropertiesAudioBinding
+com/amaze/filemanager/ui/views/drawer/ActionViewStateManager.java
+ com.amaze.filemanager.ui.views.drawer.ActionViewStateManager
+com/amaze/filemanager/databinding/DialogGridItemBinding.java
+ com.amaze.filemanager.databinding.DialogGridItemBinding
+com/amaze/filemanager/ui/views/FastScroller.java
+ com.amaze.filemanager.ui.views.FastScroller
+ com.amaze.filemanager.ui.views.FastScroller$1
+ com.amaze.filemanager.ui.views.FastScroller$ScrollListener
+ com.amaze.filemanager.ui.views.FastScroller$onTouchListener
+com/amaze/filemanager/database/models/explorer/Sort.java
+ com.amaze.filemanager.database.models.explorer.Sort
+com/amaze/filemanager/filesystem/Operations.java
+ com.amaze.filemanager.filesystem.Operations
+ com.amaze.filemanager.filesystem.Operations$1
+ com.amaze.filemanager.filesystem.Operations$2
+ com.amaze.filemanager.filesystem.Operations$3
+ com.amaze.filemanager.filesystem.Operations$3$1
+ com.amaze.filemanager.filesystem.Operations$4
+ com.amaze.filemanager.filesystem.Operations$ErrorCallBack
+com/amaze/filemanager/LogHelper.java
+ com.amaze.filemanager.LogHelper
+com/amaze/filemanager/ui/fragments/preference_fragments/PrefFrag.java
+ com.amaze.filemanager.ui.fragments.preference_fragments.PrefFrag
+com/amaze/filemanager/database/models/explorer/Tab.java
+ com.amaze.filemanager.database.models.explorer.Tab
+com/amaze/filemanager/ui/fragments/preference_fragments/PreferencesConstants.java
+ com.amaze.filemanager.ui.fragments.preference_fragments.PreferencesConstants
+com/amaze/filemanager/databinding/FragmentOpenFileDialogBinding.java
+ com.amaze.filemanager.databinding.FragmentOpenFileDialogBinding
+com/amaze/filemanager/ui/colors/ColorPreference.java
+ com.amaze.filemanager.ui.colors.ColorPreference
+com/amaze/filemanager/adapters/glide/apkimage/ApkImageDataFetcher.java
+ com.amaze.filemanager.adapters.glide.apkimage.ApkImageDataFetcher
+com/amaze/filemanager/asynchronous/loaders/AppListLoader.java
+ com.amaze.filemanager.asynchronous.loaders.AppListLoader
+ com.amaze.filemanager.asynchronous.loaders.AppListLoader$AppsDataPair
+com/amaze/filemanager/database/daos/BookmarkEntryDao_Impl.java
+ com.amaze.filemanager.database.daos.BookmarkEntryDao_Impl
+ com.amaze.filemanager.database.daos.BookmarkEntryDao_Impl$1
+ com.amaze.filemanager.database.daos.BookmarkEntryDao_Impl$2
+ com.amaze.filemanager.database.daos.BookmarkEntryDao_Impl$3
+ com.amaze.filemanager.database.daos.BookmarkEntryDao_Impl$4
+ com.amaze.filemanager.database.daos.BookmarkEntryDao_Impl$5
+ com.amaze.filemanager.database.daos.BookmarkEntryDao_Impl$6
+ com.amaze.filemanager.database.daos.BookmarkEntryDao_Impl$7
+ com.amaze.filemanager.database.daos.BookmarkEntryDao_Impl$8
+com/amaze/filemanager/database/daos/SortDao.java
+ com.amaze.filemanager.database.daos.SortDao
+com/amaze/filemanager/database/daos/HiddenEntryDao.java
+ com.amaze.filemanager.database.daos.HiddenEntryDao
+com/amaze/filemanager/ui/views/CustomLinearSmoothScroller.java
+ com.amaze.filemanager.ui.views.CustomLinearSmoothScroller
+com/amaze/filemanager/GlideRequest.java
+ com.amaze.filemanager.GlideRequest
+com/amaze/filemanager/databinding/SmbComputersRowBinding.java
+ com.amaze.filemanager.databinding.SmbComputersRowBinding
+com/amaze/filemanager/ui/activities/superclasses/PreferenceActivity.java
+ com.amaze.filemanager.ui.activities.superclasses.PreferenceActivity
+com/amaze/filemanager/asynchronous/services/AbstractProgressiveService.java
+ com.amaze.filemanager.asynchronous.services.AbstractProgressiveService
+ com.amaze.filemanager.asynchronous.services.AbstractProgressiveService$ProgressListener
+com/amaze/filemanager/asynchronous/asynctasks/CloudLoaderAsyncTask.java
+ com.amaze.filemanager.asynchronous.asynctasks.CloudLoaderAsyncTask
+com/amaze/filemanager/databinding/PropertiesDocumentBinding.java
+ com.amaze.filemanager.databinding.PropertiesDocumentBinding
+com/amaze/filemanager/databinding/DialogSingleedittextBinding.java
+ com.amaze.filemanager.databinding.DialogSingleedittextBinding
+com/amaze/filemanager/ui/notifications/FtpNotification.java
+ com.amaze.filemanager.ui.notifications.FtpNotification
+com/amaze/filemanager/databinding/DialogGridBinding.java
+ com.amaze.filemanager.databinding.DialogGridBinding
+com/amaze/filemanager/databinding/NotificationServiceSmallBinding.java
+ com.amaze.filemanager.databinding.NotificationServiceSmallBinding
+com/amaze/filemanager/adapters/glide/RecyclerPreloadSizeProvider.java
+ com.amaze.filemanager.adapters.glide.RecyclerPreloadSizeProvider
+ com.amaze.filemanager.adapters.glide.RecyclerPreloadSizeProvider$RecyclerPreloadSizeProviderCallback
+ com.amaze.filemanager.adapters.glide.RecyclerPreloadSizeProvider$SizeViewTarget
+com/amaze/filemanager/databinding/PropertiesImageBinding.java
+ com.amaze.filemanager.databinding.PropertiesImageBinding
+com/amaze/filemanager/filesystem/EditableFileAbstraction.java
+ com.amaze.filemanager.filesystem.EditableFileAbstraction
+ com.amaze.filemanager.filesystem.EditableFileAbstraction$Scheme
+com/amaze/filemanager/filesystem/files/FileListSorter.java
+ com.amaze.filemanager.filesystem.files.FileListSorter
+com/amaze/filemanager/ui/activities/AboutActivity.java
+ com.amaze.filemanager.ui.activities.AboutActivity
+ com.amaze.filemanager.ui.activities.AboutActivity$1
+com/amaze/filemanager/ui/views/ScrimInsetsRelativeLayout.java
+ com.amaze.filemanager.ui.views.ScrimInsetsRelativeLayout
+ com.amaze.filemanager.ui.views.ScrimInsetsRelativeLayout$OnInsetsCallback
+com/amaze/filemanager/ui/provider/UtilitiesProvider.java
+ com.amaze.filemanager.ui.provider.UtilitiesProvider
+com/amaze/filemanager/ui/strings/StorageNamingHelper.java
+ com.amaze.filemanager.ui.strings.StorageNamingHelper
+com/amaze/filemanager/database/models/utilities/OperationDataWithName.java
+ com.amaze.filemanager.database.models.utilities.OperationDataWithName
+com/amaze/filemanager/databinding/SearchBinding.java
+ com.amaze.filemanager.databinding.SearchBinding
+com/amaze/filemanager/GlideOptions.java
+ com.amaze.filemanager.GlideOptions
+com/amaze/filemanager/databinding/ActionmodeTextviewerBinding.java
+ com.amaze.filemanager.databinding.ActionmodeTextviewerBinding
+com/amaze/filemanager/ui/activities/DatabaseViewerActivity.java
+ com.amaze.filemanager.ui.activities.DatabaseViewerActivity
+com/amaze/filemanager/databinding/DragPlaceholderBinding.java
+ com.amaze.filemanager.databinding.DragPlaceholderBinding
+com/amaze/filemanager/ui/views/CircularColorsView.java
+ com.amaze.filemanager.ui.views.CircularColorsView
+com/amaze/filemanager/utils/InterestingConfigChange.java
+ com.amaze.filemanager.utils.InterestingConfigChange
+com/amaze/filemanager/asynchronous/asynctasks/PrepareCopyTask.java
+ com.amaze.filemanager.asynchronous.asynctasks.PrepareCopyTask
+ com.amaze.filemanager.asynchronous.asynctasks.PrepareCopyTask$CopyNode
+ com.amaze.filemanager.asynchronous.asynctasks.PrepareCopyTask$DialogState
+com/amaze/filemanager/databinding/NotificationServiceBigBinding.java
+ com.amaze.filemanager.databinding.NotificationServiceBigBinding
+com/amaze/filemanager/ui/fragments/DbViewerFragment.java
+ com.amaze.filemanager.ui.fragments.DbViewerFragment
+com/amaze/filemanager/databinding/DialogTwoedittextsBinding.java
+ com.amaze.filemanager.databinding.DialogTwoedittextsBinding
+com/amaze/filemanager/asynchronous/asynctasks/LoadFilesListTask.java
+ com.amaze.filemanager.asynchronous.asynctasks.LoadFilesListTask
+ com.amaze.filemanager.asynchronous.asynctasks.LoadFilesListTask$1
+com/amaze/filemanager/GlideApp.java
+ com.amaze.filemanager.GlideApp
+com/amaze/filemanager/ui/views/appbar/SearchView.java
+ com.amaze.filemanager.ui.views.appbar.SearchView
+ com.amaze.filemanager.ui.views.appbar.SearchView$1
+ com.amaze.filemanager.ui.views.appbar.SearchView$2
+ com.amaze.filemanager.ui.views.appbar.SearchView$SearchListener
+com/amaze/filemanager/asynchronous/asynctasks/LoadFolderSpaceDataTask.java
+ com.amaze.filemanager.asynchronous.asynctasks.LoadFolderSpaceDataTask
+com/amaze/filemanager/database/daos/HistoryEntryDao.java
+ com.amaze.filemanager.database.daos.HistoryEntryDao
+com/amaze/filemanager/ui/dialogs/GeneralDialogCreation.java
+ com.amaze.filemanager.ui.dialogs.GeneralDialogCreation
+ com.amaze.filemanager.ui.dialogs.GeneralDialogCreation$1
+ com.amaze.filemanager.ui.dialogs.GeneralDialogCreation$2
+ com.amaze.filemanager.ui.dialogs.GeneralDialogCreation$3
+ com.amaze.filemanager.ui.dialogs.GeneralDialogCreation$SizeFormatter
+com/amaze/filemanager/utils/ObtainableServiceBinder.java
+ com.amaze.filemanager.utils.ObtainableServiceBinder
+com/amaze/filemanager/filesystem/FileUtil.java
+ com.amaze.filemanager.filesystem.FileUtil
+ com.amaze.filemanager.filesystem.FileUtil$1
+ com.amaze.filemanager.filesystem.FileUtil$2
+com/amaze/filemanager/ui/dialogs/ColorPickerDialog.java
+ com.amaze.filemanager.ui.dialogs.ColorPickerDialog
+ com.amaze.filemanager.ui.dialogs.ColorPickerDialog$ColorItemPair
+ com.amaze.filemanager.ui.dialogs.ColorPickerDialog$OnAcceptedConfig
+ com.amaze.filemanager.ui.dialogs.ColorPickerDialog$SavedState
+ com.amaze.filemanager.ui.dialogs.ColorPickerDialog$SavedState$1
+com/amaze/filemanager/databinding/PrefsfragBinding.java
+ com.amaze.filemanager.databinding.PrefsfragBinding
+com/amaze/filemanager/database/CloudHandler.java
+ com.amaze.filemanager.database.CloudHandler
+com/amaze/filemanager/database/daos/SortDao_Impl.java
+ com.amaze.filemanager.database.daos.SortDao_Impl
+ com.amaze.filemanager.database.daos.SortDao_Impl$1
+ com.amaze.filemanager.database.daos.SortDao_Impl$2
+ com.amaze.filemanager.database.daos.SortDao_Impl$3
+ com.amaze.filemanager.database.daos.SortDao_Impl$4
+ com.amaze.filemanager.database.daos.SortDao_Impl$5
+ com.amaze.filemanager.database.daos.SortDao_Impl$6
+ com.amaze.filemanager.database.daos.SortDao_Impl$7
+com/amaze/filemanager/ui/notifications/NotificationConstants.java
+ com.amaze.filemanager.ui.notifications.NotificationConstants
+com/amaze/filemanager/ui/views/CheckableCircleView.java
+ com.amaze.filemanager.ui.views.CheckableCircleView
+com/amaze/filemanager/ui/views/WarnableTextInputValidator.java
+ com.amaze.filemanager.ui.views.WarnableTextInputValidator
+ com.amaze.filemanager.ui.views.WarnableTextInputValidator$OnTextValidate
+ com.amaze.filemanager.ui.views.WarnableTextInputValidator$ReturnState
+com/amaze/filemanager/ui/activities/TextEditorActivity.java
+ com.amaze.filemanager.ui.activities.TextEditorActivity
+ com.amaze.filemanager.ui.activities.TextEditorActivity$1
+ com.amaze.filemanager.ui.activities.TextEditorActivity$2
+ com.amaze.filemanager.ui.activities.TextEditorActivity$3
+com/amaze/filemanager/utils/ImmutableEntry.java
+ com.amaze.filemanager.utils.ImmutableEntry
+com/amaze/filemanager/asynchronous/asynctasks/WriteFileAbstraction.java
+ com.amaze.filemanager.asynchronous.asynctasks.WriteFileAbstraction
+ com.amaze.filemanager.asynchronous.asynctasks.WriteFileAbstraction$1
+com/amaze/filemanager/databinding/RowlayoutBinding.java
+ com.amaze.filemanager.databinding.RowlayoutBinding
+com/amaze/filemanager/utils/Utils.java
+ com.amaze.filemanager.utils.Utils
+ com.amaze.filemanager.utils.Utils$1
+com/amaze/filemanager/ui/theme/AppThemeManager.java
+ com.amaze.filemanager.ui.theme.AppThemeManager
+com/amaze/filemanager/ui/views/drawer/Drawer.java
+ com.amaze.filemanager.ui.views.drawer.Drawer
+ com.amaze.filemanager.ui.views.drawer.Drawer$1
+ com.amaze.filemanager.ui.views.drawer.Drawer$2
+com/amaze/filemanager/filesystem/PasteHelper.java
+ com.amaze.filemanager.filesystem.PasteHelper
+ com.amaze.filemanager.filesystem.PasteHelper$1
+ com.amaze.filemanager.filesystem.PasteHelper$2
+com/amaze/filemanager/databinding/ListHeaderBinding.java
+ com.amaze.filemanager.databinding.ListHeaderBinding
+com/amaze/filemanager/ui/views/ThemedImageButton.java
+ com.amaze.filemanager.ui.views.ThemedImageButton
+com/amaze/filemanager/databinding/SnackbarViewBinding.java
+ com.amaze.filemanager.databinding.SnackbarViewBinding
+com/amaze/filemanager/database/UtilitiesDatabase_Impl.java
+ com.amaze.filemanager.database.UtilitiesDatabase_Impl
+ com.amaze.filemanager.database.UtilitiesDatabase_Impl$1
+com/amaze/filemanager/filesystem/CustomFileObserver.java
+ com.amaze.filemanager.filesystem.CustomFileObserver
+ com.amaze.filemanager.filesystem.CustomFileObserver$1
+ com.amaze.filemanager.filesystem.CustomFileObserver$FileTimerTask
+com/amaze/filemanager/ui/views/Indicator.java
+ com.amaze.filemanager.ui.views.Indicator
+ com.amaze.filemanager.ui.views.Indicator$1
+ com.amaze.filemanager.ui.views.Indicator$2
+ com.amaze.filemanager.ui.views.Indicator$3
+ com.amaze.filemanager.ui.views.Indicator$LeftwardStartPredicate
+ com.amaze.filemanager.ui.views.Indicator$PendingRetreatAnimator
+ com.amaze.filemanager.ui.views.Indicator$PendingRetreatAnimator$1
+ com.amaze.filemanager.ui.views.Indicator$PendingRevealAnimator
+ com.amaze.filemanager.ui.views.Indicator$PendingRevealAnimator$1
+ com.amaze.filemanager.ui.views.Indicator$PendingStartAnimator
+ com.amaze.filemanager.ui.views.Indicator$RightwardStartPredicate
+ com.amaze.filemanager.ui.views.Indicator$StartPredicate
+com/amaze/filemanager/ui/views/appbar/BottomBar.java
+ com.amaze.filemanager.ui.views.appbar.BottomBar
+ com.amaze.filemanager.ui.views.appbar.BottomBar$1
+ com.amaze.filemanager.ui.views.appbar.BottomBar$2
+ com.amaze.filemanager.ui.views.appbar.BottomBar$3
+ com.amaze.filemanager.ui.views.appbar.BottomBar$4
+ com.amaze.filemanager.ui.views.appbar.BottomBar$5
+ com.amaze.filemanager.ui.views.appbar.BottomBar$6
+ com.amaze.filemanager.ui.views.appbar.BottomBar$6$1
+ com.amaze.filemanager.ui.views.appbar.BottomBar$7
+com/amaze/filemanager/databinding/DrawerheaderBinding.java
+ com.amaze.filemanager.databinding.DrawerheaderBinding
+com/amaze/filemanager/databinding/LayoutAppbarBinding.java
+ com.amaze.filemanager.databinding.LayoutAppbarBinding
+com/amaze/filemanager/ui/dialogs/SmbConnectDialog.java
+ com.amaze.filemanager.ui.dialogs.SmbConnectDialog
+ com.amaze.filemanager.ui.dialogs.SmbConnectDialog$1
+ com.amaze.filemanager.ui.dialogs.SmbConnectDialog$2
+ com.amaze.filemanager.ui.dialogs.SmbConnectDialog$3
+ com.amaze.filemanager.ui.dialogs.SmbConnectDialog$4
+ com.amaze.filemanager.ui.dialogs.SmbConnectDialog$SmbConnectionListener
+com/amaze/filemanager/application/GlideApplication.java
+ com.amaze.filemanager.application.GlideApplication
+com/amaze/filemanager/adapters/glide/apkimage/ApkImageModelLoader.java
+ com.amaze.filemanager.adapters.glide.apkimage.ApkImageModelLoader
+com/amaze/filemanager/ui/ItemPopupMenu.java
+ com.amaze.filemanager.ui.ItemPopupMenu
+ com.amaze.filemanager.ui.ItemPopupMenu$1
+ com.amaze.filemanager.ui.ItemPopupMenu$2
+ com.amaze.filemanager.ui.ItemPopupMenu$3
+com/amaze/filemanager/databinding/ActionmodeBinding.java
+ com.amaze.filemanager.databinding.ActionmodeBinding
+com/amaze/filemanager/databinding/GridHeaderBinding.java
+ com.amaze.filemanager.databinding.GridHeaderBinding
+com/amaze/filemanager/databinding/ToolbarBinding.java
+ com.amaze.filemanager.databinding.ToolbarBinding
+com/amaze/filemanager/database/models/explorer/CloudEntry.java
+ com.amaze.filemanager.database.models.explorer.CloudEntry
+com/amaze/filemanager/databinding/PropertiesVideoBinding.java
+ com.amaze.filemanager.databinding.PropertiesVideoBinding
+com/amaze/filemanager/adapters/glide/AppsAdapterPreloadModel.java
+ com.amaze.filemanager.adapters.glide.AppsAdapterPreloadModel
+com/amaze/filemanager/adapters/CompressedExplorerAdapter.java
+ com.amaze.filemanager.adapters.CompressedExplorerAdapter
+com/amaze/filemanager/database/models/utilities/SmbEntry.java
+ com.amaze.filemanager.database.models.utilities.SmbEntry
+com/amaze/filemanager/database/daos/SftpEntryDao.java
+ com.amaze.filemanager.database.daos.SftpEntryDao
+com/amaze/filemanager/utils/DataUtils.java
+ com.amaze.filemanager.utils.DataUtils
+ com.amaze.filemanager.utils.DataUtils$1
+ com.amaze.filemanager.utils.DataUtils$DataChangeListener
+ com.amaze.filemanager.utils.DataUtils$DataUtilsHolder
+com/amaze/filemanager/databinding/PropertiesInformationBinding.java
+ com.amaze.filemanager.databinding.PropertiesInformationBinding
+com/amaze/filemanager/crashreport/ErrorActivity.java
+ com.amaze.filemanager.crashreport.ErrorActivity
+ com.amaze.filemanager.crashreport.ErrorActivity$ErrorInfo
+ com.amaze.filemanager.crashreport.ErrorActivity$ErrorInfo$1
+com/amaze/filemanager/databinding/ActivityErrorBinding.java
+ com.amaze.filemanager.databinding.ActivityErrorBinding
+com/bumptech/glide/GeneratedAppGlideModuleImpl.java
+ com.bumptech.glide.GeneratedAppGlideModuleImpl
+com/amaze/filemanager/utils/SubnetScanner.java
+ com.amaze.filemanager.utils.SubnetScanner
+ com.amaze.filemanager.utils.SubnetScanner$1
+ com.amaze.filemanager.utils.SubnetScanner$ScanObserver
+ com.amaze.filemanager.utils.SubnetScanner$Task
+com/amaze/filemanager/database/daos/CloudEntryDao.java
+ com.amaze.filemanager.database.daos.CloudEntryDao
+com/amaze/filemanager/databinding/PermissiontableBinding.java
+ com.amaze.filemanager.databinding.PermissiontableBinding
+com/amaze/filemanager/filesystem/files/EncryptDecryptUtils.java
+ com.amaze.filemanager.filesystem.files.EncryptDecryptUtils
+ com.amaze.filemanager.filesystem.files.EncryptDecryptUtils$1
+ com.amaze.filemanager.filesystem.files.EncryptDecryptUtils$DecryptButtonCallbackInterface
+ com.amaze.filemanager.filesystem.files.EncryptDecryptUtils$EncryptButtonCallbackInterface
+com/amaze/filemanager/databinding/SelectedcolorsPreferenceBinding.java
+ com.amaze.filemanager.databinding.SelectedcolorsPreferenceBinding
+com/amaze/filemanager/database/daos/HiddenEntryDao_Impl.java
+ com.amaze.filemanager.database.daos.HiddenEntryDao_Impl
+ com.amaze.filemanager.database.daos.HiddenEntryDao_Impl$1
+ com.amaze.filemanager.database.daos.HiddenEntryDao_Impl$2
+ com.amaze.filemanager.database.daos.HiddenEntryDao_Impl$3
+ com.amaze.filemanager.database.daos.HiddenEntryDao_Impl$4
+ com.amaze.filemanager.database.daos.HiddenEntryDao_Impl$5
+ com.amaze.filemanager.database.daos.HiddenEntryDao_Impl$6
+ com.amaze.filemanager.database.daos.HiddenEntryDao_Impl$7
+com/amaze/filemanager/adapters/ColorAdapter.java
+ com.amaze.filemanager.adapters.ColorAdapter
+ com.amaze.filemanager.adapters.ColorAdapter$OnColorSelected
+com/amaze/filemanager/asynchronous/broadcast_receivers/PackageReceiver.java
+ com.amaze.filemanager.asynchronous.broadcast_receivers.PackageReceiver
+com/amaze/filemanager/asynchronous/management/ServiceWatcherUtil.java
+ com.amaze.filemanager.asynchronous.management.ServiceWatcherUtil
+ com.amaze.filemanager.asynchronous.management.ServiceWatcherUtil$1
+ com.amaze.filemanager.asynchronous.management.ServiceWatcherUtil$ServiceStatusCallbacks
+ com.amaze.filemanager.asynchronous.management.ServiceWatcherUtil$ServiceWatcherRepeatingRunnable
+ com.amaze.filemanager.asynchronous.management.ServiceWatcherUtil$WaitNotificationThread
+com/amaze/filemanager/utils/LruBitmapCache.java
+ com.amaze.filemanager.utils.LruBitmapCache
+com/amaze/filemanager/adapters/data/CompressedObjectParcelable.java
+ com.amaze.filemanager.adapters.data.CompressedObjectParcelable
+ com.amaze.filemanager.adapters.data.CompressedObjectParcelable$1
+ com.amaze.filemanager.adapters.data.CompressedObjectParcelable$Sorter
+com/amaze/filemanager/asynchronous/asynctasks/SearchTextTask.java
+ com.amaze.filemanager.asynchronous.asynctasks.SearchTextTask
+com/amaze/filemanager/filesystem/RootHelper.java
+ com.amaze.filemanager.filesystem.RootHelper
+com/amaze/filemanager/ui/activities/superclasses/PermissionsActivity.java
+ com.amaze.filemanager.ui.activities.superclasses.PermissionsActivity
+ com.amaze.filemanager.ui.activities.superclasses.PermissionsActivity$OnPermissionGranted
+com/amaze/filemanager/asynchronous/asynctasks/AsyncTaskResult.java
+ com.amaze.filemanager.asynchronous.asynctasks.AsyncTaskResult
+ com.amaze.filemanager.asynchronous.asynctasks.AsyncTaskResult$Callback
+com/amaze/filemanager/asynchronous/asynctasks/MoveFiles.java
+ com.amaze.filemanager.asynchronous.asynctasks.MoveFiles
+ com.amaze.filemanager.asynchronous.asynctasks.MoveFiles$1
+com/amaze/filemanager/adapters/RecyclerAdapter.java
+ com.amaze.filemanager.adapters.RecyclerAdapter
+ com.amaze.filemanager.adapters.RecyclerAdapter$1
+ com.amaze.filemanager.adapters.RecyclerAdapter$2
+ com.amaze.filemanager.adapters.RecyclerAdapter$ListElemType
+ com.amaze.filemanager.adapters.RecyclerAdapter$ListItem
+ com.amaze.filemanager.adapters.RecyclerAdapter$OnImageProcessed
+com/amaze/filemanager/utils/ProgressHandler.java
+ com.amaze.filemanager.utils.ProgressHandler
+ com.amaze.filemanager.utils.ProgressHandler$ProgressListener
+com/amaze/filemanager/database/models/utilities/List.java
+ com.amaze.filemanager.database.models.utilities.List
+com/amaze/filemanager/databinding/LayoutSearchBinding.java
+ com.amaze.filemanager.databinding.LayoutSearchBinding
+com/amaze/filemanager/filesystem/HybridFileParcelable.java
+ com.amaze.filemanager.filesystem.HybridFileParcelable
+ com.amaze.filemanager.filesystem.HybridFileParcelable$1
+com/amaze/filemanager/database/models/StringWrapper.java
+ com.amaze.filemanager.database.models.StringWrapper
+com/amaze/filemanager/filesystem/files/FileUtils.java
+ com.amaze.filemanager.filesystem.files.FileUtils
+ com.amaze.filemanager.filesystem.files.FileUtils$1
+ com.amaze.filemanager.filesystem.files.FileUtils$2
+ com.amaze.filemanager.filesystem.files.FileUtils$3
+ com.amaze.filemanager.filesystem.files.FileUtils$4
+ com.amaze.filemanager.filesystem.files.FileUtils$5
+com/amaze/filemanager/adapters/data/LayoutElementParcelable.java
+ com.amaze.filemanager.adapters.data.LayoutElementParcelable
+ com.amaze.filemanager.adapters.data.LayoutElementParcelable$1
+ com.amaze.filemanager.adapters.data.LayoutElementParcelable$2
+com/amaze/filemanager/ui/activities/superclasses/BasicActivity.java
+ com.amaze.filemanager.ui.activities.superclasses.BasicActivity
+com/amaze/filemanager/database/models/utilities/Hidden.java
+ com.amaze.filemanager.database.models.utilities.Hidden
+com/amaze/filemanager/databinding/SimplerowBinding.java
+ com.amaze.filemanager.databinding.SimplerowBinding
+com/amaze/filemanager/database/daos/TabDao_Impl.java
+ com.amaze.filemanager.database.daos.TabDao_Impl
+ com.amaze.filemanager.database.daos.TabDao_Impl$1
+ com.amaze.filemanager.database.daos.TabDao_Impl$2
+ com.amaze.filemanager.database.daos.TabDao_Impl$3
+ com.amaze.filemanager.database.daos.TabDao_Impl$4
+ com.amaze.filemanager.database.daos.TabDao_Impl$5
+ com.amaze.filemanager.database.daos.TabDao_Impl$6
+ com.amaze.filemanager.database.daos.TabDao_Impl$7
+com/amaze/filemanager/utils/Billing.java
+ com.amaze.filemanager.utils.Billing
+com/amaze/filemanager/database/daos/CloudEntryDao_Impl.java
+ com.amaze.filemanager.database.daos.CloudEntryDao_Impl
+ com.amaze.filemanager.database.daos.CloudEntryDao_Impl$1
+ com.amaze.filemanager.database.daos.CloudEntryDao_Impl$2
+ com.amaze.filemanager.database.daos.CloudEntryDao_Impl$3
+ com.amaze.filemanager.database.daos.CloudEntryDao_Impl$4
+ com.amaze.filemanager.database.daos.CloudEntryDao_Impl$5
+ com.amaze.filemanager.database.daos.CloudEntryDao_Impl$6
+ com.amaze.filemanager.database.daos.CloudEntryDao_Impl$7
+ com.amaze.filemanager.database.daos.CloudEntryDao_Impl$8
+com/amaze/filemanager/MyTest.java
+ com.amaze.filemanager.MyTest

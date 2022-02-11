@@ -1,0 +1,129 @@
+com/amaze/filemanager/filesystem/ssh/test/BlockFileCreationFileSystemProvider.java
+ com.amaze.filemanager.filesystem.ssh.test.BlockFileCreationFileSystemProvider
+com/amaze/filemanager/filesystem/OperationsTest.java
+ com.amaze.filemanager.filesystem.OperationsTest
+ com.amaze.filemanager.filesystem.OperationsTest$1
+ com.amaze.filemanager.filesystem.OperationsTest$10
+ com.amaze.filemanager.filesystem.OperationsTest$11
+ com.amaze.filemanager.filesystem.OperationsTest$12
+ com.amaze.filemanager.filesystem.OperationsTest$13
+ com.amaze.filemanager.filesystem.OperationsTest$14
+ com.amaze.filemanager.filesystem.OperationsTest$15
+ com.amaze.filemanager.filesystem.OperationsTest$16
+ com.amaze.filemanager.filesystem.OperationsTest$2
+ com.amaze.filemanager.filesystem.OperationsTest$3
+ com.amaze.filemanager.filesystem.OperationsTest$4
+ com.amaze.filemanager.filesystem.OperationsTest$5
+ com.amaze.filemanager.filesystem.OperationsTest$6
+ com.amaze.filemanager.filesystem.OperationsTest$7
+ com.amaze.filemanager.filesystem.OperationsTest$8
+ com.amaze.filemanager.filesystem.OperationsTest$9
+ com.amaze.filemanager.filesystem.OperationsTest$AbstractErrorCallback
+com/amaze/filemanager/utils/OpenModeTest.java
+ com.amaze.filemanager.utils.OpenModeTest
+com/amaze/filemanager/ssh/SshClientUtilTest.java
+ com.amaze.filemanager.ssh.SshClientUtilTest
+com/amaze/filemanager/utils/AnimUtilsTest.java
+ com.amaze.filemanager.utils.AnimUtilsTest
+com/amaze/filemanager/test/ShadowCryptUtilTest.java
+ com.amaze.filemanager.test.ShadowCryptUtilTest
+com/amaze/filemanager/ui/fragments/CloudSheetFragmentTest.java
+ com.amaze.filemanager.ui.fragments.CloudSheetFragmentTest
+com/amaze/filemanager/utils/SmbUtilTest.java
+ com.amaze.filemanager.utils.SmbUtilTest
+com/amaze/filemanager/filesystem/compressed/B0rkenZipTest.java
+ com.amaze.filemanager.filesystem.compressed.B0rkenZipTest
+ com.amaze.filemanager.filesystem.compressed.B0rkenZipTest$1
+com/amaze/filemanager/filesystem/ssh/test/TestUtils.java
+ com.amaze.filemanager.filesystem.ssh.test.TestUtils
+com/amaze/filemanager/ui/activities/MainActivityTest.java
+ com.amaze.filemanager.ui.activities.MainActivityTest
+com/amaze/filemanager/filesystem/ssh/CreateFileOnSshdTest.java
+ com.amaze.filemanager.filesystem.ssh.CreateFileOnSshdTest
+ com.amaze.filemanager.filesystem.ssh.CreateFileOnSshdTest$1
+com/amaze/filemanager/filesystem/compressed/CompressedHelperTest.java
+ com.amaze.filemanager.filesystem.compressed.CompressedHelperTest
+ com.amaze.filemanager.filesystem.compressed.CompressedHelperTest$1
+com/amaze/filemanager/database/ExplorerDatabaseMigrationTest.java
+ com.amaze.filemanager.database.ExplorerDatabaseMigrationTest
+com/amaze/filemanager/ui/theme/AppThemeTest.java
+ com.amaze.filemanager.ui.theme.AppThemeTest
+com/amaze/filemanager/filesystem/files/FileListSorterTest.java
+ com.amaze.filemanager.filesystem.files.FileListSorterTest
+com/amaze/filemanager/utils/UtilsTest.java
+ com.amaze.filemanager.utils.UtilsTest
+com/amaze/filemanager/asynchronous/asynctasks/MoveFilesTest.java
+ com.amaze.filemanager.asynchronous.asynctasks.MoveFilesTest
+com/amaze/filemanager/ui/icons/IconsTest.java
+ com.amaze.filemanager.ui.icons.IconsTest
+com/amaze/filemanager/utils/TinyDBTest.java
+ com.amaze.filemanager.utils.TinyDBTest
+com/amaze/filemanager/filesystem/usb/UsbOtgTest.java
+ com.amaze.filemanager.filesystem.usb.UsbOtgTest
+com/amaze/filemanager/ui/colors/ColorUtilsTest.java
+ com.amaze.filemanager.ui.colors.ColorUtilsTest
+com/amaze/filemanager/application/AppConfigTest.java
+ com.amaze.filemanager.application.AppConfigTest
+com/amaze/filemanager/utils/BookSorterTest.java
+ com.amaze.filemanager.utils.BookSorterTest
+com/amaze/filemanager/filesystem/RootHelperTest.java
+ com.amaze.filemanager.filesystem.RootHelperTest
+com/amaze/filemanager/test/TestUtils.java
+ com.amaze.filemanager.test.TestUtils
+com/amaze/filemanager/filesystem/usb/SingletonUsbOtgTest.java
+ com.amaze.filemanager.filesystem.usb.SingletonUsbOtgTest
+com/amaze/filemanager/shadows/ShadowMultiDex.java
+ com.amaze.filemanager.shadows.ShadowMultiDex
+com/amaze/filemanager/filesystem/smb/CifsContextsTest.java
+ com.amaze.filemanager.filesystem.smb.CifsContextsTest
+com/amaze/filemanager/asynchronous/asynctasks/WriteFileAbstractionTest.java
+ com.amaze.filemanager.asynchronous.asynctasks.WriteFileAbstractionTest
+ com.amaze.filemanager.asynchronous.asynctasks.WriteFileAbstractionTest$BlockAllOutputStreamsFileUtil
+ com.amaze.filemanager.asynchronous.asynctasks.WriteFileAbstractionTest$BypassMountPartitionRootUtils
+ com.amaze.filemanager.asynchronous.asynctasks.WriteFileAbstractionTest$ShellNotRunningRootUtils
+com/amaze/filemanager/filesystem/EditableFileAbstractionTest.java
+ com.amaze.filemanager.filesystem.EditableFileAbstractionTest
+com/amaze/filemanager/database/MigrationTestHelper.java
+ com.amaze.filemanager.database.MigrationTestHelper
+ com.amaze.filemanager.database.MigrationTestHelper$CreatingDelegate
+ com.amaze.filemanager.database.MigrationTestHelper$MigratingDelegate
+ com.amaze.filemanager.database.MigrationTestHelper$RoomOpenHelperDelegate
+com/amaze/filemanager/test/ShadowCryptUtil.java
+ com.amaze.filemanager.test.ShadowCryptUtil
+com/amaze/filemanager/ui/notifications/NotificationConstantsTest.java
+ com.amaze.filemanager.ui.notifications.NotificationConstantsTest
+com/amaze/filemanager/filesystem/ssh/ListFilesOnSshdTest.java
+ com.amaze.filemanager.filesystem.ssh.ListFilesOnSshdTest
+com/amaze/filemanager/test/ShadowShellInteractive.java
+ com.amaze.filemanager.test.ShadowShellInteractive
+com/amaze/filemanager/filesystem/files/GenericCopyUtilTest.java
+ com.amaze.filemanager.filesystem.files.GenericCopyUtilTest
+com/amaze/filemanager/ui/activities/TextEditorActivityTest.java
+ com.amaze.filemanager.ui.activities.TextEditorActivityTest
+com/amaze/filemanager/test/DummyFileGenerator.java
+ com.amaze.filemanager.test.DummyFileGenerator
+com/amaze/filemanager/filesystem/ssh/AbstractSftpServerTest.java
+ com.amaze.filemanager.filesystem.ssh.AbstractSftpServerTest
+com/amaze/filemanager/ui/views/WarnableTextInputValidatorTest.java
+ com.amaze.filemanager.ui.views.WarnableTextInputValidatorTest
+com/amaze/filemanager/asynchronous/asynctasks/DbViewerTaskTest.java
+ com.amaze.filemanager.asynchronous.asynctasks.DbViewerTaskTest
+com/amaze/filemanager/filesystem/ssh/test/TestKeyProvider.java
+ com.amaze.filemanager.filesystem.ssh.test.TestKeyProvider
+com/amaze/filemanager/utils/ComputerParcelableTest.java
+ com.amaze.filemanager.utils.ComputerParcelableTest
+com/amaze/filemanager/shadows/jcifs/smb/ShadowSmbFile.java
+ com.amaze.filemanager.shadows.jcifs.smb.ShadowSmbFile
+com/amaze/filemanager/filesystem/ssh/SshClientUtilsTest.java
+ com.amaze.filemanager.filesystem.ssh.SshClientUtilsTest
+com/amaze/filemanager/filesystem/compressed/TestArchives.java
+ com.amaze.filemanager.filesystem.compressed.TestArchives
+com/amaze/filemanager/filesystem/ssh/SshConnectionPoolTest.java
+ com.amaze.filemanager.filesystem.ssh.SshConnectionPoolTest
+ com.amaze.filemanager.filesystem.ssh.SshConnectionPoolTest$1
+com/amaze/filemanager/filesystem/usb/ReflectionHelpers.java
+ com.amaze.filemanager.filesystem.usb.ReflectionHelpers
+com/amaze/filemanager/MinusTest.java
+ com.amaze.filemanager.MinusTest
+com/amaze/filemanager/MaxTest.java
+ com.amaze.filemanager.MaxTest

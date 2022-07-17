@@ -1,0 +1,50 @@
+struct Point {
+  int x;
+  int y;
+  int z;
+};
+
+struct Body {
+  int tag;
+  struct Point points[3];
+};
+
+int dot(struct Point dp1, struct Point dp2) {
+  return dp1.x * dp2.x + dp1.y * dp2.y + dp1.z * dp2.z;
+}
+
+int sqrt(int si) {
+  int s_cnt = 0;
+  while (s_cnt <= si) {
+    int lower = s_cnt * s_cnt;
+    int upper = (s_cnt + 1) * (s_cnt + 1);
+    if ((si >= lower) && (si < upper)) {
+      return s_cnt;
+    }
+    s_cnt = s_cnt + 1;
+  }
+  return -1;
+}
+
+int dist(struct Point dip1, struct Point dip2) {
+  return sqrt(dot(dip1, dip2));
+}
+
+int main() {
+  struct Body bodies[3];
+  int o_cnt = 0;
+  int i_cnt = 0;
+  while (o_cnt < 3) {
+    i_cnt = 0;
+    while (i_cnt < 3) {
+      bodies[o_cnt].points[i_cnt].x = i_cnt * o_cnt + i_cnt;
+      bodies[o_cnt].points[i_cnt].y = i_cnt * o_cnt * o_cnt + i_cnt;
+      bodies[o_cnt].points[i_cnt].z = i_cnt * i_cnt * o_cnt * o_cnt + i_cnt;
+      i_cnt = i_cnt + 1;
+    }
+    bodies[o_cnt].tag = dist(bodies[o_cnt].points[1], bodies[o_cnt].points[2]);
+    o_cnt = o_cnt + 1;
+  }
+  write(bodies[0].tag + bodies[1].tag + bodies[2].tag);
+  return 0;
+}

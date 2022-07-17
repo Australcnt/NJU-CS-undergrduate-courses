@@ -1,0 +1,42 @@
+int main() {
+  int i;
+  int j;
+  int o_cnt = 0;
+  int i_cnt = 0;
+  int len = 10;
+  int arr[10];
+  int result = 0;
+
+  i_cnt = 0;
+  while (i_cnt < len) {
+    arr[i_cnt] = 0;
+    i_cnt = i_cnt + 1;
+  }
+  
+  o_cnt = 0;
+  while (o_cnt < 3) {
+    i = read();
+    j = read();
+    if (i > 10) {
+      i = 1 + i - i / 10 * 10;
+    }
+    if (j > 10) {
+      j = 2 + j - j / 10 * 10;
+    }
+
+    i_cnt = 0;
+    while (i_cnt < len) {
+      arr[i_cnt] = arr[i_cnt] / 2 + i - j;
+      i_cnt = i_cnt + 1;
+    }
+    o_cnt = o_cnt + 1;
+  }
+
+  i_cnt = 0;
+  while (i_cnt < len) {
+    result = result + arr[i_cnt];
+    i_cnt = i_cnt + 1;
+  }
+  write(result);
+  return 0;
+}

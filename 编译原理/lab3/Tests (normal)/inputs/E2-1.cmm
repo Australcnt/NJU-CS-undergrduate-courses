@@ -1,0 +1,29 @@
+int main() {
+  int len = 5;
+  int mat1[5][5];
+  int mat2[5][5];
+  int o_cnt = 0;
+  int i_cnt = 0;
+  int m_res = 0;
+  while (o_cnt < len) {
+    i_cnt = 0;
+    while (i_cnt < len) {
+      mat1[o_cnt][i_cnt] = i_cnt;
+      mat2[o_cnt][i_cnt] = o_cnt;
+      i_cnt = i_cnt + 1;
+    }
+    o_cnt = o_cnt + 1;
+  }
+
+  o_cnt = 0;
+  while (o_cnt < len) {
+    i_cnt = 0;
+    while (i_cnt < len) {
+      m_res = m_res + mat1[o_cnt][i_cnt] * mat2[o_cnt][i_cnt];
+      i_cnt = i_cnt + 1;
+    }
+    o_cnt = o_cnt + 1;
+  }
+  write(m_res);
+  return 0;
+}

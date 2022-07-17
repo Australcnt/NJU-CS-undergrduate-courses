@@ -1,0 +1,36 @@
+int main() {
+  int i;
+  int j;
+  int cnt;
+  int len = 10;
+  int arr1[10];
+  int arr2[10];
+  int result = 0;
+
+  i = read();
+  cnt = 0;
+  while (cnt < len) {
+    arr1[cnt] = i + cnt;
+    cnt = cnt + 1;
+  }
+
+  arr2[0] = 2;
+  cnt = 1;
+  while (cnt < len) {
+    int tmp = arr1[cnt] - arr1[cnt] / 3 * 3;
+    if (tmp == 0) {
+      arr2[cnt] = arr1[cnt];
+    } else {
+      arr2[cnt] = - arr1[cnt];
+    }
+    cnt = cnt + 1;
+  }
+
+  cnt = 0;
+  while (cnt < len) {
+    result = result + arr2[cnt];
+    cnt = cnt + 1;
+  }
+  write(result);
+  return 0;
+}

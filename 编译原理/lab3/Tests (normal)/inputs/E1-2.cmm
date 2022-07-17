@@ -1,0 +1,31 @@
+struct Point {
+  int x;
+  int y;
+  int z;
+};
+
+int main() {
+  int cnt = 0;
+  int sum = 0;
+  int len = 10;
+  struct Point points[10];
+  
+  while (cnt < len) {
+    points[cnt].x = cnt;
+    points[cnt].y = cnt + cnt;
+    points[cnt].z = cnt * cnt;
+    cnt = cnt + 1;
+  }
+
+  cnt = 0;
+  while (cnt < len) {
+    if (cnt < 5) {
+      sum = sum + points[cnt].y + points[cnt].z;
+    } else {
+      sum = sum + points[cnt].x + points[cnt].y;
+    }
+    cnt = cnt + 1;
+  }
+  write(sum);
+  return 0;
+}

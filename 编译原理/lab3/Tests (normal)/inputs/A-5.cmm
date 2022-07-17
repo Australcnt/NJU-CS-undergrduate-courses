@@ -1,0 +1,37 @@
+int cal_sum(int s1, int s2, int s3) {
+  int s_res = s1 + s2 + s3;
+  return s_res;
+}
+
+int mod(int m1, int m2) {
+  int m_res = m1 - m1 / m2 * m2;
+  return m_res;
+}
+
+int is_good(int x) {
+  int a = x * 2;
+  int b = x + 2;
+  int c = x * x;
+  int sum = cal_sum(a, b, c);
+  int rem = mod(sum, 5);
+  if (rem > 1) {
+    return 1;
+  } else {
+    return 0;
+  }
+}
+
+int main() {
+  int f;
+  int g;
+  int h;
+  f = read();
+  g = read();
+  h = read();
+  if (is_good(f)) {
+    write(cal_sum(f, g, h));
+  } else {
+    write(0);
+  }
+  return 0;
+}

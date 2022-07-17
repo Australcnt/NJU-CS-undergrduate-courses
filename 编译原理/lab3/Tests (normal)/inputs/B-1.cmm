@@ -1,0 +1,35 @@
+int mod(int m1, int m2) {
+  int m_res = m1 - m1 / m2 * m2;
+  return m_res;
+}
+
+int is_palindrome_number(int x) {
+  int div = 1;
+  if (x < 0) {
+    return 0;
+  }
+
+  while ((x / div) >= 10) {
+    div = div * 10;
+  }
+
+  while (x) {
+    if ((x / div) != mod(x, 10)) {
+      return 0;
+    }
+    x = (mod(x, div)) / 10;
+    div = div / 100;
+  }
+  return 1;
+}
+
+int main() {
+  int i;
+  i = read();
+  if (is_palindrome_number(i)) {
+    write(1);
+  } else {
+    write(0);
+  }
+  return 0;
+}

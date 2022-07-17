@@ -1,0 +1,46 @@
+int mod(int m1, int m2) {
+  int m_res = m1 - m1 / m2 * m2;
+  return m_res;
+}
+
+int is_prime(int n) {
+  int i = 0;
+  if (n < 2) {
+    return 0;
+  }
+  if (n == 2) {
+    return 1;  
+  }
+  if (mod(n, 2) == 0) {
+    return 0;
+  }
+
+  i = 3;
+  while ((i * i) <= n) {
+    if (mod(n, i) == 0) {
+        return 0;
+    }
+    i = i + 1;
+  }
+  return 1;
+}
+
+int fabonacci(int f) {
+  if (f == 0) {
+    return 0;
+  } else if (f == 1) {
+    return 1;
+  }
+  return fabonacci(f - 1) + fabonacci(f - 2);
+}
+
+int main() {
+  int idx = 0;
+  while (idx < fabonacci(5)) {
+    if(is_prime(idx)) {
+      write(idx);
+    }
+    idx = idx + 1;
+  }
+  return 0;
+}

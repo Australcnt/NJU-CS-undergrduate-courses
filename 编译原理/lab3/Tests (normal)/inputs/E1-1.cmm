@@ -1,0 +1,17 @@
+struct Animal {
+  int weight;
+  int height;
+  int index;
+};
+
+int main() {
+  struct Animal a, b;
+  a.weight = 20;
+  a.height = 30;
+  b.weight = 25;
+  b.height = 15;
+  a.index = a.weight * a.weight / (a.height * a.height);
+  b.index = b.weight * b.weight / (b.height * b.height);
+  write(a.index + b.index);
+  return 0;
+}

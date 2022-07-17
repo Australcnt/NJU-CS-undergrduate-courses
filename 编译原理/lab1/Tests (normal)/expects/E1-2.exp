@@ -1,0 +1,468 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: int
+      FunDec (1)
+        ID: ENCODER
+        LP
+        VarList (1)
+          ParamDec (1)
+            Specifier (1)
+              StructSpecifier (1)
+                STRUCT
+                Tag (1)
+                  ID: Obj
+            VarDec (1)
+              ID: johab
+        RP
+      CompSt (2)
+        LC
+        StmtList (3)
+          Stmt (3)
+            WHILE
+            LP
+            Exp (3)
+              Exp (3)
+                ID: inpos
+              RELOP
+              Exp (3)
+                ID: inlen
+            RP
+            Stmt (3)
+              CompSt (3)
+                LC
+                StmtList (4)
+                  Stmt (4)
+                    IF
+                    LP
+                    Exp (4)
+                      Exp (4)
+                        ID: c
+                      RELOP
+                      Exp (4)
+                        INT: 128
+                    RP
+                    Stmt (4)
+                      CompSt (4)
+                        LC
+                        StmtList (5)
+                          Stmt (5)
+                            Exp (5)
+                              ID: WRITEBYTE1
+                              LP
+                              Args (5)
+                                Exp (5)
+                                  ID: c
+                              RP
+                            SEMI
+                          StmtList (6)
+                            Stmt (6)
+                              Exp (6)
+                                ID: NEXT
+                                LP
+                                Args (6)
+                                  Exp (6)
+                                    INT: 1
+                                  COMMA
+                                  Args (6)
+                                    Exp (6)
+                                      INT: 1
+                                RP
+                              SEMI
+                        RC
+                  StmtList (9)
+                    Stmt (9)
+                      IF
+                      LP
+                      Exp (9)
+                        Exp (9)
+                          ID: c
+                        RELOP
+                        Exp (9)
+                          INT: 65535
+                      RP
+                      Stmt (10)
+                        RETURN
+                        Exp (10)
+                          INT: 1
+                        SEMI
+                    StmtList (12)
+                      Stmt (12)
+                        Exp (12)
+                          ID: REQUIRE_OUTBUF
+                          LP
+                          Args (12)
+                            Exp (12)
+                              INT: 2
+                          RP
+                        SEMI
+                      StmtList (14)
+                        Stmt (14)
+                          IF
+                          LP
+                          Exp (14)
+                            Exp (14)
+                              Exp (14)
+                                ID: c
+                              RELOP
+                              Exp (14)
+                                INT: 12593
+                            AND
+                            Exp (14)
+                              Exp (14)
+                                ID: c
+                              RELOP
+                              Exp (14)
+                                INT: 12643
+                          RP
+                          Stmt (15)
+                            Exp (15)
+                              Exp (15)
+                                ID: code
+                              ASSIGNOP
+                              Exp (15)
+                                Exp (15)
+                                  ID: u2johabjamo
+                                LB
+                                Exp (15)
+                                  Exp (15)
+                                    ID: c
+                                  MINUS
+                                  Exp (15)
+                                    INT: 12593
+                                RB
+                            SEMI
+                          ELSE
+                          Stmt (16)
+                            IF
+                            LP
+                            Exp (16)
+                              ID: TRYMAP_ENC
+                              LP
+                              Args (16)
+                                Exp (16)
+                                  ID: cp949
+                                COMMA
+                                Args (16)
+                                  Exp (16)
+                                    ID: code
+                                  COMMA
+                                  Args (16)
+                                    Exp (16)
+                                      ID: c
+                              RP
+                            RP
+                            Stmt (16)
+                              CompSt (16)
+                                LC
+                                DefList (17)
+                                  Def (17)
+                                    Specifier (17)
+                                      TYPE: int
+                                    DecList (17)
+                                      Dec (17)
+                                        VarDec (17)
+                                          ID: c1
+                                      COMMA
+                                      DecList (17)
+                                        Dec (17)
+                                          VarDec (17)
+                                            ID: c2
+                                        COMMA
+                                        DecList (17)
+                                          Dec (17)
+                                            VarDec (17)
+                                              ID: t2
+                                    SEMI
+                                  DefList (18)
+                                    Def (18)
+                                      Specifier (18)
+                                        TYPE: int
+                                      DecList (18)
+                                        Dec (18)
+                                          VarDec (18)
+                                            ID: t1
+                                      SEMI
+                                StmtList (20)
+                                  Stmt (20)
+                                    Exp (20)
+                                      ID: assert
+                                      LP
+                                      Args (20)
+                                        Exp (20)
+                                          Exp (20)
+                                            LP
+                                            Exp (20)
+                                              Exp (20)
+                                                ID: code
+                                              AND
+                                              Exp (20)
+                                                INT: 32768
+                                            RP
+                                          RELOP
+                                          Exp (20)
+                                            INT: 0
+                                      RP
+                                    SEMI
+                                  StmtList (21)
+                                    Stmt (21)
+                                      Exp (21)
+                                        Exp (21)
+                                          ID: c1
+                                        ASSIGNOP
+                                        Exp (21)
+                                          Exp (21)
+                                            ID: code
+                                          PLUS
+                                          Exp (21)
+                                            INT: 511
+                                      SEMI
+                                    StmtList (22)
+                                      Stmt (22)
+                                        Exp (22)
+                                          Exp (22)
+                                            ID: c2
+                                          ASSIGNOP
+                                          Exp (22)
+                                            Exp (22)
+                                              ID: code
+                                            MINUS
+                                            Exp (22)
+                                              INT: 255
+                                        SEMI
+                                      StmtList (23)
+                                        Stmt (23)
+                                          IF
+                                          LP
+                                          Exp (23)
+                                            Exp (23)
+                                              LP
+                                              Exp (23)
+                                                Exp (23)
+                                                  LP
+                                                  Exp (23)
+                                                    Exp (23)
+                                                      Exp (23)
+                                                        ID: c1
+                                                      RELOP
+                                                      Exp (23)
+                                                        INT: 74273
+                                                    AND
+                                                    Exp (23)
+                                                      Exp (23)
+                                                        ID: c1
+                                                      RELOP
+                                                      Exp (23)
+                                                        INT: 71322
+                                                  RP
+                                                OR
+                                                Exp (24)
+                                                  LP
+                                                  Exp (24)
+                                                    Exp (24)
+                                                      Exp (24)
+                                                        ID: c1
+                                                      RELOP
+                                                      Exp (24)
+                                                        INT: 44106
+                                                    AND
+                                                    Exp (24)
+                                                      Exp (24)
+                                                        ID: c1
+                                                      RELOP
+                                                      Exp (24)
+                                                        INT: 43901
+                                                  RP
+                                              RP
+                                            AND
+                                            Exp (25)
+                                              LP
+                                              Exp (25)
+                                                Exp (25)
+                                                  Exp (25)
+                                                    ID: c2
+                                                  RELOP
+                                                  Exp (25)
+                                                    INT: 61217
+                                                AND
+                                                Exp (25)
+                                                  Exp (25)
+                                                    ID: c2
+                                                  RELOP
+                                                  Exp (25)
+                                                    INT: 52606
+                                              RP
+                                          RP
+                                          Stmt (25)
+                                            CompSt (25)
+                                              LC
+                                              StmtList (26)
+                                                Stmt (26)
+                                                  Exp (26)
+                                                    Exp (26)
+                                                      ID: t1
+                                                    ASSIGNOP
+                                                    Exp (26)
+                                                      LP
+                                                      Exp (26)
+                                                        Exp (26)
+                                                          Exp (26)
+                                                            Exp (26)
+                                                              ID: c1
+                                                            MINUS
+                                                            Exp (26)
+                                                              INT: 1126432221
+                                                          PLUS
+                                                          Exp (26)
+                                                            LP
+                                                            Exp (26)
+                                                              Exp (26)
+                                                                Exp (26)
+                                                                  ID: c1
+                                                                MINUS
+                                                                Exp (26)
+                                                                  INT: 556990205
+                                                              PLUS
+                                                              Exp (26)
+                                                                INT: 455785933
+                                                            RP
+                                                        PLUS
+                                                        Exp (26)
+                                                          LP
+                                                          Exp (26)
+                                                            Exp (26)
+                                                              Exp (26)
+                                                                ID: c1
+                                                              MINUS
+                                                              Exp (26)
+                                                                INT: 33
+                                                            PLUS
+                                                            Exp (26)
+                                                              INT: 407
+                                                          RP
+                                                      RP
+                                                  SEMI
+                                                StmtList (27)
+                                                  Stmt (27)
+                                                    Exp (27)
+                                                      Exp (27)
+                                                        ID: t2
+                                                      ASSIGNOP
+                                                      Exp (27)
+                                                        Exp (27)
+                                                          LP
+                                                          Exp (27)
+                                                            Exp (27)
+                                                              Exp (27)
+                                                                LP
+                                                                Exp (27)
+                                                                  Exp (27)
+                                                                    ID: t1
+                                                                  PLUS
+                                                                  Exp (27)
+                                                                    INT: 1
+                                                                RP
+                                                              PLUS
+                                                              Exp (27)
+                                                                INT: 94
+                                                            MINUS
+                                                            Exp (27)
+                                                              INT: 0
+                                                          RP
+                                                        PLUS
+                                                        Exp (27)
+                                                          LP
+                                                          Exp (27)
+                                                            Exp (27)
+                                                              ID: c2
+                                                            MINUS
+                                                            Exp (27)
+                                                              INT: 33
+                                                          RP
+                                                    SEMI
+                                                  StmtList (28)
+                                                    Stmt (28)
+                                                      Exp (28)
+                                                        ID: OUTBYTE1
+                                                        LP
+                                                        Args (28)
+                                                          Exp (28)
+                                                            Exp (28)
+                                                              ID: t1
+                                                            PLUS
+                                                            Exp (28)
+                                                              INT: 1
+                                                        RP
+                                                      SEMI
+                                                    StmtList (29)
+                                                      Stmt (29)
+                                                        Exp (29)
+                                                          ID: OUTBYTE2
+                                                          LP
+                                                          Args (29)
+                                                            Exp (29)
+                                                              Exp (29)
+                                                                Exp (29)
+                                                                  Exp (29)
+                                                                    Exp (29)
+                                                                      Exp (29)
+                                                                        ID: t2
+                                                                      MINUS
+                                                                      Exp (29)
+                                                                        INT: 78
+                                                                    MINUS
+                                                                    Exp (29)
+                                                                      ID: t2
+                                                                  PLUS
+                                                                  Exp (29)
+                                                                    INT: 49
+                                                                PLUS
+                                                                Exp (29)
+                                                                  ID: t2
+                                                              PLUS
+                                                              Exp (29)
+                                                                INT: 67
+                                                          RP
+                                                        SEMI
+                                                      StmtList (30)
+                                                        Stmt (30)
+                                                          Exp (30)
+                                                            ID: NEXT
+                                                            LP
+                                                            Args (30)
+                                                              Exp (30)
+                                                                INT: 1
+                                                              COMMA
+                                                              Args (30)
+                                                                Exp (30)
+                                                                  INT: 2
+                                                            RP
+                                                          SEMI
+                                                        StmtList (31)
+                                                          Stmt (31)
+                                                            Exp (31)
+                                                              ID: continue
+                                                            SEMI
+                                              RC
+                                          ELSE
+                                          Stmt (34)
+                                            RETURN
+                                            Exp (34)
+                                              INT: 1
+                                            SEMI
+                                RC
+                            ELSE
+                            Stmt (37)
+                              RETURN
+                              Exp (37)
+                                INT: 1
+                              SEMI
+                RC
+          StmtList (39)
+            Stmt (39)
+              RETURN
+              Exp (39)
+                INT: 0
+              SEMI
+        RC

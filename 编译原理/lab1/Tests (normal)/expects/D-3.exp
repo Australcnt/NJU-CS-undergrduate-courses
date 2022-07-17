@@ -1,0 +1,141 @@
+Program (5)
+  ExtDefList (5)
+    ExtDef (5)
+      Specifier (5)
+        TYPE: int
+      FunDec (5)
+        ID: traverseLclosure
+        LP
+        VarList (5)
+          ParamDec (5)
+            Specifier (5)
+              StructSpecifier (5)
+                STRUCT
+                Tag (5)
+                  ID: global_State
+            VarDec (5)
+              ID: g
+          COMMA
+          VarList (5)
+            ParamDec (5)
+              Specifier (5)
+                StructSpecifier (5)
+                  STRUCT
+                  Tag (5)
+                    ID: LClosure
+              VarDec (5)
+                ID: cl
+        RP
+      CompSt (5)
+        LC
+        DefList (6)
+          Def (6)
+            Specifier (6)
+              TYPE: int
+            DecList (6)
+              Dec (6)
+                VarDec (6)
+                  ID: i
+                ASSIGNOP
+                Exp (6)
+                  INT: 0
+            SEMI
+        StmtList (7)
+          Stmt (7)
+            Exp (7)
+              ID: markobjectN
+              LP
+              Args (7)
+                Exp (7)
+                  ID: g
+                COMMA
+                Args (7)
+                  Exp (7)
+                    Exp (7)
+                      ID: cl
+                    DOT
+                    ID: p
+              RP
+            SEMI
+          StmtList (8)
+            Stmt (8)
+              WHILE
+              LP
+              Exp (8)
+                Exp (8)
+                  ID: i
+                RELOP
+                Exp (8)
+                  Exp (8)
+                    ID: cl
+                  DOT
+                  ID: nupvalues
+              RP
+              Stmt (8)
+                CompSt (8)
+                  LC
+                  DefList (9)
+                    Def (9)
+                      Specifier (9)
+                        StructSpecifier (9)
+                          STRUCT
+                          Tag (9)
+                            ID: UpVal
+                      DecList (9)
+                        Dec (9)
+                          VarDec (9)
+                            ID: uv
+                          ASSIGNOP
+                          Exp (9)
+                            Exp (9)
+                              Exp (9)
+                                ID: cl
+                              DOT
+                              ID: upvals
+                            LB
+                            Exp (9)
+                              ID: i
+                            RB
+                      SEMI
+                  StmtList (10)
+                    Stmt (10)
+                      Exp (10)
+                        ID: markobjectN
+                        LP
+                        Args (10)
+                          Exp (10)
+                            ID: g
+                          COMMA
+                          Args (10)
+                            Exp (10)
+                              ID: uv
+                        RP
+                      SEMI
+                    StmtList (11)
+                      Stmt (11)
+                        Exp (11)
+                          Exp (11)
+                            ID: i
+                          ASSIGNOP
+                          Exp (11)
+                            Exp (11)
+                              ID: i
+                            PLUS
+                            Exp (11)
+                              INT: 1
+                        SEMI
+                  RC
+            StmtList (13)
+              Stmt (13)
+                RETURN
+                Exp (13)
+                  Exp (13)
+                    INT: 1
+                  PLUS
+                  Exp (13)
+                    Exp (13)
+                      ID: cl
+                    DOT
+                    ID: nupvalues
+                SEMI
+        RC

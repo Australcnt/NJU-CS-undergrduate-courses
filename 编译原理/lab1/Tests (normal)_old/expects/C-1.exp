@@ -1,0 +1,393 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: int
+      FunDec (1)
+        ID: main
+        LP
+        RP
+      CompSt (1)
+        LC
+        StmtList (2)
+          Stmt (2)
+            Exp (2)
+              ID: bin2dec
+              LP
+              Args (2)
+                Exp (2)
+                  INT: 1001001
+              RP
+            SEMI
+          StmtList (3)
+            Stmt (3)
+              Exp (3)
+                ID: dec2bin
+                LP
+                Args (3)
+                  Exp (3)
+                    INT: 1234567
+                RP
+              SEMI
+        RC
+    ExtDefList (6)
+      ExtDef (6)
+        Specifier (6)
+          TYPE: int
+        FunDec (6)
+          ID: rem
+          LP
+          VarList (6)
+            ParamDec (6)
+              Specifier (6)
+                TYPE: int
+              VarDec (6)
+                ID: a
+            COMMA
+            VarList (6)
+              ParamDec (6)
+                Specifier (6)
+                  TYPE: int
+                VarDec (6)
+                  ID: b
+          RP
+        CompSt (6)
+          LC
+          StmtList (7)
+            Stmt (7)
+              RETURN
+              Exp (7)
+                Exp (7)
+                  ID: a
+                MINUS
+                Exp (7)
+                  Exp (7)
+                    Exp (7)
+                      ID: a
+                    DIV
+                    Exp (7)
+                      ID: b
+                  STAR
+                  Exp (7)
+                    ID: b
+              SEMI
+          RC
+      ExtDefList (10)
+        ExtDef (10)
+          Specifier (10)
+            TYPE: int
+          FunDec (10)
+            ID: bin2dec
+            LP
+            VarList (10)
+              ParamDec (10)
+                Specifier (10)
+                  TYPE: int
+                VarDec (10)
+                  ID: n
+            RP
+          CompSt (10)
+            LC
+            DefList (11)
+              Def (11)
+                Specifier (11)
+                  TYPE: int
+                DecList (11)
+                  Dec (11)
+                    VarDec (11)
+                      ID: dec
+                    ASSIGNOP
+                    Exp (11)
+                      INT: 0
+                  COMMA
+                  DecList (11)
+                    Dec (11)
+                      VarDec (11)
+                        ID: i
+                      ASSIGNOP
+                      Exp (11)
+                        INT: 0
+                    COMMA
+                    DecList (11)
+                      Dec (11)
+                        VarDec (11)
+                          ID: rem
+                SEMI
+            StmtList (12)
+              Stmt (12)
+                WHILE
+                LP
+                Exp (12)
+                  Exp (12)
+                    ID: n
+                  RELOP
+                  Exp (12)
+                    INT: 0
+                RP
+                Stmt (12)
+                  CompSt (12)
+                    LC
+                    StmtList (13)
+                      Stmt (13)
+                        Exp (13)
+                          Exp (13)
+                            ID: rem
+                          ASSIGNOP
+                          Exp (13)
+                            ID: rem
+                            LP
+                            Args (13)
+                              Exp (13)
+                                ID: n
+                              COMMA
+                              Args (13)
+                                Exp (13)
+                                  INT: 10
+                            RP
+                        SEMI
+                      StmtList (14)
+                        Stmt (14)
+                          Exp (14)
+                            Exp (14)
+                              ID: n
+                            ASSIGNOP
+                            Exp (14)
+                              Exp (14)
+                                ID: n
+                              DIV
+                              Exp (14)
+                                INT: 10
+                          SEMI
+                        StmtList (15)
+                          Stmt (15)
+                            Exp (15)
+                              Exp (15)
+                                ID: dec
+                              ASSIGNOP
+                              Exp (15)
+                                Exp (15)
+                                  ID: dec
+                                PLUS
+                                Exp (15)
+                                  Exp (15)
+                                    ID: rem
+                                  STAR
+                                  Exp (15)
+                                    ID: pow
+                                    LP
+                                    Args (15)
+                                      Exp (15)
+                                        INT: 2
+                                      COMMA
+                                      Args (15)
+                                        Exp (15)
+                                          ID: i
+                                    RP
+                            SEMI
+                          StmtList (16)
+                            Stmt (16)
+                              Exp (16)
+                                Exp (16)
+                                  ID: i
+                                ASSIGNOP
+                                Exp (16)
+                                  Exp (16)
+                                    ID: i
+                                  PLUS
+                                  Exp (16)
+                                    INT: 1
+                              SEMI
+                    RC
+              StmtList (18)
+                Stmt (18)
+                  RETURN
+                  Exp (18)
+                    ID: dec
+                  SEMI
+            RC
+        ExtDefList (21)
+          ExtDef (21)
+            Specifier (21)
+              TYPE: int
+            FunDec (21)
+              ID: dec2bin
+              LP
+              VarList (21)
+                ParamDec (21)
+                  Specifier (21)
+                    TYPE: int
+                  VarDec (21)
+                    ID: n
+              RP
+            CompSt (21)
+              LC
+              StmtList (22)
+                Stmt (22)
+                  IF
+                  LP
+                  Exp (22)
+                    Exp (22)
+                      ID: n
+                    RELOP
+                    Exp (22)
+                      INT: 1
+                  RP
+                  Stmt (23)
+                    RETURN
+                    Exp (23)
+                      ID: n
+                    SEMI
+                  ELSE
+                  Stmt (24)
+                    CompSt (24)
+                      LC
+                      StmtList (25)
+                        Stmt (25)
+                          Exp (25)
+                            ID: dec2bin
+                            LP
+                            Args (25)
+                              Exp (25)
+                                Exp (25)
+                                  ID: n
+                                DIV
+                                Exp (25)
+                                  INT: 2
+                            RP
+                          SEMI
+                        StmtList (26)
+                          Stmt (26)
+                            Exp (26)
+                              ID: write
+                              LP
+                              Args (26)
+                                Exp (26)
+                                  ID: rem
+                                  LP
+                                  Args (26)
+                                    Exp (26)
+                                      ID: n
+                                    COMMA
+                                    Args (26)
+                                      Exp (26)
+                                        INT: 2
+                                  RP
+                              RP
+                            SEMI
+                      RC
+              RC
+          ExtDefList (30)
+            ExtDef (30)
+              Specifier (30)
+                TYPE: int
+              FunDec (30)
+                ID: cal
+                LP
+                RP
+              CompSt (30)
+                LC
+                DefList (31)
+                  Def (31)
+                    Specifier (31)
+                      TYPE: int
+                    DecList (31)
+                      Dec (31)
+                        VarDec (31)
+                          ID: z_x
+                        ASSIGNOP
+                        Exp (31)
+                          INT: 0
+                    SEMI
+                StmtList (32)
+                  Stmt (32)
+                    WHILE
+                    LP
+                    Exp (32)
+                      Exp (32)
+                        Exp (32)
+                          INT: 1
+                        STAR
+                        Exp (32)
+                          INT: 2
+                      PLUS
+                      Exp (32)
+                        LP
+                        Exp (32)
+                          Exp (32)
+                            INT: 2
+                          MINUS
+                          Exp (32)
+                            Exp (32)
+                              INT: 3
+                            STAR
+                            Exp (32)
+                              INT: 4
+                        RP
+                    RP
+                    Stmt (32)
+                      CompSt (32)
+                        LC
+                        StmtList (33)
+                          Stmt (33)
+                            IF
+                            LP
+                            Exp (33)
+                              Exp (33)
+                                ID: a
+                              RELOP
+                              Exp (33)
+                                ID: b
+                            RP
+                            Stmt (34)
+                              Exp (34)
+                                ID: dec2bin
+                                LP
+                                Args (34)
+                                  Exp (34)
+                                    ID: a
+                                RP
+                              SEMI
+                            ELSE
+                            Stmt (35)
+                              CompSt (35)
+                                LC
+                                DefList (36)
+                                  Def (36)
+                                    Specifier (36)
+                                      TYPE: int
+                                    DecList (36)
+                                      Dec (36)
+                                        VarDec (36)
+                                          ID: z_x
+                                        ASSIGNOP
+                                        Exp (36)
+                                          Exp (36)
+                                            ID: x
+                                          DIV
+                                          Exp (36)
+                                            LP
+                                            Exp (36)
+                                              Exp (36)
+                                                Exp (36)
+                                                  ID: y
+                                                STAR
+                                                Exp (36)
+                                                  ID: y
+                                              MINUS
+                                              Exp (36)
+                                                ID: z
+                                            RP
+                                    SEMI
+                                StmtList (37)
+                                  Stmt (37)
+                                    Exp (37)
+                                      ID: bin2dec
+                                      LP
+                                      Args (37)
+                                        Exp (37)
+                                          ID: b
+                                      RP
+                                    SEMI
+                                RC
+                        RC
+                RC

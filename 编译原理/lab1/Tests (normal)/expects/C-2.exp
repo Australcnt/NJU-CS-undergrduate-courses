@@ -1,0 +1,577 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        StructSpecifier (1)
+          STRUCT
+          OptTag (1)
+            ID: Data
+          LC
+          DefList (2)
+            Def (2)
+              Specifier (2)
+                StructSpecifier (2)
+                  STRUCT
+                  OptTag (2)
+                    ID: a
+                  LC
+                  DefList (3)
+                    Def (3)
+                      Specifier (3)
+                        TYPE: int
+                      DecList (3)
+                        Dec (3)
+                          VarDec (3)
+                            ID: x
+                        COMMA
+                        DecList (3)
+                          Dec (3)
+                            VarDec (3)
+                              ID: y
+                          COMMA
+                          DecList (3)
+                            Dec (3)
+                              VarDec (3)
+                                ID: z
+                              ASSIGNOP
+                              Exp (3)
+                                INT: 1
+                      SEMI
+                  RC
+              DecList (4)
+                Dec (4)
+                  VarDec (4)
+                    ID: s1
+              SEMI
+            DefList (5)
+              Def (5)
+                Specifier (5)
+                  StructSpecifier (5)
+                    STRUCT
+                    Tag (5)
+                      ID: b
+                DecList (5)
+                  Dec (5)
+                    VarDec (5)
+                      ID: s2
+                SEMI
+              DefList (6)
+                Def (6)
+                  Specifier (6)
+                    TYPE: float
+                  DecList (6)
+                    Dec (6)
+                      VarDec (6)
+                        ID: f_1
+                    COMMA
+                    DecList (6)
+                      Dec (6)
+                        VarDec (6)
+                          ID: f__2
+                        ASSIGNOP
+                        Exp (6)
+                          FLOAT: 2.200000
+                      COMMA
+                      DecList (6)
+                        Dec (6)
+                          VarDec (6)
+                            ID: _f3
+                  SEMI
+                DefList (7)
+                  Def (7)
+                    Specifier (7)
+                      TYPE: int
+                    DecList (7)
+                      Dec (7)
+                        VarDec (7)
+                          VarDec (7)
+                            VarDec (7)
+                              ID: a
+                            LB
+                            INT: 10
+                            RB
+                          LB
+                          INT: 11
+                          RB
+                    SEMI
+          RC
+      ExtDecList (8)
+        VarDec (8)
+          ID: xs
+      SEMI
+    ExtDefList (10)
+      ExtDef (10)
+        Specifier (10)
+          StructSpecifier (10)
+            STRUCT
+            Tag (10)
+              ID: Data
+        FunDec (10)
+          ID: comp
+          LP
+          RP
+        CompSt (10)
+          LC
+          StmtList (11)
+            Stmt (11)
+              Exp (11)
+                Exp (11)
+                  Exp (11)
+                    Exp (11)
+                      ID: xs
+                    DOT
+                    ID: s1
+                  DOT
+                  ID: x
+                ASSIGNOP
+                Exp (11)
+                  Exp (11)
+                    Exp (11)
+                      Exp (11)
+                        Exp (11)
+                          ID: xs
+                        DOT
+                        ID: s1
+                      DOT
+                      ID: y
+                    STAR
+                    Exp (11)
+                      Exp (11)
+                        Exp (11)
+                          ID: xs
+                        DOT
+                        ID: s1
+                      DOT
+                      ID: z
+                  PLUS
+                  Exp (11)
+                    Exp (11)
+                      Exp (11)
+                        ID: xs
+                      DOT
+                      ID: s1
+                    DOT
+                    ID: z
+              SEMI
+            StmtList (12)
+              Stmt (12)
+                Exp (12)
+                  Exp (12)
+                    Exp (12)
+                      ID: xs
+                    DOT
+                    ID: s2
+                  ASSIGNOP
+                  Exp (12)
+                    Exp (12)
+                      ID: xs
+                    DOT
+                    ID: s2
+                SEMI
+              StmtList (13)
+                Stmt (13)
+                  Exp (13)
+                    Exp (13)
+                      Exp (13)
+                        ID: xs
+                      DOT
+                      ID: f_1
+                    ASSIGNOP
+                    Exp (13)
+                      Exp (13)
+                        ID: xs
+                      DOT
+                      ID: f__2
+                  SEMI
+                StmtList (14)
+                  Stmt (14)
+                    IF
+                    LP
+                    Exp (14)
+                      Exp (14)
+                        Exp (14)
+                          ID: xs
+                        DOT
+                        ID: f_1
+                      RELOP
+                      Exp (14)
+                        FLOAT: 0.010000
+                    RP
+                    Stmt (14)
+                      CompSt (14)
+                        LC
+                        StmtList (15)
+                          Stmt (15)
+                            Exp (15)
+                              Exp (15)
+                                Exp (15)
+                                  ID: xs
+                                DOT
+                                ID: _f3
+                              ASSIGNOP
+                              Exp (15)
+                                Exp (15)
+                                  Exp (15)
+                                    Exp (15)
+                                      ID: xs
+                                    DOT
+                                    ID: _f3
+                                  STAR
+                                  Exp (15)
+                                    Exp (15)
+                                      ID: xs
+                                    DOT
+                                    ID: f_1
+                                DIV
+                                Exp (15)
+                                  Exp (15)
+                                    ID: xs
+                                  DOT
+                                  ID: f__2
+                            SEMI
+                          StmtList (16)
+                            Stmt (16)
+                              Exp (16)
+                                Exp (16)
+                                  Exp (16)
+                                    ID: xs
+                                  DOT
+                                  ID: f__2
+                                ASSIGNOP
+                                Exp (16)
+                                  Exp (16)
+                                    Exp (16)
+                                      ID: xs
+                                    DOT
+                                    ID: f__2
+                                  PLUS
+                                  Exp (16)
+                                    INT: 1
+                              SEMI
+                        RC
+                    ELSE
+                    Stmt (18)
+                      Exp (18)
+                        Exp (18)
+                          Exp (18)
+                            ID: xs
+                          DOT
+                          ID: f_1
+                        ASSIGNOP
+                        Exp (18)
+                          Exp (18)
+                            ID: xs
+                          DOT
+                          ID: f__2
+                      SEMI
+                  StmtList (20)
+                    Stmt (20)
+                      WHILE
+                      LP
+                      Exp (20)
+                        Exp (20)
+                          Exp (20)
+                            Exp (20)
+                              ID: xs
+                            DOT
+                            ID: s1
+                          DOT
+                          ID: x
+                        RELOP
+                        Exp (20)
+                          Exp (20)
+                            Exp (20)
+                              ID: xs
+                            DOT
+                            ID: s1
+                          DOT
+                          ID: y
+                      RP
+                      Stmt (20)
+                        CompSt (20)
+                          LC
+                          DefList (21)
+                            Def (21)
+                              Specifier (21)
+                                TYPE: int
+                              DecList (21)
+                                Dec (21)
+                                  VarDec (21)
+                                    ID: i
+                                  ASSIGNOP
+                                  Exp (21)
+                                    INT: 0
+                              SEMI
+                          StmtList (22)
+                            Stmt (22)
+                              WHILE
+                              LP
+                              Exp (22)
+                                Exp (22)
+                                  ID: i
+                                RELOP
+                                Exp (22)
+                                  Exp (22)
+                                    Exp (22)
+                                      ID: xs
+                                    DOT
+                                    ID: s1
+                                  DOT
+                                  ID: z
+                              RP
+                              Stmt (22)
+                                CompSt (22)
+                                  LC
+                                  StmtList (23)
+                                    Stmt (23)
+                                      Exp (23)
+                                        Exp (23)
+                                          Exp (23)
+                                            ID: xs
+                                          DOT
+                                          ID: _f3
+                                        ASSIGNOP
+                                        Exp (23)
+                                          Exp (23)
+                                            FLOAT: 0.100000
+                                          STAR
+                                          Exp (23)
+                                            Exp (23)
+                                              ID: xs
+                                            DOT
+                                            ID: _f3
+                                      SEMI
+                                    StmtList (24)
+                                      Stmt (24)
+                                        Exp (24)
+                                          Exp (24)
+                                            Exp (24)
+                                              Exp (24)
+                                                ID: xs
+                                              DOT
+                                              ID: s1
+                                            DOT
+                                            ID: z
+                                          ASSIGNOP
+                                          Exp (24)
+                                            Exp (24)
+                                              Exp (24)
+                                                Exp (24)
+                                                  ID: xs
+                                                DOT
+                                                ID: s1
+                                              DOT
+                                              ID: z
+                                            STAR
+                                            Exp (24)
+                                              INT: 2
+                                        SEMI
+                                      StmtList (25)
+                                        Stmt (25)
+                                          IF
+                                          LP
+                                          Exp (25)
+                                            Exp (25)
+                                              Exp (25)
+                                                Exp (25)
+                                                  ID: xs
+                                                DOT
+                                                ID: a
+                                              LB
+                                              Exp (25)
+                                                ID: i
+                                              RB
+                                            LB
+                                            Exp (25)
+                                              ID: i
+                                            RB
+                                          RP
+                                          Stmt (25)
+                                            CompSt (25)
+                                              LC
+                                              StmtList (26)
+                                                Stmt (26)
+                                                  RETURN
+                                                  Exp (26)
+                                                    ID: xs
+                                                  SEMI
+                                              RC
+                                        StmtList (28)
+                                          Stmt (28)
+                                            Exp (28)
+                                              Exp (28)
+                                                Exp (28)
+                                                  Exp (28)
+                                                    ID: xs
+                                                  DOT
+                                                  ID: s1
+                                                DOT
+                                                ID: x
+                                              ASSIGNOP
+                                              Exp (28)
+                                                Exp (28)
+                                                  Exp (28)
+                                                    Exp (28)
+                                                      ID: xs
+                                                    DOT
+                                                    ID: s1
+                                                  DOT
+                                                  ID: y
+                                                DIV
+                                                Exp (28)
+                                                  ID: i
+                                            SEMI
+                                  RC
+                          RC
+          RC
+      ExtDefList (33)
+        ExtDef (33)
+          Specifier (33)
+            TYPE: int
+          FunDec (33)
+            ID: main
+            LP
+            RP
+          CompSt (33)
+            LC
+            DefList (34)
+              Def (34)
+                Specifier (34)
+                  TYPE: int
+                DecList (34)
+                  Dec (34)
+                    VarDec (34)
+                      ID: _i
+                    ASSIGNOP
+                    Exp (34)
+                      INT: 0
+                  COMMA
+                  DecList (34)
+                    Dec (34)
+                      VarDec (34)
+                        ID: _j
+                      ASSIGNOP
+                      Exp (34)
+                        INT: 0
+                SEMI
+            StmtList (35)
+              Stmt (35)
+                Exp (35)
+                  ID: comp
+                  LP
+                  RP
+                SEMI
+              StmtList (36)
+                Stmt (36)
+                  WHILE
+                  LP
+                  Exp (36)
+                    Exp (36)
+                      ID: i
+                    RELOP
+                    Exp (36)
+                      INT: 10
+                  RP
+                  Stmt (36)
+                    CompSt (36)
+                      LC
+                      StmtList (37)
+                        Stmt (37)
+                          WHILE
+                          LP
+                          Exp (37)
+                            Exp (37)
+                              ID: j
+                            RELOP
+                            Exp (37)
+                              INT: 10
+                          RP
+                          Stmt (37)
+                            CompSt (37)
+                              LC
+                              StmtList (38)
+                                Stmt (38)
+                                  Exp (38)
+                                    Exp (38)
+                                      Exp (38)
+                                        Exp (38)
+                                          Exp (38)
+                                            ID: xs
+                                          DOT
+                                          ID: a
+                                        LB
+                                        Exp (38)
+                                          ID: i
+                                        RB
+                                      LB
+                                      Exp (38)
+                                        ID: j
+                                      RB
+                                    ASSIGNOP
+                                    Exp (38)
+                                      Exp (38)
+                                        Exp (38)
+                                          ID: i
+                                        STAR
+                                        Exp (38)
+                                          ID: j
+                                      PLUS
+                                      Exp (38)
+                                        Exp (38)
+                                          Exp (38)
+                                            ID: xs
+                                          DOT
+                                          ID: s1
+                                        DOT
+                                        ID: x
+                                  SEMI
+                              RC
+                        StmtList (40)
+                          Stmt (40)
+                            Exp (40)
+                              Exp (40)
+                                Exp (40)
+                                  Exp (40)
+                                    ID: xs
+                                  DOT
+                                  ID: s1
+                                DOT
+                                ID: y
+                              ASSIGNOP
+                              Exp (40)
+                                Exp (40)
+                                  Exp (40)
+                                    Exp (40)
+                                      ID: xs
+                                    DOT
+                                    ID: a
+                                  LB
+                                  Exp (40)
+                                    ID: i
+                                  RB
+                                LB
+                                Exp (40)
+                                  ID: j
+                                RB
+                            SEMI
+                      RC
+                StmtList (42)
+                  Stmt (42)
+                    RETURN
+                    Exp (42)
+                      Exp (42)
+                        Exp (42)
+                          Exp (42)
+                            ID: xs
+                          DOT
+                          ID: a
+                        LB
+                        Exp (42)
+                          INT: 2
+                        RB
+                      LB
+                      Exp (42)
+                        INT: 3
+                      RB
+                    SEMI
+            RC

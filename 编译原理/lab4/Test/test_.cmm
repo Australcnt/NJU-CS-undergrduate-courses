@@ -1,0 +1,18 @@
+int fact(int n)
+{
+    return n * 2;
+}
+
+int main()
+{
+    int m, result;
+    int a[4];
+    m = read();
+    a[0] = 1;
+    a[1] = fact(m);
+    a[2] = 100;
+    a[3] = a[1] + a[2];
+    result = a[1];
+    write(result);
+    return 0;
+}

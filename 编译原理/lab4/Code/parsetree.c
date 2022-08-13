@@ -98,7 +98,7 @@ void printAST(Node* cur, int depth) {
             case TOKEN_INT:   printf("%s: %d\n", cur->name, cur->val.val_int);     break;
             case TOKEN_ID:    printf("%s: %s\n", cur->name, cur->val.val_content); break;
             case TOKEN_OTHER: printf("%s\n", cur->name);                           break;
-            case NON_TERMINAL:   printf("%s (%d)\n", cur->name, cur->line);        break;                                   break;
+            case NON_TERMINAL:   printf("%s (%d)\n", cur->name, cur->line);        break;
             default: break;
         }
         if(cur->firstChild) {
